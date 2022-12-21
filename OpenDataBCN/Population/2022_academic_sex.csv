@@ -1,0 +1,877 @@
+﻿year;district_code;district_name;neighborhood_code;neighborhood_code2;Sex;academic_level;number
+2022;1;Ciutat Vella;1;el Raval;Women;Elementary / high school / FPI bachelor's degree;4530
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;Elementary / high school / FPI bachelor's degree;1503
+2022;1;Ciutat Vella;3;la Barceloneta;Women;Elementary / high school / FPI bachelor's degree;1487
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;Elementary / high school / FPI bachelor's degree;1658
+2022;2;Eixample;5;el Fort Pienc;Women;Elementary / high school / FPI bachelor's degree;2884
+2022;2;Eixample;6;la Sagrada Família;Women;Elementary / high school / FPI bachelor's degree;4718
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;Elementary / high school / FPI bachelor's degree;2543
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;Elementary / high school / FPI bachelor's degree;2901
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;Elementary / high school / FPI bachelor's degree;4561
+2022;2;Eixample;10;Sant Antoni;Women;Elementary / high school / FPI bachelor's degree;3462
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;Elementary / high school / FPI bachelor's degree;3872
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;Elementary / high school / FPI bachelor's degree;192
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;Elementary / high school / FPI bachelor's degree;3720
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;Elementary / high school / FPI bachelor's degree;1024
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;Elementary / high school / FPI bachelor's degree;1557
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;Elementary / high school / FPI bachelor's degree;2022
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;Elementary / high school / FPI bachelor's degree;2655
+2022;3;Sants-Montjuïc;18;Sants;Women;Elementary / high school / FPI bachelor's degree;4106
+2022;4;Les Corts;19;les Corts;Women;Elementary / high school / FPI bachelor's degree;3549
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;Elementary / high school / FPI bachelor's degree;1957
+2022;4;Les Corts;21;Pedralbes;Women;Elementary / high school / FPI bachelor's degree;707
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;Elementary / high school / FPI bachelor's degree;301
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;Elementary / high school / FPI bachelor's degree;1428
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;Elementary / high school / FPI bachelor's degree;808
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;Elementary / high school / FPI bachelor's degree;1495
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;Elementary / high school / FPI bachelor's degree;2575
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;Elementary / high school / FPI bachelor's degree;1823
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;Elementary / high school / FPI bachelor's degree;1296
+2022;6;Gràcia;29;el Coll;Women;Elementary / high school / FPI bachelor's degree;759
+2022;6;Gràcia;30;la Salut;Women;Elementary / high school / FPI bachelor's degree;1098
+2022;6;Gràcia;31;la Vila de Gràcia;Women;Elementary / high school / FPI bachelor's degree;3443
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;Elementary / high school / FPI bachelor's degree;2864
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;Elementary / high school / FPI bachelor's degree;2475
+2022;7;Horta-Guinardó;34;Can Baró;Women;Elementary / high school / FPI bachelor's degree;937
+2022;7;Horta-Guinardó;35;el Guinardó;Women;Elementary / high school / FPI bachelor's degree;3714
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;Elementary / high school / FPI bachelor's degree;907
+2022;7;Horta-Guinardó;37;el Carmel;Women;Elementary / high school / FPI bachelor's degree;4331
+2022;7;Horta-Guinardó;38;la Teixonera;Women;Elementary / high school / FPI bachelor's degree;1479
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;Elementary / high school / FPI bachelor's degree;864
+2022;7;Horta-Guinardó;40;Montbau;Women;Elementary / high school / FPI bachelor's degree;509
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;Elementary / high school / FPI bachelor's degree;588
+2022;7;Horta-Guinardó;42;la Clota;Women;Elementary / high school / FPI bachelor's degree;71
+2022;7;Horta-Guinardó;43;Horta;Women;Elementary / high school / FPI bachelor's degree;2988
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;Elementary / high school / FPI bachelor's degree;3026
+2022;8;Nou Barris;45;Porta;Women;Elementary / high school / FPI bachelor's degree;3385
+2022;8;Nou Barris;46;el Turó de la Peira;Women;Elementary / high school / FPI bachelor's degree;2081
+2022;8;Nou Barris;47;Can Peguera;Women;Elementary / high school / FPI bachelor's degree;316
+2022;8;Nou Barris;48;la Guineueta;Women;Elementary / high school / FPI bachelor's degree;1865
+2022;8;Nou Barris;49;Canyelles;Women;Elementary / high school / FPI bachelor's degree;1004
+2022;8;Nou Barris;50;les Roquetes;Women;Elementary / high school / FPI bachelor's degree;2273
+2022;8;Nou Barris;51;Verdun;Women;Elementary / high school / FPI bachelor's degree;1788
+2022;8;Nou Barris;52;la Prosperitat;Women;Elementary / high school / FPI bachelor's degree;3682
+2022;8;Nou Barris;53;la Trinitat Nova;Women;Elementary / high school / FPI bachelor's degree;1144
+2022;8;Nou Barris;54;Torre Baró;Women;Elementary / high school / FPI bachelor's degree;394
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;Elementary / high school / FPI bachelor's degree;1490
+2022;8;Nou Barris;56;Vallbona;Women;Elementary / high school / FPI bachelor's degree;194
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;Elementary / high school / FPI bachelor's degree;1297
+2022;9;Sant Andreu;58;Baró de Viver;Women;Elementary / high school / FPI bachelor's degree;385
+2022;9;Sant Andreu;59;el Bon Pastor;Women;Elementary / high school / FPI bachelor's degree;1722
+2022;9;Sant Andreu;60;Sant Andreu;Women;Elementary / high school / FPI bachelor's degree;6284
+2022;9;Sant Andreu;61;la Sagrera;Women;Elementary / high school / FPI bachelor's degree;3425
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;Elementary / high school / FPI bachelor's degree;1522
+2022;9;Sant Andreu;63;Navas;Women;Elementary / high school / FPI bachelor's degree;2464
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;Elementary / high school / FPI bachelor's degree;3924
+2022;10;Sant Martí;65;el Clot;Women;Elementary / high school / FPI bachelor's degree;2786
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;Elementary / high school / FPI bachelor's degree;1355
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;Elementary / high school / FPI bachelor's degree;509
+2022;10;Sant Martí;68;el Poblenou;Women;Elementary / high school / FPI bachelor's degree;2798
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;Elementary / high school / FPI bachelor's degree;977
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;Elementary / high school / FPI bachelor's degree;3235
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;Elementary / high school / FPI bachelor's degree;2300
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;Elementary / high school / FPI bachelor's degree;3158
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;Elementary / high school / FPI bachelor's degree;3863
+2022;1;Ciutat Vella;1;el Raval;Women;Upper secondary school ;3788
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;Upper secondary school ;1898
+2022;1;Ciutat Vella;3;la Barceloneta;Women;Upper secondary school ;1469
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;Upper secondary school ;2137
+2022;2;Eixample;5;el Fort Pienc;Women;Upper secondary school ;3821
+2022;2;Eixample;6;la Sagrada Família;Women;Upper secondary school ;6098
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;Upper secondary school ;4934
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;Upper secondary school ;4940
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;Upper secondary school ;6712
+2022;2;Eixample;10;Sant Antoni;Women;Upper secondary school ;4232
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;Upper secondary school ;3898
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;Upper secondary school ;98
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;Upper secondary school ;3216
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;Upper secondary school ;1154
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;Upper secondary school ;1715
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;Upper secondary school ;2153
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;Upper secondary school ;2717
+2022;3;Sants-Montjuïc;18;Sants;Women;Upper secondary school ;4703
+2022;4;Les Corts;19;les Corts;Women;Upper secondary school ;5564
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;Upper secondary school ;2838
+2022;4;Les Corts;21;Pedralbes;Women;Upper secondary school ;1466
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;Upper secondary school ;541
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;Upper secondary school ;2746
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;Upper secondary school ;1992
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;Upper secondary school ;3336
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;Upper secondary school ;6451
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;Upper secondary school ;3747
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;Upper secondary school ;1862
+2022;6;Gràcia;29;el Coll;Women;Upper secondary school ;930
+2022;6;Gràcia;30;la Salut;Women;Upper secondary school ;1514
+2022;6;Gràcia;31;la Vila de Gràcia;Women;Upper secondary school ;5316
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;Upper secondary school ;4138
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;Upper secondary school ;3094
+2022;7;Horta-Guinardó;34;Can Baró;Women;Upper secondary school ;1010
+2022;7;Horta-Guinardó;35;el Guinardó;Women;Upper secondary school ;4623
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;Upper secondary school ;1117
+2022;7;Horta-Guinardó;37;el Carmel;Women;Upper secondary school ;3399
+2022;7;Horta-Guinardó;38;la Teixonera;Women;Upper secondary school ;1291
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;Upper secondary school ;915
+2022;7;Horta-Guinardó;40;Montbau;Women;Upper secondary school ;621
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;Upper secondary school ;689
+2022;7;Horta-Guinardó;42;la Clota;Women;Upper secondary school ;61
+2022;7;Horta-Guinardó;43;Horta;Women;Upper secondary school ;3295
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;Upper secondary school ;3068
+2022;8;Nou Barris;45;Porta;Women;Upper secondary school ;3180
+2022;8;Nou Barris;46;el Turó de la Peira;Women;Upper secondary school ;1796
+2022;8;Nou Barris;47;Can Peguera;Women;Upper secondary school ;188
+2022;8;Nou Barris;48;la Guineueta;Women;Upper secondary school ;1750
+2022;8;Nou Barris;49;Canyelles;Women;Upper secondary school ;598
+2022;8;Nou Barris;50;les Roquetes;Women;Upper secondary school ;1459
+2022;8;Nou Barris;51;Verdun;Women;Upper secondary school ;1353
+2022;8;Nou Barris;52;la Prosperitat;Women;Upper secondary school ;2789
+2022;8;Nou Barris;53;la Trinitat Nova;Women;Upper secondary school ;656
+2022;8;Nou Barris;54;Torre Baró;Women;Upper secondary school ;212
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;Upper secondary school ;857
+2022;8;Nou Barris;56;Vallbona;Women;Upper secondary school ;83
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;Upper secondary school ;855
+2022;9;Sant Andreu;58;Baró de Viver;Women;Upper secondary school ;198
+2022;9;Sant Andreu;59;el Bon Pastor;Women;Upper secondary school ;1275
+2022;9;Sant Andreu;60;Sant Andreu;Women;Upper secondary school ;6657
+2022;9;Sant Andreu;61;la Sagrera;Women;Upper secondary school ;3501
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;Upper secondary school ;1731
+2022;9;Sant Andreu;63;Navas;Women;Upper secondary school ;2715
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;Upper secondary school ;4444
+2022;10;Sant Martí;65;el Clot;Women;Upper secondary school ;3030
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;Upper secondary school ;1743
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;Upper secondary school ;937
+2022;10;Sant Martí;68;el Poblenou;Women;Upper secondary school ;3554
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;Upper secondary school ;1281
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;Upper secondary school ;2252
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;Upper secondary school ;2216
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;Upper secondary school ;2907
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;Upper secondary school ;3004
+2022;1;Ciutat Vella;1;el Raval;Women;Primary studies / school certificate;4225
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;Primary studies / school certificate;1046
+2022;1;Ciutat Vella;3;la Barceloneta;Women;Primary studies / school certificate;1214
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;Primary studies / school certificate;1416
+2022;2;Eixample;5;el Fort Pienc;Women;Primary studies / school certificate;1830
+2022;2;Eixample;6;la Sagrada Família;Women;Primary studies / school certificate;3235
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;Primary studies / school certificate;1578
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;Primary studies / school certificate;1711
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;Primary studies / school certificate;2987
+2022;2;Eixample;10;Sant Antoni;Women;Primary studies / school certificate;2531
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;Primary studies / school certificate;3441
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;Primary studies / school certificate;209
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;Primary studies / school certificate;3595
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;Primary studies / school certificate;838
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;Primary studies / school certificate;1238
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;Primary studies / school certificate;1732
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;Primary studies / school certificate;2287
+2022;3;Sants-Montjuïc;18;Sants;Women;Primary studies / school certificate;3113
+2022;4;Les Corts;19;les Corts;Women;Primary studies / school certificate;2314
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;Primary studies / school certificate;1505
+2022;4;Les Corts;21;Pedralbes;Women;Primary studies / school certificate;353
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;Primary studies / school certificate;183
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;Primary studies / school certificate;778
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;Primary studies / school certificate;350
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;Primary studies / school certificate;676
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;Primary studies / school certificate;1250
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;Primary studies / school certificate;812
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;Primary studies / school certificate;803
+2022;6;Gràcia;29;el Coll;Women;Primary studies / school certificate;529
+2022;6;Gràcia;30;la Salut;Women;Primary studies / school certificate;664
+2022;6;Gràcia;31;la Vila de Gràcia;Women;Primary studies / school certificate;2538
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;Primary studies / school certificate;1872
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;Primary studies / school certificate;1793
+2022;7;Horta-Guinardó;34;Can Baró;Women;Primary studies / school certificate;698
+2022;7;Horta-Guinardó;35;el Guinardó;Women;Primary studies / school certificate;2493
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;Primary studies / school certificate;597
+2022;7;Horta-Guinardó;37;el Carmel;Women;Primary studies / school certificate;3596
+2022;7;Horta-Guinardó;38;la Teixonera;Women;Primary studies / school certificate;1220
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;Primary studies / school certificate;665
+2022;7;Horta-Guinardó;40;Montbau;Women;Primary studies / school certificate;394
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;Primary studies / school certificate;467
+2022;7;Horta-Guinardó;42;la Clota;Women;Primary studies / school certificate;39
+2022;7;Horta-Guinardó;43;Horta;Women;Primary studies / school certificate;2504
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;Primary studies / school certificate;2363
+2022;8;Nou Barris;45;Porta;Women;Primary studies / school certificate;2934
+2022;8;Nou Barris;46;el Turó de la Peira;Women;Primary studies / school certificate;1753
+2022;8;Nou Barris;47;Can Peguera;Women;Primary studies / school certificate;315
+2022;8;Nou Barris;48;la Guineueta;Women;Primary studies / school certificate;1618
+2022;8;Nou Barris;49;Canyelles;Women;Primary studies / school certificate;907
+2022;8;Nou Barris;50;les Roquetes;Women;Primary studies / school certificate;2087
+2022;8;Nou Barris;51;Verdun;Women;Primary studies / school certificate;1557
+2022;8;Nou Barris;52;la Prosperitat;Women;Primary studies / school certificate;3226
+2022;8;Nou Barris;53;la Trinitat Nova;Women;Primary studies / school certificate;954
+2022;8;Nou Barris;54;Torre Baró;Women;Primary studies / school certificate;389
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;Primary studies / school certificate;1561
+2022;8;Nou Barris;56;Vallbona;Women;Primary studies / school certificate;201
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;Primary studies / school certificate;1272
+2022;9;Sant Andreu;58;Baró de Viver;Women;Primary studies / school certificate;375
+2022;9;Sant Andreu;59;el Bon Pastor;Women;Primary studies / school certificate;1467
+2022;9;Sant Andreu;60;Sant Andreu;Women;Primary studies / school certificate;4644
+2022;9;Sant Andreu;61;la Sagrera;Women;Primary studies / school certificate;2498
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;Primary studies / school certificate;1069
+2022;9;Sant Andreu;63;Navas;Women;Primary studies / school certificate;1762
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;Primary studies / school certificate;2767
+2022;10;Sant Martí;65;el Clot;Women;Primary studies / school certificate;2017
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;Primary studies / school certificate;1034
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;Primary studies / school certificate;240
+2022;10;Sant Martí;68;el Poblenou;Women;Primary studies / school certificate;2087
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;Primary studies / school certificate;727
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;Primary studies / school certificate;2822
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;Primary studies / school certificate;1713
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;Primary studies / school certificate;2691
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;Primary studies / school certificate;3418
+2022;1;Ciutat Vella;1;el Raval;Women;University studies;5604
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;University studies;3399
+2022;1;Ciutat Vella;3;la Barceloneta;Women;University studies;2272
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;University studies;4762
+2022;2;Eixample;5;el Fort Pienc;Women;University studies;6773
+2022;2;Eixample;6;la Sagrada Família;Women;University studies;10452
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;University studies;11551
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;University studies;10422
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;University studies;12667
+2022;2;Eixample;10;Sant Antoni;Women;University studies;7366
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;University studies;5881
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;University studies;101
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;University studies;2625
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;University studies;1659
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;University studies;2658
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;University studies;2687
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;University studies;3528
+2022;3;Sants-Montjuïc;18;Sants;Women;University studies;7350
+2022;4;Les Corts;19;les Corts;Women;University studies;9742
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;University studies;4547
+2022;4;Les Corts;21;Pedralbes;Women;University studies;2677
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;University studies;936
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;University studies;5764
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;University studies;3888
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;University studies;6105
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;University studies;11726
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;University studies;7362
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;University studies;3293
+2022;6;Gràcia;29;el Coll;Women;University studies;1275
+2022;6;Gràcia;30;la Salut;Women;University studies;2881
+2022;6;Gràcia;31;la Vila de Gràcia;Women;University studies;12355
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;University studies;7620
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;University studies;4552
+2022;7;Horta-Guinardó;34;Can Baró;Women;University studies;1460
+2022;7;Horta-Guinardó;35;el Guinardó;Women;University studies;6103
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;University studies;1571
+2022;7;Horta-Guinardó;37;el Carmel;Women;University studies;2600
+2022;7;Horta-Guinardó;38;la Teixonera;Women;University studies;1221
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;University studies;797
+2022;7;Horta-Guinardó;40;Montbau;Women;University studies;767
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;University studies;944
+2022;7;Horta-Guinardó;42;la Clota;Women;University studies;94
+2022;7;Horta-Guinardó;43;Horta;Women;University studies;3627
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;University studies;3327
+2022;8;Nou Barris;45;Porta;Women;University studies;2635
+2022;8;Nou Barris;46;el Turó de la Peira;Women;University studies;1362
+2022;8;Nou Barris;47;Can Peguera;Women;University studies;121
+2022;8;Nou Barris;48;la Guineueta;Women;University studies;1549
+2022;8;Nou Barris;49;Canyelles;Women;University studies;525
+2022;8;Nou Barris;50;les Roquetes;Women;University studies;856
+2022;8;Nou Barris;51;Verdun;Women;University studies;873
+2022;8;Nou Barris;52;la Prosperitat;Women;University studies;1912
+2022;8;Nou Barris;53;la Trinitat Nova;Women;University studies;360
+2022;8;Nou Barris;54;Torre Baró;Women;University studies;126
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;University studies;405
+2022;8;Nou Barris;56;Vallbona;Women;University studies;72
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;University studies;549
+2022;9;Sant Andreu;58;Baró de Viver;Women;University studies;99
+2022;9;Sant Andreu;59;el Bon Pastor;Women;University studies;968
+2022;9;Sant Andreu;60;Sant Andreu;Women;University studies;7958
+2022;9;Sant Andreu;61;la Sagrera;Women;University studies;4002
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;University studies;2111
+2022;9;Sant Andreu;63;Navas;Women;University studies;3173
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;University studies;6528
+2022;10;Sant Martí;65;el Clot;Women;University studies;4051
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;University studies;2870
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;University studies;2325
+2022;10;Sant Martí;68;el Poblenou;Women;University studies;6038
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;University studies;2535
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;University studies;1691
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;University studies;2885
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;University studies;2920
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;University studies;2393
+2022;1;Ciutat Vella;1;el Raval;Women;No record;238
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;No record;72
+2022;1;Ciutat Vella;3;la Barceloneta;Women;No record;53
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;No record;90
+2022;2;Eixample;5;el Fort Pienc;Women;No record;140
+2022;2;Eixample;6;la Sagrada Família;Women;No record;218
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;No record;236
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;No record;191
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;No record;229
+2022;2;Eixample;10;Sant Antoni;Women;No record;134
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;No record;226
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;No record;12
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;No record;275
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;No record;55
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;No record;97
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;No record;119
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;No record;112
+2022;3;Sants-Montjuïc;18;Sants;Women;No record;172
+2022;4;Les Corts;19;les Corts;Women;No record;226
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;No record;113
+2022;4;Les Corts;21;Pedralbes;Women;No record;115
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;No record;46
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;No record;211
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;No record;129
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;No record;215
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;No record;361
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;No record;184
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;No record;88
+2022;6;Gràcia;29;el Coll;Women;No record;38
+2022;6;Gràcia;30;la Salut;Women;No record;59
+2022;6;Gràcia;31;la Vila de Gràcia;Women;No record;239
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;No record;168
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;No record;129
+2022;7;Horta-Guinardó;34;Can Baró;Women;No record;40
+2022;7;Horta-Guinardó;35;el Guinardó;Women;No record;179
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;No record;66
+2022;7;Horta-Guinardó;37;el Carmel;Women;No record;200
+2022;7;Horta-Guinardó;38;la Teixonera;Women;No record;80
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;No record;35
+2022;7;Horta-Guinardó;40;Montbau;Women;No record;33
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;No record;29
+2022;7;Horta-Guinardó;42;la Clota;Women;No record;1
+2022;7;Horta-Guinardó;43;Horta;Women;No record;160
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;No record;151
+2022;8;Nou Barris;45;Porta;Women;No record;126
+2022;8;Nou Barris;46;el Turó de la Peira;Women;No record;103
+2022;8;Nou Barris;47;Can Peguera;Women;No record;19
+2022;8;Nou Barris;48;la Guineueta;Women;No record;92
+2022;8;Nou Barris;49;Canyelles;Women;No record;47
+2022;8;Nou Barris;50;les Roquetes;Women;No record;123
+2022;8;Nou Barris;51;Verdun;Women;No record;85
+2022;8;Nou Barris;52;la Prosperitat;Women;No record;137
+2022;8;Nou Barris;53;la Trinitat Nova;Women;No record;62
+2022;8;Nou Barris;54;Torre Baró;Women;No record;30
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;No record;90
+2022;8;Nou Barris;56;Vallbona;Women;No record;16
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;No record;97
+2022;9;Sant Andreu;58;Baró de Viver;Women;No record;23
+2022;9;Sant Andreu;59;el Bon Pastor;Women;No record;119
+2022;9;Sant Andreu;60;Sant Andreu;Women;No record;346
+2022;9;Sant Andreu;61;la Sagrera;Women;No record;111
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;No record;70
+2022;9;Sant Andreu;63;Navas;Women;No record;98
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;No record;169
+2022;10;Sant Martí;65;el Clot;Women;No record;146
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;No record;83
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;No record;85
+2022;10;Sant Martí;68;el Poblenou;Women;No record;248
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;No record;96
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;No record;164
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;No record;120
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;No record;134
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;No record;178
+2022;1;Ciutat Vella;1;el Raval;Women;No studies;329
+2022;1;Ciutat Vella;2;el Barri Gòtic;Women;No studies;113
+2022;1;Ciutat Vella;3;la Barceloneta;Women;No studies;189
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Women;No studies;167
+2022;2;Eixample;5;el Fort Pienc;Women;No studies;208
+2022;2;Eixample;6;la Sagrada Família;Women;No studies;394
+2022;2;Eixample;7;la Dreta de l'Eixample;Women;No studies;184
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Women;No studies;198
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Women;No studies;324
+2022;2;Eixample;10;Sant Antoni;Women;No studies;341
+2022;3;Sants-Montjuïc;11;el Poble Sec;Women;No studies;405
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Women;No studies;23
+2022;3;Sants-Montjuïc;13;la Marina de Port;Women;No studies;441
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Women;No studies;119
+2022;3;Sants-Montjuïc;15;Hostafrancs;Women;No studies;146
+2022;3;Sants-Montjuïc;16;la Bordeta;Women;No studies;230
+2022;3;Sants-Montjuïc;17;Sants - Badal;Women;No studies;293
+2022;3;Sants-Montjuïc;18;Sants;Women;No studies;423
+2022;4;Les Corts;19;les Corts;Women;No studies;272
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Women;No studies;233
+2022;4;Les Corts;21;Pedralbes;Women;No studies;20
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Women;No studies;26
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Women;No studies;103
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Women;No studies;27
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Women;No studies;77
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Women;No studies;99
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Women;No studies;90
+2022;6;Gràcia;28;Vallcarca i els Penitents;Women;No studies;136
+2022;6;Gràcia;29;el Coll;Women;No studies;76
+2022;6;Gràcia;30;la Salut;Women;No studies;86
+2022;6;Gràcia;31;la Vila de Gràcia;Women;No studies;381
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Women;No studies;249
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Women;No studies;325
+2022;7;Horta-Guinardó;34;Can Baró;Women;No studies;132
+2022;7;Horta-Guinardó;35;el Guinardó;Women;No studies;345
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Women;No studies;74
+2022;7;Horta-Guinardó;37;el Carmel;Women;No studies;637
+2022;7;Horta-Guinardó;38;la Teixonera;Women;No studies;195
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Women;No studies;132
+2022;7;Horta-Guinardó;40;Montbau;Women;No studies;130
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Women;No studies;79
+2022;7;Horta-Guinardó;42;la Clota;Women;No studies;8
+2022;7;Horta-Guinardó;43;Horta;Women;No studies;449
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Women;No studies;388
+2022;8;Nou Barris;45;Porta;Women;No studies;451
+2022;8;Nou Barris;46;el Turó de la Peira;Women;No studies;341
+2022;8;Nou Barris;47;Can Peguera;Women;No studies;53
+2022;8;Nou Barris;48;la Guineueta;Women;No studies;284
+2022;8;Nou Barris;49;Canyelles;Women;No studies;127
+2022;8;Nou Barris;50;les Roquetes;Women;No studies;290
+2022;8;Nou Barris;51;Verdun;Women;No studies;244
+2022;8;Nou Barris;52;la Prosperitat;Women;No studies;615
+2022;8;Nou Barris;53;la Trinitat Nova;Women;No studies;168
+2022;8;Nou Barris;54;Torre Baró;Women;No studies;38
+2022;8;Nou Barris;55;Ciutat Meridiana;Women;No studies;147
+2022;8;Nou Barris;56;Vallbona;Women;No studies;30
+2022;9;Sant Andreu;57;la Trinitat Vella;Women;No studies;128
+2022;9;Sant Andreu;58;Baró de Viver;Women;No studies;45
+2022;9;Sant Andreu;59;el Bon Pastor;Women;No studies;154
+2022;9;Sant Andreu;60;Sant Andreu;Women;No studies;563
+2022;9;Sant Andreu;61;la Sagrera;Women;No studies;315
+2022;9;Sant Andreu;62;el Congrés i els Indians;Women;No studies;188
+2022;9;Sant Andreu;63;Navas;Women;No studies;218
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Women;No studies;366
+2022;10;Sant Martí;65;el Clot;Women;No studies;247
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Women;No studies;151
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Women;No studies;26
+2022;10;Sant Martí;68;el Poblenou;Women;No studies;280
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Women;No studies;102
+2022;10;Sant Martí;70;el Besòs i el Maresme;Women;No studies;443
+2022;10;Sant Martí;71;Provençals del Poblenou;Women;No studies;248
+2022;10;Sant Martí;72;Sant Martí de Provençals;Women;No studies;376
+2022;10;Sant Martí;73;la Verneda i la Pau;Women;No studies;535
+2022;1;Ciutat Vella;1;el Raval;Men;Elementary / high school / FPI bachelor's degree;5890
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;Elementary / high school / FPI bachelor's degree;3734
+2022;1;Ciutat Vella;3;la Barceloneta;Men;Elementary / high school / FPI bachelor's degree;1742
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;Elementary / high school / FPI bachelor's degree;1924
+2022;2;Eixample;5;el Fort Pienc;Men;Elementary / high school / FPI bachelor's degree;2681
+2022;2;Eixample;6;la Sagrada Família;Men;Elementary / high school / FPI bachelor's degree;4054
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;Elementary / high school / FPI bachelor's degree;2283
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;Elementary / high school / FPI bachelor's degree;2426
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;Elementary / high school / FPI bachelor's degree;3897
+2022;2;Eixample;10;Sant Antoni;Men;Elementary / high school / FPI bachelor's degree;3161
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;Elementary / high school / FPI bachelor's degree;4342
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;Elementary / high school / FPI bachelor's degree;245
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;Elementary / high school / FPI bachelor's degree;3885
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;Elementary / high school / FPI bachelor's degree;1084
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;Elementary / high school / FPI bachelor's degree;1556
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;Elementary / high school / FPI bachelor's degree;2068
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;Elementary / high school / FPI bachelor's degree;2436
+2022;3;Sants-Montjuïc;18;Sants;Men;Elementary / high school / FPI bachelor's degree;4279
+2022;4;Les Corts;19;les Corts;Men;Elementary / high school / FPI bachelor's degree;2744
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;Elementary / high school / FPI bachelor's degree;1694
+2022;4;Les Corts;21;Pedralbes;Men;Elementary / high school / FPI bachelor's degree;444
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;Elementary / high school / FPI bachelor's degree;342
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;Elementary / high school / FPI bachelor's degree;1107
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;Elementary / high school / FPI bachelor's degree;564
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;Elementary / high school / FPI bachelor's degree;1106
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;Elementary / high school / FPI bachelor's degree;1794
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;Elementary / high school / FPI bachelor's degree;1412
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;Elementary / high school / FPI bachelor's degree;1147
+2022;6;Gràcia;29;el Coll;Men;Elementary / high school / FPI bachelor's degree;707
+2022;6;Gràcia;30;la Salut;Men;Elementary / high school / FPI bachelor's degree;905
+2022;6;Gràcia;31;la Vila de Gràcia;Men;Elementary / high school / FPI bachelor's degree;3200
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;Elementary / high school / FPI bachelor's degree;2565
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;Elementary / high school / FPI bachelor's degree;2294
+2022;7;Horta-Guinardó;34;Can Baró;Men;Elementary / high school / FPI bachelor's degree;966
+2022;7;Horta-Guinardó;35;el Guinardó;Men;Elementary / high school / FPI bachelor's degree;3464
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;Elementary / high school / FPI bachelor's degree;876
+2022;7;Horta-Guinardó;37;el Carmel;Men;Elementary / high school / FPI bachelor's degree;4585
+2022;7;Horta-Guinardó;38;la Teixonera;Men;Elementary / high school / FPI bachelor's degree;1609
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;Elementary / high school / FPI bachelor's degree;873
+2022;7;Horta-Guinardó;40;Montbau;Men;Elementary / high school / FPI bachelor's degree;532
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;Elementary / high school / FPI bachelor's degree;558
+2022;7;Horta-Guinardó;42;la Clota;Men;Elementary / high school / FPI bachelor's degree;88
+2022;7;Horta-Guinardó;43;Horta;Men;Elementary / high school / FPI bachelor's degree;3067
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;Elementary / high school / FPI bachelor's degree;2831
+2022;8;Nou Barris;45;Porta;Men;Elementary / high school / FPI bachelor's degree;3546
+2022;8;Nou Barris;46;el Turó de la Peira;Men;Elementary / high school / FPI bachelor's degree;2026
+2022;8;Nou Barris;47;Can Peguera;Men;Elementary / high school / FPI bachelor's degree;339
+2022;8;Nou Barris;48;la Guineueta;Men;Elementary / high school / FPI bachelor's degree;1850
+2022;8;Nou Barris;49;Canyelles;Men;Elementary / high school / FPI bachelor's degree;1005
+2022;8;Nou Barris;50;les Roquetes;Men;Elementary / high school / FPI bachelor's degree;2402
+2022;8;Nou Barris;51;Verdun;Men;Elementary / high school / FPI bachelor's degree;1777
+2022;8;Nou Barris;52;la Prosperitat;Men;Elementary / high school / FPI bachelor's degree;3731
+2022;8;Nou Barris;53;la Trinitat Nova;Men;Elementary / high school / FPI bachelor's degree;1187
+2022;8;Nou Barris;54;Torre Baró;Men;Elementary / high school / FPI bachelor's degree;428
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;Elementary / high school / FPI bachelor's degree;1633
+2022;8;Nou Barris;56;Vallbona;Men;Elementary / high school / FPI bachelor's degree;229
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;Elementary / high school / FPI bachelor's degree;1550
+2022;9;Sant Andreu;58;Baró de Viver;Men;Elementary / high school / FPI bachelor's degree;419
+2022;9;Sant Andreu;59;el Bon Pastor;Men;Elementary / high school / FPI bachelor's degree;2036
+2022;9;Sant Andreu;60;Sant Andreu;Men;Elementary / high school / FPI bachelor's degree;6054
+2022;9;Sant Andreu;61;la Sagrera;Men;Elementary / high school / FPI bachelor's degree;3123
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;Elementary / high school / FPI bachelor's degree;1545
+2022;9;Sant Andreu;63;Navas;Men;Elementary / high school / FPI bachelor's degree;2219
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;Elementary / high school / FPI bachelor's degree;3598
+2022;10;Sant Martí;65;el Clot;Men;Elementary / high school / FPI bachelor's degree;2754
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;Elementary / high school / FPI bachelor's degree;1388
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;Elementary / high school / FPI bachelor's degree;482
+2022;10;Sant Martí;68;el Poblenou;Men;Elementary / high school / FPI bachelor's degree;3018
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;Elementary / high school / FPI bachelor's degree;1063
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;Elementary / high school / FPI bachelor's degree;4054
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;Elementary / high school / FPI bachelor's degree;2412
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;Elementary / high school / FPI bachelor's degree;3181
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;Elementary / high school / FPI bachelor's degree;3909
+2022;1;Ciutat Vella;1;el Raval;Men;Upper secondary school ;4266
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;Upper secondary school ;2628
+2022;1;Ciutat Vella;3;la Barceloneta;Men;Upper secondary school ;1574
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;Upper secondary school ;2438
+2022;2;Eixample;5;el Fort Pienc;Men;Upper secondary school ;4027
+2022;2;Eixample;6;la Sagrada Família;Men;Upper secondary school ;6077
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;Upper secondary school ;4620
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;Upper secondary school ;4869
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;Upper secondary school ;6594
+2022;2;Eixample;10;Sant Antoni;Men;Upper secondary school ;4483
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;Upper secondary school ;4325
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;Upper secondary school ;104
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;Upper secondary school ;3335
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;Upper secondary school ;1246
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;Upper secondary school ;1788
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;Upper secondary school ;2327
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;Upper secondary school ;2847
+2022;3;Sants-Montjuïc;18;Sants;Men;Upper secondary school ;5001
+2022;4;Les Corts;19;les Corts;Men;Upper secondary school ;5278
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;Upper secondary school ;2726
+2022;4;Les Corts;21;Pedralbes;Men;Upper secondary school ;1142
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;Upper secondary school ;514
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;Upper secondary school ;2408
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;Upper secondary school ;1627
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;Upper secondary school ;2659
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;Upper secondary school ;4741
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;Upper secondary school ;3242
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;Upper secondary school ;1882
+2022;6;Gràcia;29;el Coll;Men;Upper secondary school ;891
+2022;6;Gràcia;30;la Salut;Men;Upper secondary school ;1585
+2022;6;Gràcia;31;la Vila de Gràcia;Men;Upper secondary school ;5338
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;Upper secondary school ;4118
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;Upper secondary school ;3288
+2022;7;Horta-Guinardó;34;Can Baró;Men;Upper secondary school ;1126
+2022;7;Horta-Guinardó;35;el Guinardó;Men;Upper secondary school ;4738
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;Upper secondary school ;1189
+2022;7;Horta-Guinardó;37;el Carmel;Men;Upper secondary school ;3303
+2022;7;Horta-Guinardó;38;la Teixonera;Men;Upper secondary school ;1324
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;Upper secondary school ;796
+2022;7;Horta-Guinardó;40;Montbau;Men;Upper secondary school ;598
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;Upper secondary school ;748
+2022;7;Horta-Guinardó;42;la Clota;Men;Upper secondary school ;67
+2022;7;Horta-Guinardó;43;Horta;Men;Upper secondary school ;3393
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;Upper secondary school ;3145
+2022;8;Nou Barris;45;Porta;Men;Upper secondary school ;3142
+2022;8;Nou Barris;46;el Turó de la Peira;Men;Upper secondary school ;1712
+2022;8;Nou Barris;47;Can Peguera;Men;Upper secondary school ;165
+2022;8;Nou Barris;48;la Guineueta;Men;Upper secondary school ;1782
+2022;8;Nou Barris;49;Canyelles;Men;Upper secondary school ;662
+2022;8;Nou Barris;50;les Roquetes;Men;Upper secondary school ;1358
+2022;8;Nou Barris;51;Verdun;Men;Upper secondary school ;1160
+2022;8;Nou Barris;52;la Prosperitat;Men;Upper secondary school ;2707
+2022;8;Nou Barris;53;la Trinitat Nova;Men;Upper secondary school ;641
+2022;8;Nou Barris;54;Torre Baró;Men;Upper secondary school ;202
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;Upper secondary school ;810
+2022;8;Nou Barris;56;Vallbona;Men;Upper secondary school ;86
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;Upper secondary school ;921
+2022;9;Sant Andreu;58;Baró de Viver;Men;Upper secondary school ;188
+2022;9;Sant Andreu;59;el Bon Pastor;Men;Upper secondary school ;1328
+2022;9;Sant Andreu;60;Sant Andreu;Men;Upper secondary school ;7317
+2022;9;Sant Andreu;61;la Sagrera;Men;Upper secondary school ;3741
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;Upper secondary school ;1841
+2022;9;Sant Andreu;63;Navas;Men;Upper secondary school ;2822
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;Upper secondary school ;4852
+2022;10;Sant Martí;65;el Clot;Men;Upper secondary school ;3364
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;Upper secondary school ;1795
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;Upper secondary school ;1006
+2022;10;Sant Martí;68;el Poblenou;Men;Upper secondary school ;3798
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;Upper secondary school ;1383
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;Upper secondary school ;2396
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;Upper secondary school ;2352
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;Upper secondary school ;3039
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;Upper secondary school ;3164
+2022;1;Ciutat Vella;1;el Raval;Men;Primary studies / school certificate;5443
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;Primary studies / school certificate;3327
+2022;1;Ciutat Vella;3;la Barceloneta;Men;Primary studies / school certificate;1211
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;Primary studies / school certificate;1345
+2022;2;Eixample;5;el Fort Pienc;Men;Primary studies / school certificate;1434
+2022;2;Eixample;6;la Sagrada Família;Men;Primary studies / school certificate;1994
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;Primary studies / school certificate;949
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;Primary studies / school certificate;1003
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;Primary studies / school certificate;1755
+2022;2;Eixample;10;Sant Antoni;Men;Primary studies / school certificate;1668
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;Primary studies / school certificate;3076
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;Primary studies / school certificate;209
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;Primary studies / school certificate;2894
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;Primary studies / school certificate;736
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;Primary studies / school certificate;987
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;Primary studies / school certificate;1249
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;Primary studies / school certificate;1615
+2022;3;Sants-Montjuïc;18;Sants;Men;Primary studies / school certificate;2623
+2022;4;Les Corts;19;les Corts;Men;Primary studies / school certificate;1348
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;Primary studies / school certificate;903
+2022;4;Les Corts;21;Pedralbes;Men;Primary studies / school certificate;148
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;Primary studies / school certificate;177
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;Primary studies / school certificate;503
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;Primary studies / school certificate;206
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;Primary studies / school certificate;394
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;Primary studies / school certificate;590
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;Primary studies / school certificate;462
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;Primary studies / school certificate;497
+2022;6;Gràcia;29;el Coll;Men;Primary studies / school certificate;367
+2022;6;Gràcia;30;la Salut;Men;Primary studies / school certificate;445
+2022;6;Gràcia;31;la Vila de Gràcia;Men;Primary studies / school certificate;1649
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;Primary studies / school certificate;1144
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;Primary studies / school certificate;981
+2022;7;Horta-Guinardó;34;Can Baró;Men;Primary studies / school certificate;568
+2022;7;Horta-Guinardó;35;el Guinardó;Men;Primary studies / school certificate;1708
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;Primary studies / school certificate;369
+2022;7;Horta-Guinardó;37;el Carmel;Men;Primary studies / school certificate;2933
+2022;7;Horta-Guinardó;38;la Teixonera;Men;Primary studies / school certificate;942
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;Primary studies / school certificate;520
+2022;7;Horta-Guinardó;40;Montbau;Men;Primary studies / school certificate;254
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;Primary studies / school certificate;308
+2022;7;Horta-Guinardó;42;la Clota;Men;Primary studies / school certificate;47
+2022;7;Horta-Guinardó;43;Horta;Men;Primary studies / school certificate;1966
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;Primary studies / school certificate;1643
+2022;8;Nou Barris;45;Porta;Men;Primary studies / school certificate;2341
+2022;8;Nou Barris;46;el Turó de la Peira;Men;Primary studies / school certificate;1281
+2022;8;Nou Barris;47;Can Peguera;Men;Primary studies / school certificate;254
+2022;8;Nou Barris;48;la Guineueta;Men;Primary studies / school certificate;1034
+2022;8;Nou Barris;49;Canyelles;Men;Primary studies / school certificate;720
+2022;8;Nou Barris;50;les Roquetes;Men;Primary studies / school certificate;1851
+2022;8;Nou Barris;51;Verdun;Men;Primary studies / school certificate;1202
+2022;8;Nou Barris;52;la Prosperitat;Men;Primary studies / school certificate;2497
+2022;8;Nou Barris;53;la Trinitat Nova;Men;Primary studies / school certificate;857
+2022;8;Nou Barris;54;Torre Baró;Men;Primary studies / school certificate;393
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;Primary studies / school certificate;1381
+2022;8;Nou Barris;56;Vallbona;Men;Primary studies / school certificate;182
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;Primary studies / school certificate;1328
+2022;9;Sant Andreu;58;Baró de Viver;Men;Primary studies / school certificate;334
+2022;9;Sant Andreu;59;el Bon Pastor;Men;Primary studies / school certificate;1345
+2022;9;Sant Andreu;60;Sant Andreu;Men;Primary studies / school certificate;3418
+2022;9;Sant Andreu;61;la Sagrera;Men;Primary studies / school certificate;1758
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;Primary studies / school certificate;718
+2022;9;Sant Andreu;63;Navas;Men;Primary studies / school certificate;1103
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;Primary studies / school certificate;1886
+2022;10;Sant Martí;65;el Clot;Men;Primary studies / school certificate;1414
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;Primary studies / school certificate;751
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;Primary studies / school certificate;214
+2022;10;Sant Martí;68;el Poblenou;Men;Primary studies / school certificate;1557
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;Primary studies / school certificate;527
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;Primary studies / school certificate;3607
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;Primary studies / school certificate;1308
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;Primary studies / school certificate;1875
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;Primary studies / school certificate;2630
+2022;1;Ciutat Vella;1;el Raval;Men;University studies;5416
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;University studies;3253
+2022;1;Ciutat Vella;3;la Barceloneta;Men;University studies;1909
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;University studies;4208
+2022;2;Eixample;5;el Fort Pienc;Men;University studies;5668
+2022;2;Eixample;6;la Sagrada Família;Men;University studies;8486
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;University studies;10019
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;University studies;9133
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;University studies;11051
+2022;2;Eixample;10;Sant Antoni;Men;University studies;6495
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;University studies;4850
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;University studies;64
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;University studies;2004
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;University studies;1336
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;University studies;2209
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;University studies;2085
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;University studies;2715
+2022;3;Sants-Montjuïc;18;Sants;Men;University studies;5836
+2022;4;Les Corts;19;les Corts;Men;University studies;8453
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;University studies;3938
+2022;4;Les Corts;21;Pedralbes;Men;University studies;2631
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;University studies;808
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;University studies;4934
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;University studies;3510
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;University studies;5231
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;University studies;10320
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;University studies;6113
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;University studies;2716
+2022;6;Gràcia;29;el Coll;Men;University studies;960
+2022;6;Gràcia;30;la Salut;Men;University studies;2203
+2022;6;Gràcia;31;la Vila de Gràcia;Men;University studies;9256
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;University studies;5991
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;University studies;3520
+2022;7;Horta-Guinardó;34;Can Baró;Men;University studies;1046
+2022;7;Horta-Guinardó;35;el Guinardó;Men;University studies;4674
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;University studies;1322
+2022;7;Horta-Guinardó;37;el Carmel;Men;University studies;1770
+2022;7;Horta-Guinardó;38;la Teixonera;Men;University studies;855
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;University studies;568
+2022;7;Horta-Guinardó;40;Montbau;Men;University studies;515
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;University studies;700
+2022;7;Horta-Guinardó;42;la Clota;Men;University studies;71
+2022;7;Horta-Guinardó;43;Horta;Men;University studies;2459
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;University studies;2356
+2022;8;Nou Barris;45;Porta;Men;University studies;1829
+2022;8;Nou Barris;46;el Turó de la Peira;Men;University studies;967
+2022;8;Nou Barris;47;Can Peguera;Men;University studies;79
+2022;8;Nou Barris;48;la Guineueta;Men;University studies;1071
+2022;8;Nou Barris;49;Canyelles;Men;University studies;306
+2022;8;Nou Barris;50;les Roquetes;Men;University studies;586
+2022;8;Nou Barris;51;Verdun;Men;University studies;578
+2022;8;Nou Barris;52;la Prosperitat;Men;University studies;1237
+2022;8;Nou Barris;53;la Trinitat Nova;Men;University studies;236
+2022;8;Nou Barris;54;Torre Baró;Men;University studies;104
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;University studies;269
+2022;8;Nou Barris;56;Vallbona;Men;University studies;44
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;University studies;358
+2022;9;Sant Andreu;58;Baró de Viver;Men;University studies;70
+2022;9;Sant Andreu;59;el Bon Pastor;Men;University studies;691
+2022;9;Sant Andreu;60;Sant Andreu;Men;University studies;5795
+2022;9;Sant Andreu;61;la Sagrera;Men;University studies;2982
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;University studies;1532
+2022;9;Sant Andreu;63;Navas;Men;University studies;2539
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;University studies;5126
+2022;10;Sant Martí;65;el Clot;Men;University studies;3199
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;University studies;2574
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;University studies;2158
+2022;10;Sant Martí;68;el Poblenou;Men;University studies;5166
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;University studies;2152
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;University studies;1329
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;University studies;2273
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;University studies;2099
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;University studies;1691
+2022;1;Ciutat Vella;1;el Raval;Men;No record;320
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;No record;68
+2022;1;Ciutat Vella;3;la Barceloneta;Men;No record;64
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;No record;104
+2022;2;Eixample;5;el Fort Pienc;Men;No record;170
+2022;2;Eixample;6;la Sagrada Família;Men;No record;217
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;No record;227
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;No record;214
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;No record;299
+2022;2;Eixample;10;Sant Antoni;Men;No record;181
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;No record;215
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;No record;16
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;No record;245
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;No record;65
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;No record;81
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;No record;107
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;No record;143
+2022;3;Sants-Montjuïc;18;Sants;Men;No record;213
+2022;4;Les Corts;19;les Corts;Men;No record;251
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;No record;120
+2022;4;Les Corts;21;Pedralbes;Men;No record;107
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;No record;46
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;No record;238
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;No record;170
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;No record;202
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;No record;404
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;No record;192
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;No record;114
+2022;6;Gràcia;29;el Coll;Men;No record;40
+2022;6;Gràcia;30;la Salut;Men;No record;88
+2022;6;Gràcia;31;la Vila de Gràcia;Men;No record;263
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;No record;158
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;No record;132
+2022;7;Horta-Guinardó;34;Can Baró;Men;No record;57
+2022;7;Horta-Guinardó;35;el Guinardó;Men;No record;210
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;No record;66
+2022;7;Horta-Guinardó;37;el Carmel;Men;No record;257
+2022;7;Horta-Guinardó;38;la Teixonera;Men;No record;88
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;No record;71
+2022;7;Horta-Guinardó;40;Montbau;Men;No record;32
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;No record;32
+2022;7;Horta-Guinardó;42;la Clota;Men;No record;3
+2022;7;Horta-Guinardó;43;Horta;Men;No record;182
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;No record;167
+2022;8;Nou Barris;45;Porta;Men;No record;151
+2022;8;Nou Barris;46;el Turó de la Peira;Men;No record;100
+2022;8;Nou Barris;47;Can Peguera;Men;No record;24
+2022;8;Nou Barris;48;la Guineueta;Men;No record;111
+2022;8;Nou Barris;49;Canyelles;Men;No record;51
+2022;8;Nou Barris;50;les Roquetes;Men;No record;170
+2022;8;Nou Barris;51;Verdun;Men;No record;106
+2022;8;Nou Barris;52;la Prosperitat;Men;No record;171
+2022;8;Nou Barris;53;la Trinitat Nova;Men;No record;76
+2022;8;Nou Barris;54;Torre Baró;Men;No record;50
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;No record;98
+2022;8;Nou Barris;56;Vallbona;Men;No record;14
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;No record;102
+2022;9;Sant Andreu;58;Baró de Viver;Men;No record;25
+2022;9;Sant Andreu;59;el Bon Pastor;Men;No record;141
+2022;9;Sant Andreu;60;Sant Andreu;Men;No record;372
+2022;9;Sant Andreu;61;la Sagrera;Men;No record;153
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;No record;81
+2022;9;Sant Andreu;63;Navas;Men;No record;131
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;No record;162
+2022;10;Sant Martí;65;el Clot;Men;No record;146
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;No record;96
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;No record;93
+2022;10;Sant Martí;68;el Poblenou;Men;No record;275
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;No record;101
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;No record;205
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;No record;123
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;No record;190
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;No record;205
+2022;1;Ciutat Vella;1;el Raval;Men;No studies;142
+2022;1;Ciutat Vella;2;el Barri Gòtic;Men;No studies;79
+2022;1;Ciutat Vella;3;la Barceloneta;Men;No studies;69
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Men;No studies;49
+2022;2;Eixample;5;el Fort Pienc;Men;No studies;76
+2022;2;Eixample;6;la Sagrada Família;Men;No studies;118
+2022;2;Eixample;7;la Dreta de l'Eixample;Men;No studies;27
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;Men;No studies;59
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;Men;No studies;99
+2022;2;Eixample;10;Sant Antoni;Men;No studies;93
+2022;3;Sants-Montjuïc;11;el Poble Sec;Men;No studies;120
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;Men;No studies;8
+2022;3;Sants-Montjuïc;13;la Marina de Port;Men;No studies;176
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;Men;No studies;46
+2022;3;Sants-Montjuïc;15;Hostafrancs;Men;No studies;68
+2022;3;Sants-Montjuïc;16;la Bordeta;Men;No studies;77
+2022;3;Sants-Montjuïc;17;Sants - Badal;Men;No studies;118
+2022;3;Sants-Montjuïc;18;Sants;Men;No studies;136
+2022;4;Les Corts;19;les Corts;Men;No studies;85
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;Men;No studies;80
+2022;4;Les Corts;21;Pedralbes;Men;No studies;3
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Men;No studies;7
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;Men;No studies;22
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;Men;No studies;3
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Men;No studies;14
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Men;No studies;18
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;Men;No studies;23
+2022;6;Gràcia;28;Vallcarca i els Penitents;Men;No studies;44
+2022;6;Gràcia;29;el Coll;Men;No studies;26
+2022;6;Gràcia;30;la Salut;Men;No studies;27
+2022;6;Gràcia;31;la Vila de Gràcia;Men;No studies;89
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;Men;No studies;71
+2022;7;Horta-Guinardó;33;el Baix Guinardó;Men;No studies;102
+2022;7;Horta-Guinardó;34;Can Baró;Men;No studies;35
+2022;7;Horta-Guinardó;35;el Guinardó;Men;No studies;112
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;Men;No studies;29
+2022;7;Horta-Guinardó;37;el Carmel;Men;No studies;279
+2022;7;Horta-Guinardó;38;la Teixonera;Men;No studies;91
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;Men;No studies;59
+2022;7;Horta-Guinardó;40;Montbau;Men;No studies;41
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;Men;No studies;29
+2022;7;Horta-Guinardó;42;la Clota;Men;No studies;3
+2022;7;Horta-Guinardó;43;Horta;Men;No studies;181
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;Men;No studies;136
+2022;8;Nou Barris;45;Porta;Men;No studies;213
+2022;8;Nou Barris;46;el Turó de la Peira;Men;No studies;110
+2022;8;Nou Barris;47;Can Peguera;Men;No studies;11
+2022;8;Nou Barris;48;la Guineueta;Men;No studies;117
+2022;8;Nou Barris;49;Canyelles;Men;No studies;58
+2022;8;Nou Barris;50;les Roquetes;Men;No studies;118
+2022;8;Nou Barris;51;Verdun;Men;No studies;106
+2022;8;Nou Barris;52;la Prosperitat;Men;No studies;273
+2022;8;Nou Barris;53;la Trinitat Nova;Men;No studies;28
+2022;8;Nou Barris;54;Torre Baró;Men;No studies;22
+2022;8;Nou Barris;55;Ciutat Meridiana;Men;No studies;72
+2022;8;Nou Barris;56;Vallbona;Men;No studies;11
+2022;9;Sant Andreu;57;la Trinitat Vella;Men;No studies;69
+2022;9;Sant Andreu;58;Baró de Viver;Men;No studies;16
+2022;9;Sant Andreu;59;el Bon Pastor;Men;No studies;63
+2022;9;Sant Andreu;60;Sant Andreu;Men;No studies;209
+2022;9;Sant Andreu;61;la Sagrera;Men;No studies;119
+2022;9;Sant Andreu;62;el Congrés i els Indians;Men;No studies;52
+2022;9;Sant Andreu;63;Navas;Men;No studies;71
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;Men;No studies;113
+2022;10;Sant Martí;65;el Clot;Men;No studies;72
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Men;No studies;43
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;Men;No studies;8
+2022;10;Sant Martí;68;el Poblenou;Men;No studies;95
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;Men;No studies;52
+2022;10;Sant Martí;70;el Besòs i el Maresme;Men;No studies;217
+2022;10;Sant Martí;71;Provençals del Poblenou;Men;No studies;80
+2022;10;Sant Martí;72;Sant Martí de Provençals;Men;No studies;139
+2022;10;Sant Martí;73;la Verneda i la Pau;Men;No studies;236

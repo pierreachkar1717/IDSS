@@ -1,0 +1,366 @@
+﻿year;district_code;district_name;neighborhood_code;neighborhood_name;number
+2022;6;Gràcia;31;la Vila de Gràcia;8115
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;7557
+2022;9;Sant Andreu;60;Sant Andreu;7480
+2022;6;Gràcia;31;la Vila de Gràcia;6893
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;6729
+2022;9;Sant Andreu;60;Sant Andreu;6691
+2022;2;Eixample;6;la Sagrada Família;6629
+2022;2;Eixample;6;la Sagrada Família;6156
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;6100
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;5939
+2022;9;Sant Andreu;60;Sant Andreu;5888
+2022;2;Eixample;7;la Dreta de l'Eixample;5872
+2022;1;Ciutat Vella;1;el Raval;5687
+2022;4;Les Corts;19;les Corts;5577
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;5466
+2022;2;Eixample;7;la Dreta de l'Eixample;5400
+2022;3;Sants-Montjuïc;18;Sants;5379
+2022;4;Les Corts;19;les Corts;5297
+2022;4;Les Corts;19;les Corts;5197
+2022;2;Eixample;6;la Sagrada Família;5171
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;5139
+2022;3;Sants-Montjuïc;11;el Poble Sec;5110
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;5068
+2022;3;Sants-Montjuïc;18;Sants;4941
+2022;2;Eixample;10;Sant Antoni;4926
+2022;1;Ciutat Vella;1;el Raval;4914
+2022;10;Sant Martí;68;el Poblenou;4847
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;4839
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;4651
+2022;3;Sants-Montjuïc;11;el Poble Sec;4611
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;4581
+2022;7;Horta-Guinardó;35;el Guinardó;4568
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;4528
+2022;7;Horta-Guinardó;35;el Guinardó;4528
+2022;2;Eixample;10;Sant Antoni;4438
+2022;6;Gràcia;31;la Vila de Gràcia;4353
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;4256
+2022;10;Sant Martí;68;el Poblenou;4156
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;4042
+2022;2;Eixample;7;la Dreta de l'Eixample;4038
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;4032
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;3996
+2022;3;Sants-Montjuïc;18;Sants;3867
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;3857
+2022;2;Eixample;10;Sant Antoni;3849
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;3824
+2022;7;Horta-Guinardó;37;el Carmel;3758
+2022;7;Horta-Guinardó;35;el Guinardó;3661
+2022;2;Eixample;5;el Fort Pienc;3660
+2022;2;Eixample;5;el Fort Pienc;3651
+2022;7;Horta-Guinardó;37;el Carmel;3547
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;3505
+2022;9;Sant Andreu;61;la Sagrera;3369
+2022;3;Sants-Montjuïc;13;la Marina de Port;3349
+2022;3;Sants-Montjuïc;13;la Marina de Port;3321
+2022;9;Sant Andreu;61;la Sagrera;3247
+2022;10;Sant Martí;73;la Verneda i la Pau;3238
+2022;9;Sant Andreu;61;la Sagrera;3182
+2022;10;Sant Martí;65;el Clot;3114
+2022;7;Horta-Guinardó;33;el Baix Guinardó;3109
+2022;10;Sant Martí;73;la Verneda i la Pau;3098
+2022;7;Horta-Guinardó;37;el Carmel;3083
+2022;7;Horta-Guinardó;33;el Baix Guinardó;3071
+2022;10;Sant Martí;65;el Clot;3063
+2022;7;Horta-Guinardó;43;Horta;3025
+2022;2;Eixample;5;el Fort Pienc;3019
+2022;8;Nou Barris;52;la Prosperitat;2997
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;2997
+2022;7;Horta-Guinardó;43;Horta;2990
+2022;10;Sant Martí;73;la Verneda i la Pau;2964
+2022;3;Sants-Montjuïc;17;Sants - Badal;2960
+2022;10;Sant Martí;72;Sant Martí de Provençals;2911
+2022;8;Nou Barris;45;Porta;2898
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;2890
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;2879
+2022;10;Sant Martí;72;Sant Martí de Provençals;2872
+2022;3;Sants-Montjuïc;11;el Poble Sec;2861
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;2854
+2022;7;Horta-Guinardó;43;Horta;2853
+2022;10;Sant Martí;71;Provençals del Poblenou;2848
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;2815
+2022;10;Sant Martí;72;Sant Martí de Provençals;2809
+2022;8;Nou Barris;52;la Prosperitat;2805
+2022;8;Nou Barris;52;la Prosperitat;2801
+2022;1;Ciutat Vella;3;la Barceloneta;2797
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;2762
+2022;3;Sants-Montjuïc;17;Sants - Badal;2755
+2022;8;Nou Barris;45;Porta;2752
+2022;8;Nou Barris;45;Porta;2745
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;2715
+2022;7;Horta-Guinardó;33;el Baix Guinardó;2699
+2022;3;Sants-Montjuïc;13;la Marina de Port;2668
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;2648
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;2637
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;2599
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;2535
+2022;9;Sant Andreu;63;Navas;2528
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;2527
+2022;1;Ciutat Vella;2;el Barri Gòtic;2482
+2022;9;Sant Andreu;60;Sant Andreu;2467
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;2443
+2022;3;Sants-Montjuïc;17;Sants - Badal;2442
+2022;10;Sant Martí;65;el Clot;2432
+2022;9;Sant Andreu;63;Navas;2422
+2022;10;Sant Martí;70;el Besòs i el Maresme;2422
+2022;3;Sants-Montjuïc;16;la Bordeta;2401
+2022;9;Sant Andreu;63;Navas;2393
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;2387
+2022;10;Sant Martí;68;el Poblenou;2369
+2022;1;Ciutat Vella;1;el Raval;2300
+2022;10;Sant Martí;71;Provençals del Poblenou;2293
+2022;10;Sant Martí;70;el Besòs i el Maresme;2257
+2022;1;Ciutat Vella;1;el Raval;2228
+2022;2;Eixample;6;la Sagrada Família;2199
+2022;3;Sants-Montjuïc;16;la Bordeta;2195
+2022;3;Sants-Montjuïc;15;Hostafrancs;2161
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;2093
+2022;1;Ciutat Vella;1;el Raval;2063
+2022;6;Gràcia;28;Vallcarca i els Penitents;2040
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;2038
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;1993
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;1992
+2022;6;Gràcia;28;Vallcarca i els Penitents;1973
+2022;3;Sants-Montjuïc;15;Hostafrancs;1971
+2022;6;Gràcia;31;la Vila de Gràcia;1965
+2022;8;Nou Barris;48;la Guineueta;1946
+2022;1;Ciutat Vella;3;la Barceloneta;1901
+2022;3;Sants-Montjuïc;16;la Bordeta;1892
+2022;2;Eixample;7;la Dreta de l'Eixample;1868
+2022;9;Sant Andreu;62;el Congrés i els Indians;1831
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;1828
+2022;3;Sants-Montjuïc;11;el Poble Sec;1822
+2022;2;Eixample;9;la Nova Esquerra de l'Eixample;1818
+2022;8;Nou Barris;50;les Roquetes;1812
+2022;1;Ciutat Vella;2;el Barri Gòtic;1810
+2022;2;Eixample;6;la Sagrada Família;1792
+2022;10;Sant Martí;70;el Besòs i el Maresme;1789
+2022;8;Nou Barris;46;el Turó de la Peira;1763
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;1732
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;1713
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;1711
+2022;8;Nou Barris;46;el Turó de la Peira;1701
+2022;4;Les Corts;19;les Corts;1697
+2022;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;1691
+2022;2;Eixample;10;Sant Antoni;1687
+2022;3;Sants-Montjuïc;18;Sants;1676
+2022;9;Sant Andreu;62;el Congrés i els Indians;1674
+2022;7;Horta-Guinardó;35;el Guinardó;1661
+2022;8;Nou Barris;48;la Guineueta;1660
+2022;10;Sant Martí;71;Provençals del Poblenou;1633
+2022;8;Nou Barris;50;les Roquetes;1619
+2022;6;Gràcia;30;la Salut;1612
+2022;6;Gràcia;28;Vallcarca i els Penitents;1596
+2022;3;Sants-Montjuïc;13;la Marina de Port;1596
+2022;3;Sants-Montjuïc;11;el Poble Sec;1549
+2022;6;Gràcia;30;la Salut;1544
+2022;7;Horta-Guinardó;37;el Carmel;1541
+2022;10;Sant Martí;68;el Poblenou;1540
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;1530
+2022;8;Nou Barris;48;la Guineueta;1514
+2022;9;Sant Andreu;59;el Bon Pastor;1498
+2022;8;Nou Barris;51;Verdun;1492
+2022;2;Eixample;7;la Dreta de l'Eixample;1482
+2022;8;Nou Barris;46;el Turó de la Peira;1464
+2022;7;Horta-Guinardó;38;la Teixonera;1461
+2022;6;Gràcia;30;la Salut;1458
+2022;2;Eixample;5;el Fort Pienc;1434
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;1431
+2022;2;Eixample;8;l'Antiga Esquerra de l'Eixample;1425
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;1424
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;1421
+2022;9;Sant Andreu;60;Sant Andreu;1405
+2022;8;Nou Barris;51;Verdun;1403
+2022;9;Sant Andreu;62;el Congrés i els Indians;1395
+2022;7;Horta-Guinardó;38;la Teixonera;1381
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;1363
+2022;2;Eixample;10;Sant Antoni;1347
+2022;6;Gràcia;31;la Vila de Gràcia;1334
+2022;3;Sants-Montjuïc;15;Hostafrancs;1332
+2022;10;Sant Martí;73;la Verneda i la Pau;1326
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;1316
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;1302
+2022;8;Nou Barris;52;la Prosperitat;1297
+2022;10;Sant Martí;65;el Clot;1294
+2022;9;Sant Andreu;61;la Sagrera;1261
+2022;8;Nou Barris;51;Verdun;1253
+2022;3;Sants-Montjuïc;18;Sants;1227
+2022;8;Nou Barris;50;les Roquetes;1226
+2022;7;Horta-Guinardó;34;Can Baró;1219
+2022;7;Horta-Guinardó;34;Can Baró;1206
+2022;10;Sant Martí;72;Sant Martí de Provençals;1187
+2022;4;Les Corts;19;les Corts;1184
+2022;9;Sant Andreu;59;el Bon Pastor;1183
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;1183
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;1181
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;1171
+2022;10;Sant Martí;70;el Besòs i el Maresme;1155
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;1154
+2022;4;Les Corts;21;Pedralbes;1152
+2022;10;Sant Martí;64;el Camp de l'Arpa del Clot;1148
+2022;4;Les Corts;21;Pedralbes;1146
+2022;1;Ciutat Vella;3;la Barceloneta;1145
+2022;4;Les Corts;21;Pedralbes;1144
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;1126
+2022;7;Horta-Guinardó;33;el Baix Guinardó;1122
+2022;2;Eixample;5;el Fort Pienc;1116
+2022;7;Horta-Guinardó;43;Horta;1106
+2022;3;Sants-Montjuïc;17;Sants - Badal;1087
+2022;8;Nou Barris;45;Porta;1087
+2022;7;Horta-Guinardó;38;la Teixonera;1083
+2022;7;Horta-Guinardó;35;el Guinardó;1083
+2022;9;Sant Andreu;57;la Trinitat Vella;1061
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;1054
+2022;8;Nou Barris;55;Ciutat Meridiana;1035
+2022;3;Sants-Montjuïc;13;la Marina de Port;1032
+2022;9;Sant Andreu;63;Navas;1029
+2022;6;Gràcia;29;el Coll;1021
+2022;7;Horta-Guinardó;37;el Carmel;1019
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;1014
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;1004
+2022;10;Sant Martí;71;Provençals del Poblenou;974
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;970
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;965
+2022;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;958
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;957
+2022;9;Sant Andreu;57;la Trinitat Vella;939
+2022;6;Gràcia;29;el Coll;938
+2022;10;Sant Martí;68;el Poblenou;924
+2022;8;Nou Barris;55;Ciutat Meridiana;922
+2022;9;Sant Andreu;61;la Sagrera;919
+2022;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;918
+2022;10;Sant Martí;73;la Verneda i la Pau;909
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;903
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;901
+2022;1;Ciutat Vella;2;el Barri Gòtic;889
+2022;10;Sant Martí;70;el Besòs i el Maresme;885
+2022;9;Sant Andreu;59;el Bon Pastor;882
+2022;8;Nou Barris;49;Canyelles;880
+2022;8;Nou Barris;53;la Trinitat Nova;878
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;876
+2022;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;870
+2022;10;Sant Martí;65;el Clot;864
+2022;7;Horta-Guinardó;34;Can Baró;857
+2022;3;Sants-Montjuïc;16;la Bordeta;830
+2022;8;Nou Barris;46;el Turó de la Peira;822
+2022;8;Nou Barris;50;les Roquetes;821
+2022;8;Nou Barris;53;la Trinitat Nova;817
+2022;8;Nou Barris;52;la Prosperitat;817
+2022;3;Sants-Montjuïc;17;Sants - Badal;809
+2022;8;Nou Barris;44;Vilapicina i la Torre Llobeta;804
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;798
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;790
+2022;10;Sant Martí;72;Sant Martí de Provençals;784
+2022;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;783
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;765
+2022;8;Nou Barris;55;Ciutat Meridiana;758
+2022;3;Sants-Montjuïc;15;Hostafrancs;746
+2022;7;Horta-Guinardó;33;el Baix Guinardó;746
+2022;5;Sarrià-Sant Gervasi;23;Sarrià;741
+2022;8;Nou Barris;49;Canyelles;736
+2022;7;Horta-Guinardó;43;Horta;719
+2022;8;Nou Barris;49;Canyelles;717
+2022;1;Ciutat Vella;2;el Barri Gòtic;711
+2022;8;Nou Barris;45;Porta;708
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;700
+2022;9;Sant Andreu;63;Navas;697
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;694
+2022;4;Les Corts;20;la Maternitat i Sant Ramon;681
+2022;1;Ciutat Vella;2;el Barri Gòtic;680
+2022;1;Ciutat Vella;3;la Barceloneta;659
+2022;6;Gràcia;29;el Coll;658
+2022;8;Nou Barris;48;la Guineueta;650
+2022;6;Gràcia;28;Vallcarca i els Penitents;644
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;639
+2022;10;Sant Martí;71;Provençals del Poblenou;636
+2022;7;Horta-Guinardó;40;Montbau;631
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;630
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;619
+2022;9;Sant Andreu;62;el Congrés i els Indians;618
+2022;9;Sant Andreu;57;la Trinitat Vella;615
+2022;5;Sarrià-Sant Gervasi;24;les Tres Torres;602
+2022;7;Horta-Guinardó;40;Montbau;599
+2022;7;Horta-Guinardó;38;la Teixonera;588
+2022;8;Nou Barris;50;les Roquetes;578
+2022;8;Nou Barris;51;Verdun;576
+2022;9;Sant Andreu;59;el Bon Pastor;576
+2022;8;Nou Barris;53;la Trinitat Nova;575
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;574
+2022;3;Sants-Montjuïc;16;la Bordeta;568
+2022;8;Nou Barris;46;el Turó de la Peira;566
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;555
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;544
+2022;8;Nou Barris;55;Ciutat Meridiana;517
+2022;7;Horta-Guinardó;40;Montbau;512
+2022;6;Gràcia;30;la Salut;501
+2022;3;Sants-Montjuïc;15;Hostafrancs;497
+2022;9;Sant Andreu;57;la Trinitat Vella;489
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;468
+2022;8;Nou Barris;55;Ciutat Meridiana;467
+2022;9;Sant Andreu;57;la Trinitat Vella;457
+2022;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;439
+2022;1;Ciutat Vella;3;la Barceloneta;436
+2022;6;Gràcia;28;Vallcarca i els Penitents;434
+2022;9;Sant Andreu;62;el Congrés i els Indians;433
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;432
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;429
+2022;8;Nou Barris;51;Verdun;416
+2022;7;Horta-Guinardó;34;Can Baró;410
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;408
+2022;8;Nou Barris;53;la Trinitat Nova;397
+2022;8;Nou Barris;48;la Guineueta;389
+2022;4;Les Corts;21;Pedralbes;388
+2022;10;Sant Martí;67;la Vila Olímpica del Poblenou;387
+2022;4;Les Corts;21;Pedralbes;371
+2022;9;Sant Andreu;59;el Bon Pastor;369
+2022;7;Horta-Guinardó;38;la Teixonera;365
+2022;3;Sants-Montjuïc;14;la Font de la Guatlla;362
+2022;6;Gràcia;29;el Coll;353
+2022;6;Gràcia;30;la Salut;347
+2022;8;Nou Barris;47;Can Peguera;342
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;321
+2022;9;Sant Andreu;58;Baró de Viver;305
+2022;8;Nou Barris;49;Canyelles;304
+2022;9;Sant Andreu;58;Baró de Viver;300
+2022;8;Nou Barris;54;Torre Baró;297
+2022;8;Nou Barris;54;Torre Baró;293
+2022;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;280
+2022;8;Nou Barris;47;Can Peguera;265
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;260
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;255
+2022;8;Nou Barris;53;la Trinitat Nova;254
+2022;7;Horta-Guinardó;34;Can Baró;237
+2022;7;Horta-Guinardó;36;la Font d'en Fargues;235
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;234
+2022;7;Horta-Guinardó;39;Sant Genís dels Agudells;228
+2022;6;Gràcia;29;el Coll;214
+2022;8;Nou Barris;47;Can Peguera;196
+2022;7;Horta-Guinardó;40;Montbau;196
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;187
+2022;9;Sant Andreu;58;Baró de Viver;183
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;182
+2022;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;174
+2022;8;Nou Barris;49;Canyelles;173
+2022;8;Nou Barris;56;Vallbona;163
+2022;8;Nou Barris;54;Torre Baró;162
+2022;8;Nou Barris;56;Vallbona;156
+2022;7;Horta-Guinardó;41;la Vall d'Hebron;154
+2022;7;Horta-Guinardó;40;Montbau;146
+2022;8;Nou Barris;54;Torre Baró;120
+2022;9;Sant Andreu;58;Baró de Viver;120
+2022;7;Horta-Guinardó;42;la Clota;113
+2022;8;Nou Barris;54;Torre Baró;113
+2022;9;Sant Andreu;58;Baró de Viver;96
+2022;7;Horta-Guinardó;42;la Clota;94
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;92
+2022;8;Nou Barris;47;Can Peguera;88
+2022;8;Nou Barris;56;Vallbona;64
+2022;8;Nou Barris;56;Vallbona;61
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;60
+2022;8;Nou Barris;47;Can Peguera;46
+2022;8;Nou Barris;56;Vallbona;46
+2022;3;Sants-Montjuïc;12;la Marina del Prat Vermell;43
+2022;7;Horta-Guinardó;42;la Clota;34
+2022;7;Horta-Guinardó;42;la Clota;25
+2022;7;Horta-Guinardó;42;la Clota;15

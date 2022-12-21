@@ -1,0 +1,149 @@
+﻿year;indicator;equipment;district_code;district_name;neighborhood_code;neighborhood_name;general_type;equipment_type;scope;latitude;longitude
+2021;Num_Exposicions_Temporals;Arxiu Fotogràfic de Barcelona;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres d'exposicions;Arxius;Història i memòria;41386872640;2181806284
+2021;Visitants;Arxiu Fotogràfic de Barcelona;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres d'exposicions;Arxius;Història i memòria;41386872640;2181806284
+2021;Visites_Exposicions_Temporals;Arxiu Fotogràfic de Barcelona;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres d'exposicions;Arxius;Història i memòria;41386872640;2181806284
+2021;Visitants;Basílica de la Sagrada Família;2;Eixample;6;la Sagrada Família;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;41403188985;2174826626
+2021;Num_Exposicions_Temporals;CaixaForum;3;Sants-Montjuïc;14;la Font de la Guatlla;Centres d'exposicions;Centres d'exposicions;Arts visuals;41371294526;2149575441
+2021;Visitants;CaixaForum;3;Sants-Montjuïc;14;la Font de la Guatlla;Centres d'exposicions;Centres d'exposicions;Arts visuals;41371294526;2149575441
+2021;Visites_Exposicions_Temporals;CaixaForum;3;Sants-Montjuïc;14;la Font de la Guatlla;Centres d'exposicions;Centres d'exposicions;Arts visuals;41371294526;2149575441
+2021;Num_Exposicions_Temporals;Can Framis. Fundació Vila Casas;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;41402912812;2194947848
+2021;Visitants;Can Framis. Fundació Vila Casas;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;41402912812;2194947848
+2021;Visites_Exposicions_Temporals;Can Framis. Fundació Vila Casas;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;41402912812;2194947848
+2021;Visitants;Casa Amatller;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;413913381;216468108
+2021;Visitants;Casa Batlló;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;413916967;21649608
+2021;Num_Exposicions_Temporals;Casa Vicens;6;Gràcia;31;la Vila de Gràcia;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;414036093;21512308
+2021;Visitants;Casa Vicens;6;Gràcia;31;la Vila de Gràcia;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;414036093;21512308
+2021;Visites_Exposicions_Temporals;Casa Vicens;6;Gràcia;31;la Vila de Gràcia;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;414036093;21512308
+2021;Num_Exposicions_Temporals;Castell de Montjuïc;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;413675648;21685315
+2021;Visitants;Castell de Montjuïc;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;413675648;21685315
+2021;Visites_Exposicions_Temporals;Castell de Montjuïc;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;413675648;21685315
+2021;Num_Exposicions_Temporals;Centre de Cultura Contemporània de Barcelona. CCCB;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41383883057;2166795152
+2021;Visitants;Centre de Cultura Contemporània de Barcelona. CCCB;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41383883057;2166795152
+2021;Visites_Exposicions_Temporals;Centre de Cultura Contemporània de Barcelona. CCCB;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41383883057;2166795152
+2021;Fons_Colleccio;CosmoCaixa;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Centres patrimonials;Museus i col·leccions;Ciència;41413267367;2130658424
+2021;Num_Exposicions_Temporals;CosmoCaixa;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Centres patrimonials;Museus i col·leccions;Ciència;41413267367;2130658424
+2021;Visitants;CosmoCaixa;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Centres patrimonials;Museus i col·leccions;Ciència;41413267367;2130658424
+2021;Visites_Exposicions_Temporals;CosmoCaixa;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;Centres patrimonials;Museus i col·leccions;Ciència;41413267367;2130658424
+2021;Num_Exposicions_Temporals;Disseny Hub Barcelona. DHUB;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres d'exposicions;Centres d'exposicions;Multidisciplinaris i altres;4,14028E+16;2,18776E+15
+2021;Visitants;Disseny Hub Barcelona. DHUB;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres d'exposicions;Centres d'exposicions;Multidisciplinaris i altres;4,14028E+16;2,18776E+15
+2021;Visites_Exposicions_Temporals;Disseny Hub Barcelona. DHUB;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres d'exposicions;Centres d'exposicions;Multidisciplinaris i altres;4,14028E+16;2,18776E+15
+2021;Num_Exposicions_Temporals;El Born Centre de Cultura i Memòria;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Història i memòria;41385641483;2183568044
+2021;Visitants;El Born Centre de Cultura i Memòria;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Història i memòria;41385641483;2183568044
+2021;Visites_Exposicions_Temporals;El Born Centre de Cultura i Memòria;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Història i memòria;41385641483;2183568044
+2021;Visitants;Espai Bombers Parc de la Prevenció;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41373639;21543788
+2021;Visitants;Espais patrimonials del MUHBA;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;;
+2021;Num_Exposicions_Temporals;Espais VolART i VolART2. Fundació Vila Casas;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41390963134;2175293998
+2021;Visitants;Espais VolART i VolART2. Fundació Vila Casas;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41390963134;2175293998
+2021;Visites_Exposicions_Temporals;Espais VolART i VolART2. Fundació Vila Casas;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41390963134;2175293998
+2021;Num_Exposicions_Temporals;Fabra i Coats - Centre d'Art Contemporani;9;Sant Andreu;60;Sant Andreu;Centres d'exposicions;Centres d'exposicions;Arts visuals;41433762956;2190815632
+2021;Visitants;Fabra i Coats - Centre d'Art Contemporani;9;Sant Andreu;60;Sant Andreu;Centres d'exposicions;Centres d'exposicions;Arts visuals;41433762956;2190815632
+2021;Visites_Exposicions_Temporals;Fabra i Coats - Centre d'Art Contemporani;9;Sant Andreu;60;Sant Andreu;Centres d'exposicions;Centres d'exposicions;Arts visuals;41433762956;2190815632
+2021;Num_Exposicions_Temporals;Fundació Antoni Tàpies;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Arts visuals;41391522171;2163757744
+2021;Visitants;Fundació Antoni Tàpies;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Arts visuals;41391522171;2163757744
+2021;Visites_Exposicions_Temporals;Fundació Antoni Tàpies;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Arts visuals;41391522171;2163757744
+2021;Fons_Colleccio;Fundació Foto Colectania;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;413876349;21827391
+2021;Num_Exposicions_Temporals;Fundació Foto Colectania;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;413876349;21827391
+2021;Visitants;Fundació Foto Colectania;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;413876349;21827391
+2021;Visites_Exposicions_Temporals;Fundació Foto Colectania;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;413876349;21827391
+2021;Visitants;Fundació Fran Daurel;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41369116603;2146724957
+2021;Fons_Colleccio;Fundació Joan Miró;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;4136863;2159851
+2021;Num_Exposicions_Temporals;Fundació Joan Miró;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;4136863;2159851
+2021;Visitants;Fundació Joan Miró;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;4136863;2159851
+2021;Visites_Exposicions_Temporals;Fundació Joan Miró;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;4136863;2159851
+2021;Visitants;Fundació Julio Muñoz Ramonet;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;;
+2021;Fons_Colleccio;Fundació Suñol;4;Les Corts;20;la Maternitat i Sant Ramon;Centres patrimonials;Museus i col·leccions;Arts visuals;413826167;21262746
+2021;Num_Exposicions_Temporals;Fundació Suñol;4;Les Corts;20;la Maternitat i Sant Ramon;Centres patrimonials;Museus i col·leccions;Arts visuals;413826167;21262746
+2021;Visitants;Fundació Suñol;4;Les Corts;20;la Maternitat i Sant Ramon;Centres patrimonials;Museus i col·leccions;Arts visuals;413826167;21262746
+2021;Visites_Exposicions_Temporals;Fundació Suñol;4;Les Corts;20;la Maternitat i Sant Ramon;Centres patrimonials;Museus i col·leccions;Arts visuals;413826167;21262746
+2021;Fons_Colleccio;Hash Marihuana Cáñamo & Hemp Museum;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41380783393;2180139311
+2021;Num_Exposicions_Temporals;Hash Marihuana Cáñamo & Hemp Museum;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41380783393;2180139311
+2021;Visitants;Hash Marihuana Cáñamo & Hemp Museum;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41380783393;2180139311
+2021;Num_Exposicions_Temporals;KBr Fundación MAPFRE;10;Sant Martí;67;la Vila Olímpica del Poblenou;Centres d'exposicions;Centres d'exposicions;Arts visuals;41388415;21960494
+2021;Visitants;KBr Fundación MAPFRE;10;Sant Martí;67;la Vila Olímpica del Poblenou;Centres d'exposicions;Centres d'exposicions;Arts visuals;41388415;21960494
+2021;Visites_Exposicions_Temporals;KBr Fundación MAPFRE;10;Sant Martí;67;la Vila Olímpica del Poblenou;Centres d'exposicions;Centres d'exposicions;Arts visuals;41388415;21960494
+2021;Visitants;L'Aquàrium;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Ciència;41376477557;2184560919
+2021;Num_Exposicions_Temporals;La Capella;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41381057326;2169793857
+2021;Visitants;La Capella;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41381057326;2169793857
+2021;Visites_Exposicions_Temporals;La Capella;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41381057326;2169793857
+2021;Num_Exposicions_Temporals;La Model;2;Eixample;9;la Nova Esquerra de l'Eixample;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;;
+2021;Visitants;La Model;2;Eixample;9;la Nova Esquerra de l'Eixample;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;;
+2021;Visitants;La Pedrera;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Espais d'interès patrimonial;Arts visuals;41395316302;2162043384
+2021;Num_Exposicions_Temporals;La Virreina Centre de la Imatge;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41382498322;2171708630
+2021;Visitants;La Virreina Centre de la Imatge;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41382498322;2171708630
+2021;Visites_Exposicions_Temporals;La Virreina Centre de la Imatge;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41382498322;2171708630
+2021;Fons_Colleccio;Museu d'Arqueologia de Catalunya;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41370153865;2157646024
+2021;Num_Exposicions_Temporals;Museu d'Arqueologia de Catalunya;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41370153865;2157646024
+2021;Visitants;Museu d'Arqueologia de Catalunya;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41370153865;2157646024
+2021;Visites_Exposicions_Temporals;Museu d'Arqueologia de Catalunya;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41370153865;2157646024
+2021;Fons_Colleccio;Museu d'Art Contemporani de Barcelona. MACBA;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Arts visuals;41383145956;2167830774
+2021;Num_Exposicions_Temporals;Museu d'Art Contemporani de Barcelona. MACBA;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Arts visuals;41383145956;2167830774
+2021;Visitants;Museu d'Art Contemporani de Barcelona. MACBA;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Arts visuals;41383145956;2167830774
+2021;Visites_Exposicions_Temporals;Museu d'Art Contemporani de Barcelona. MACBA;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Arts visuals;41383145956;2167830774
+2021;Fons_Colleccio;Museu d'Història de Barcelona. MUHBA;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41384316;2177521
+2021;Num_Exposicions_Temporals;Museu d'Història de Barcelona. MUHBA;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41384316;2177521
+2021;Visitants;Museu d'Història de Barcelona. MUHBA;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41384316;2177521
+2021;Visites_Exposicions_Temporals;Museu d'Història de Barcelona. MUHBA;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41384316;2177521
+2021;Fons_Colleccio;Museu d'Història de Catalunya;1;Ciutat Vella;3;la Barceloneta;Centres patrimonials;Museus i col·leccions;Història i memòria;41380668608;2185503480
+2021;Num_Exposicions_Temporals;Museu d'Història de Catalunya;1;Ciutat Vella;3;la Barceloneta;Centres patrimonials;Museus i col·leccions;Història i memòria;41380668608;2185503480
+2021;Visitants;Museu d'Història de Catalunya;1;Ciutat Vella;3;la Barceloneta;Centres patrimonials;Museus i col·leccions;Història i memòria;41380668608;2185503480
+2021;Visites_Exposicions_Temporals;Museu d'Història de Catalunya;1;Ciutat Vella;3;la Barceloneta;Centres patrimonials;Museus i col·leccions;Història i memòria;41380668608;2185503480
+2021;Visitants;Museu de Cera;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41377099024;2177442932
+2021;Fons_Colleccio;Museu de Ciències Naturals de Barcelona. MCNB;10;Sant Martí;70;el Besòs i el Maresme;Centres patrimonials;Museus i col·leccions;Ciència;41410779883;2220482541
+2021;Num_Exposicions_Temporals;Museu de Ciències Naturals de Barcelona. MCNB;10;Sant Martí;70;el Besòs i el Maresme;Centres patrimonials;Museus i col·leccions;Ciència;41410779883;2220482541
+2021;Visitants;Museu de Ciències Naturals de Barcelona. MCNB;10;Sant Martí;70;el Besòs i el Maresme;Centres patrimonials;Museus i col·leccions;Ciència;41410779883;2220482541
+2021;Visites_Exposicions_Temporals;Museu de Ciències Naturals de Barcelona. MCNB;10;Sant Martí;70;el Besòs i el Maresme;Centres patrimonials;Museus i col·leccions;Ciència;41410779883;2220482541
+2021;Visitants;Museu de l'Eròtica;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Història i memòria;41382282529;2172714946
+2021;Num_Exposicions_Temporals;Museu de la Música;2;Eixample;5;el Fort Pienc;Centres patrimonials;Museus i col·leccions;Història i memòria;41398366625;2184867722
+2021;Visitants;Museu de la Música;2;Eixample;5;el Fort Pienc;Centres patrimonials;Museus i col·leccions;Història i memòria;41398366625;2184867722
+2021;Visites_Exposicions_Temporals;Museu de la Música;2;Eixample;5;el Fort Pienc;Centres patrimonials;Museus i col·leccions;Història i memòria;41398366625;2184867722
+2021;Visitants;Museu de la Xocolata;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Història i memòria;41387387733;2181708405
+2021;Fons_Colleccio;Museu del Disseny de Barcelona;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;4,14025E+14;2,18807E+16
+2021;Num_Exposicions_Temporals;Museu del Disseny de Barcelona;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;4,14025E+14;2,18807E+16
+2021;Visitants;Museu del Disseny de Barcelona;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;4,14025E+14;2,18807E+16
+2021;Visites_Exposicions_Temporals;Museu del Disseny de Barcelona;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;Centres patrimonials;Museus i col·leccions;Arts visuals;4,14025E+14;2,18807E+16
+2021;Visitants;Museu del Futbol Club Barcelona;4;Les Corts;20;la Maternitat i Sant Ramon;Centres patrimonials;Museus i col·leccions;Història i memòria;41379059282;2120267204
+2021;Visitants;Museu dels Autòmats del Tibidabo;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;Centres patrimonials;Museus i col·leccions;Història i memòria;4142174827;211979347
+2021;Fons_Colleccio;Museu Egipci de Barcelona;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Història i memòria;41393626242;2164736478
+2021;Num_Exposicions_Temporals;Museu Egipci de Barcelona;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Història i memòria;41393626242;2164736478
+2021;Visitants;Museu Egipci de Barcelona;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Història i memòria;41393626242;2164736478
+2021;Visites_Exposicions_Temporals;Museu Egipci de Barcelona;2;Eixample;7;la Dreta de l'Eixample;Centres patrimonials;Museus i col·leccions;Història i memòria;41393626242;2164736478
+2021;Fons_Colleccio;Museu Etnològic i de Cultures del Món;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41369062110;2155983304
+2021;Num_Exposicions_Temporals;Museu Etnològic i de Cultures del Món;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41369062110;2155983304
+2021;Visitants;Museu Etnològic i de Cultures del Món;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41369062110;2155983304
+2021;Visites_Exposicions_Temporals;Museu Etnològic i de Cultures del Món;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41369062110;2155983304
+2021;Visitants;Museu Europeu d'Art Modern. MEAM;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;41384912046;2180305787
+2021;Fons_Colleccio;Museu Frederic Marès;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Arts visuals;41384173998;2176939205
+2021;Num_Exposicions_Temporals;Museu Frederic Marès;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Arts visuals;41384173998;2176939205
+2021;Visitants;Museu Frederic Marès;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Arts visuals;41384173998;2176939205
+2021;Visites_Exposicions_Temporals;Museu Frederic Marès;1;Ciutat Vella;2;el Barri Gòtic;Centres patrimonials;Museus i col·leccions;Arts visuals;41384173998;2176939205
+2021;Fons_Colleccio;Museu Marítim de Barcelona. MMB;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Història i memòria;41375949813;2176041471
+2021;Num_Exposicions_Temporals;Museu Marítim de Barcelona. MMB;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Història i memòria;41375949813;2176041471
+2021;Visitants;Museu Marítim de Barcelona. MMB;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Història i memòria;41375949813;2176041471
+2021;Visites_Exposicions_Temporals;Museu Marítim de Barcelona. MMB;1;Ciutat Vella;1;el Raval;Centres patrimonials;Museus i col·leccions;Història i memòria;41375949813;2176041471
+2021;Num_Exposicions_Temporals;Museu Nacional d'Art de Catalunya. MNAC;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41368853566;2153363173
+2021;Visitants;Museu Nacional d'Art de Catalunya. MNAC;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41368853566;2153363173
+2021;Visites_Exposicions_Temporals;Museu Nacional d'Art de Catalunya. MNAC;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Arts visuals;41368853566;2153363173
+2021;Num_Exposicions_Temporals;Museu Olímpic i de l'Esport Joan Antoni Samaranch;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41366249336;2157076095
+2021;Visitants;Museu Olímpic i de l'Esport Joan Antoni Samaranch;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41366249336;2157076095
+2021;Visites_Exposicions_Temporals;Museu Olímpic i de l'Esport Joan Antoni Samaranch;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Museus i col·leccions;Història i memòria;41366249336;2157076095
+2021;Fons_Colleccio;Museu Picasso;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;41385152312;2180834795
+2021;Num_Exposicions_Temporals;Museu Picasso;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;41385152312;2180834795
+2021;Visitants;Museu Picasso;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;41385152312;2180834795
+2021;Visites_Exposicions_Temporals;Museu Picasso;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Arts visuals;41385152312;2180834795
+2021;Num_Exposicions_Temporals;Palau Güell;1;Ciutat Vella;1;el Raval;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;413791747;21744127
+2021;Visitants;Palau Güell;1;Ciutat Vella;1;el Raval;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;413791747;21744127
+2021;Visites_Exposicions_Temporals;Palau Güell;1;Ciutat Vella;1;el Raval;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;413791747;21744127
+2021;Num_Exposicions_Temporals;Palau Robert;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41396100952;2159514266
+2021;Visitants;Palau Robert;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41396100952;2159514266
+2021;Visites_Exposicions_Temporals;Palau Robert;2;Eixample;7;la Dreta de l'Eixample;Centres d'exposicions;Centres d'exposicions;Arts visuals;41396100952;2159514266
+2021;Visitants;Park Güell;6;Gràcia;30;la Salut;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;414134251;21531849
+2021;Fons_Colleccio;Pavelló Mies van der Rohe;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;41370666;2149491
+2021;Num_Exposicions_Temporals;Pavelló Mies van der Rohe;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;41370666;2149491
+2021;Visitants;Pavelló Mies van der Rohe;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;41370666;2149491
+2021;Visites_Exposicions_Temporals;Pavelló Mies van der Rohe;3;Sants-Montjuïc;11;el Poble Sec;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;41370666;2149491
+2021;Visitants;Recinte Modernista de Sant Pau;7;Horta-Guinardó;35;el Guinardó;Centres patrimonials;Espais d'interès patrimonial;Història i memòria;414118413;21744033
+2021;Visitants;Reial Monestir de Santa Maria de Pedralbes;4;Les Corts;21;Pedralbes;Centres patrimonials;Museus i col·leccions;Història i memòria;41395574166;2112056853
+2021;Num_Exposicions_Temporals;Santa Mònica;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41377227254;2175597264
+2021;Visitants;Santa Mònica;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41377227254;2175597264
+2021;Visites_Exposicions_Temporals;Santa Mònica;1;Ciutat Vella;1;el Raval;Centres d'exposicions;Centres d'exposicions;Arts visuals;41377227254;2175597264
+2021;Visitants;Zoo de Barcelona;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;Centres patrimonials;Museus i col·leccions;Ciència;41386823;2190346

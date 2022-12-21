@@ -1,0 +1,74 @@
+﻿year;district_code;district_name;neighborhood_code;neighborhood_name;rate ;number
+2021;1;Ciutat Vella;1;el Raval;rate per thousand inhabitants.;67
+2021;1;Ciutat Vella;2;el Barri Gòtic;rate per thousand inhabitants.;61
+2021;1;Ciutat Vella;3;la Barceloneta;rate per thousand inhabitants.;116
+2021;1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;rate per thousand inhabitants.;66
+2021;2;Eixample;5;el Fort Pienc;rate per thousand inhabitants.;103
+2021;2;Eixample;6;la Sagrada Família;rate per thousand inhabitants.;97
+2021;2;Eixample;7;la Dreta de l'Eixample;rate per thousand inhabitants.;103
+2021;2;Eixample;8;l'Antiga Esquerra de l'Eixample;rate per thousand inhabitants.;95
+2021;2;Eixample;9;la Nova Esquerra de l'Eixample;rate per thousand inhabitants.;101
+2021;2;Eixample;10;Sant Antoni;rate per thousand inhabitants.;101
+2021;3;Sants-Montjuïc;11;el Poble Sec;rate per thousand inhabitants.;88
+2021;3;Sants-Montjuïc;12;la Marina del Prat Vermell;rate per thousand inhabitants.;170
+2021;3;Sants-Montjuïc;13;la Marina de Port;rate per thousand inhabitants.;93
+2021;3;Sants-Montjuïc;14;la Font de la Guatlla;rate per thousand inhabitants.;104
+2021;3;Sants-Montjuïc;15;Hostafrancs;rate per thousand inhabitants.;91
+2021;3;Sants-Montjuïc;16;la Bordeta;rate per thousand inhabitants.;117
+2021;3;Sants-Montjuïc;17;Sants - Badal;rate per thousand inhabitants.;92
+2021;3;Sants-Montjuïc;18;Sants;rate per thousand inhabitants.;89
+2021;4;Les Corts;19;les Corts;rate per thousand inhabitants.;96
+2021;4;Les Corts;20;la Maternitat i Sant Ramon;rate per thousand inhabitants.;95
+2021;4;Les Corts;21;Pedralbes;rate per thousand inhabitants.;103
+2021;5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;rate per thousand inhabitants.;77
+2021;5;Sarrià-Sant Gervasi;23;Sarrià;rate per thousand inhabitants.;98
+2021;5;Sarrià-Sant Gervasi;24;les Tres Torres;rate per thousand inhabitants.;86
+2021;5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;rate per thousand inhabitants.;99
+2021;5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;rate per thousand inhabitants.;93
+2021;5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;rate per thousand inhabitants.;94
+2021;6;Gràcia;28;Vallcarca i els Penitents;rate per thousand inhabitants.;104
+2021;6;Gràcia;29;el Coll;rate per thousand inhabitants.;63
+2021;6;Gràcia;30;la Salut;rate per thousand inhabitants.;97
+2021;6;Gràcia;31;la Vila de Gràcia;rate per thousand inhabitants.;87
+2021;6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;rate per thousand inhabitants.;94
+2021;7;Horta-Guinardó;33;el Baix Guinardó;rate per thousand inhabitants.;116
+2021;7;Horta-Guinardó;34;Can Baró;rate per thousand inhabitants.;100
+2021;7;Horta-Guinardó;35;el Guinardó;rate per thousand inhabitants.;102
+2021;7;Horta-Guinardó;36;la Font d'en Fargues;rate per thousand inhabitants.;93
+2021;7;Horta-Guinardó;37;el Carmel;rate per thousand inhabitants.;89
+2021;7;Horta-Guinardó;38;la Teixonera;rate per thousand inhabitants.;83
+2021;7;Horta-Guinardó;39;Sant Genís dels Agudells;rate per thousand inhabitants.;126
+2021;7;Horta-Guinardó;40;Montbau;rate per thousand inhabitants.;217
+2021;7;Horta-Guinardó;41;la Vall d'Hebron;rate per thousand inhabitants.;119
+2021;7;Horta-Guinardó;42;la Clota;rate per thousand inhabitants.;102
+2021;7;Horta-Guinardó;43;Horta;rate per thousand inhabitants.;100
+2021;8;Nou Barris;44;Vilapicina i la Torre Llobeta;rate per thousand inhabitants.;113
+2021;8;Nou Barris;45;Porta;rate per thousand inhabitants.;110
+2021;8;Nou Barris;46;el Turó de la Peira;rate per thousand inhabitants.;120
+2021;8;Nou Barris;47;Can Peguera;rate per thousand inhabitants.;136
+2021;8;Nou Barris;48;la Guineueta;rate per thousand inhabitants.;102
+2021;8;Nou Barris;49;Canyelles;rate per thousand inhabitants.;118
+2021;8;Nou Barris;50;les Roquetes;rate per thousand inhabitants.;68
+2021;8;Nou Barris;51;Verdun;rate per thousand inhabitants.;92
+2021;8;Nou Barris;52;la Prosperitat;rate per thousand inhabitants.;118
+2021;8;Nou Barris;53;la Trinitat Nova;rate per thousand inhabitants.;103
+2021;8;Nou Barris;54;Torre Baró;rate per thousand inhabitants.;48
+2021;8;Nou Barris;55;Ciutat Meridiana;rate per thousand inhabitants.;73
+2021;8;Nou Barris;56;Vallbona;rate per thousand inhabitants.;145
+2021;9;Sant Andreu;57;la Trinitat Vella;rate per thousand inhabitants.;63
+2021;9;Sant Andreu;58;Baró de Viver;rate per thousand inhabitants.;106
+2021;9;Sant Andreu;59;el Bon Pastor;rate per thousand inhabitants.;95
+2021;9;Sant Andreu;60;Sant Andreu;rate per thousand inhabitants.;92
+2021;9;Sant Andreu;61;la Sagrera;rate per thousand inhabitants.;93
+2021;9;Sant Andreu;62;el Congrés i els Indians;rate per thousand inhabitants.;107
+2021;9;Sant Andreu;63;Navas;rate per thousand inhabitants.;101
+2021;10;Sant Martí;64;el Camp de l'Arpa del Clot;rate per thousand inhabitants.;95
+2021;10;Sant Martí;65;el Clot;rate per thousand inhabitants.;84
+2021;10;Sant Martí;66;el Parc i la Llacuna del Poblenou;rate per thousand inhabitants.;75
+2021;10;Sant Martí;67;la Vila Olímpica del Poblenou;rate per thousand inhabitants.;49
+2021;10;Sant Martí;68;el Poblenou;rate per thousand inhabitants.;85
+2021;10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;rate per thousand inhabitants.;74
+2021;10;Sant Martí;70;el Besòs i el Maresme;rate per thousand inhabitants.;95
+2021;10;Sant Martí;71;Provençals del Poblenou;rate per thousand inhabitants.;85
+2021;10;Sant Martí;72;Sant Martí de Provençals;rate per thousand inhabitants.;117
+2021;10;Sant Martí;73;la Verneda i la Pau;rate per thousand inhabitants.;109
