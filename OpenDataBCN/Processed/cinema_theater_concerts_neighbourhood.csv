@@ -1,0 +1,42 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,cinema_theater_concerts
+1,Ciutat Vella,1,el Raval,26
+1,Ciutat Vella,2,el Barri Gòtic,5
+1,Ciutat Vella,3,la Barceloneta,1
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",13
+2,Eixample,5,el Fort Pienc,7
+2,Eixample,6,la Sagrada Família,4
+2,Eixample,7,la Dreta de l'Eixample,13
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,4
+2,Eixample,9,la Nova Esquerra de l'Eixample,2
+2,Eixample,10,Sant Antoni,6
+3,Sants-Montjuïc,11,el Poble-sec,21
+3,Sants-Montjuïc,13,la Marina de Port,2
+3,Sants-Montjuïc,15,Hostafrancs,3
+3,Sants-Montjuïc,16,la Bordeta,4
+3,Sants-Montjuïc,18,Sants,3
+4,Les Corts,19,les Corts,1
+4,Les Corts,20,la Maternitat i Sant Ramon,4
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1
+5,Sarrià-Sant Gervasi,23,Sarrià,1
+5,Sarrià-Sant Gervasi,24,les Tres Torres,2
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,3
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,8
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2
+6,Gràcia,31,la Vila de Gràcia,24
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,1
+7,Horta-Guinardó,43,Horta,3
+8,Nou Barris,45,Porta,1
+8,Nou Barris,53,la Trinitat Nova,1
+8,Nou Barris,55,Ciutat Meridiana,1
+9,Sant Andreu,59,el Bon Pastor,1
+9,Sant Andreu,60,Sant Andreu,5
+9,Sant Andreu,61,la Sagrera,1
+9,Sant Andreu,62,el Congrés i els Indians,1
+10,Sant Martí,64,el Camp de l'Arpa del Clot,4
+10,Sant Martí,65,el Clot,3
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,3
+10,Sant Martí,67,la Vila Olímpica del Poblenou,3
+10,Sant Martí,68,el Poblenou,4
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1
+10,Sant Martí,70,el Besòs i el Maresme,1
+10,Sant Martí,72,Sant Martí de Provençals,2

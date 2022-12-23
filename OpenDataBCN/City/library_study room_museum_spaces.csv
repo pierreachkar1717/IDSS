@@ -1,0 +1,464 @@
+﻿register_id;name;created;modified;addresses_road_name;addresses_start_street_number;neighbourhood_code;neighbourhood_name;district_code;district_name;zip_code;addresses_town;geo_epgs_25831_x;geo_epgs_25831_y;geo_epgs_4326_x;geo_epgs_4326_y
+﻿99400062552;Gabinet Salvador;10.10.03 09:24;13.01.22 16:47;Passeig del Migdia;187;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29827E+15;4,57928E+15;4,1362E+15;2,16102E+16
+﻿99400197603;Sala d'Estudi Sagrada Família;08.01.08 00:00;26.10.22 09:24;Carrer de Provença;480;6;la Sagrada Família;2;Eixample;8025;Barcelona;4,31191E+15;4,58409E+15;4,14054E+15;2,17677E+16
+﻿99400178706;Fundació Suñol;28.02.07 14:12;07.11.22 09:03;Carrer de Mejía Lequerica;14;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26956E+16;4,5816E+14;4,13827E+15;2,12641E+16
+﻿99400273732;Centre Interactiu del Peix;01.07.11 11:31;13.01.22 13:36;Carrer Major de Mercabarna;74;12;la Marina del Prat Vermell;3;Sants-Montjuïc;8040;Barcelona;4,25934E+16;4,57586E+15;4,13308E+15;2,11489E+14
+﻿99400182038;Sala d'Estudi Francesc Candel;26.04.07 00:00;08.07.22 11:35;Carrer de l'Amnistia Internacional;10;13;la Marina de Port;3;Sants-Montjuïc;8038;Barcelona;4,27759E+16;4,57928E+15;4,13618E+14;2,13629E+15
+﻿1138134103;Biblioteca Barceloneta -  La Fraternitat;18.05.01 00:00;07.12.22 13:17;Carrer del Comte de Santa Clara;8;3;la Barceloneta;1;Ciutat Vella;8003;Barcelona;4,32175E+16;4,58117E+15;4,13792E+15;2,18887E+16
+﻿1138134103;Biblioteca Barceloneta -  La Fraternitat;18.05.01 00:00;07.12.22 13:17;Carrer del Comte de Santa Clara;8;3;la Barceloneta;1;Ciutat Vella;8003;Barcelona;4,32175E+16;4,58117E+15;4,13792E+15;2,18887E+16
+﻿1138134103;Biblioteca Barceloneta -  La Fraternitat;18.05.01 00:00;07.12.22 13:17;Carrer del Comte de Santa Clara;8;3;la Barceloneta;1;Ciutat Vella;8003;Barcelona;4,32175E+16;4,58117E+15;4,13792E+15;2,18887E+16
+﻿92086026197;Servei de Documentació i Accés al Coneixement  (SEDAC);08.07.89 00:00;19.07.21 22:03;Pl Sant Jaume;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,312E+16;4,58155E+15;4,13825E+15;2,17717E+15
+﻿92086026197;Servei de Documentació i Accés al Coneixement  (SEDAC);08.07.89 00:00;19.07.21 22:03;Pl Sant Jaume;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,312E+16;4,58155E+15;4,13825E+15;2,17717E+15
+﻿92086026197;Servei de Documentació i Accés al Coneixement  (SEDAC);08.07.89 00:00;19.07.21 22:03;Pl Sant Jaume;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,312E+16;4,58155E+15;4,13825E+15;2,17717E+15
+﻿99400406804;Museu Opisso;25.11.15 09:06;04.05.22 13:51;Carrer de París;203;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;Barcelona;4,29235E+16;4,58284E+15;4,1394E+15;2,15352E+15
+﻿92086000167;Museu;24.11.86 00:00;07.11.22 09:26;Avinguda de Miramar;1;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29762E+16;4,57998E+15;4,13683E+15;2,16015E+16
+﻿92086000176;Biblioteca;15.05.86 00:00;14.06.21 13:40;Pg Santa Madrona;22;11;el Poble-sec;3;Sants-Montjuïc;8038;BARCELONA;4,29416E+15;4,58007E+15;4,13691E+15;2,156E+15
+﻿92086003712;Museu Diocesà de Barcelona;30.05.84 00:00;08.11.22 11:18;Avinguda de la Catedral;4;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31114E+15;4,58179E+15;4,13847E+14;2,17611E+15
+﻿98141123742;Biblioteca Judicial de Barcelona - Biblioteca Penal;21.05.98 00:00;17.09.22 05:40;Pg Lluís Companys;3;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31641E+16;4,58227E+15;4,13891E+15;2,18236E+15
+﻿96116100309;Arxiu Municipal del Districte de Sant Martí;25.04.96 00:00;03.11.22 09:28;Avinguda del Bogatell;17;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;Barcelona;4,32929E+16;4,58263E+15;4,13924E+15;2,19772E+16
+﻿93314142035;Biblioteca;10.11.93 00:00;17.09.22 05:06;C Viladomat;291;9;la Nova Esquerra de l'Eixample;2;Eixample;8029;BARCELONA;4,28563E+16;4,58223E+15;4,13884E+16;2,14555E+16
+﻿99400040512;CRAI - Biblioteca;19.05.03 12:01;17.09.22 06:02;C Roc Boronat;138;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8018;BARCELONA;4,32574E+15;4,5839E+15;4,14038E+16;2,19334E+16
+﻿99083114355;Biblioteca Guinardó - Mercè Rodoreda;24.03.99 00:00;07.12.22 13:33;Carrer de les Camèlies;76;33;el Baix Guinardó;7;Horta-Guinardó;8024;Barcelona;4,30245E+15;4,58509E+15;4,14143E+15;2,16534E+15
+﻿99083114355;Biblioteca Guinardó - Mercè Rodoreda;24.03.99 00:00;07.12.22 13:33;Carrer de les Camèlies;76;33;el Baix Guinardó;7;Horta-Guinardó;8024;Barcelona;4,30245E+15;4,58509E+15;4,14143E+15;2,16534E+15
+﻿99083114355;Biblioteca Guinardó - Mercè Rodoreda;24.03.99 00:00;07.12.22 13:33;Carrer de les Camèlies;76;33;el Baix Guinardó;7;Horta-Guinardó;8024;Barcelona;4,30245E+15;4,58509E+15;4,14143E+15;2,16534E+15
+﻿98261141237;CRAI - Biblioteca de Filosofia i Geografia i Història de la Universitat de Barcelona;18.09.98 00:00;11.07.22 12:45;C Montalegre;6;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30379E+15;4,58172E+15;4,1384E+15;2,16733E+15
+﻿98261141237;CRAI - Biblioteca de Filosofia i Geografia i Història de la Universitat de Barcelona;18.09.98 00:00;11.07.22 12:45;C Montalegre;6;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30379E+15;4,58172E+15;4,1384E+15;2,16733E+15
+﻿1242142943;Biblioteca Poble-sec - Francesc Boix;30.08.01 00:00;07.12.22 12:58;Carrer de Blai;34;11;el Poble-sec;3;Sants-Montjuïc;8004;Barcelona;4,30093E+16;4,58061E+15;4,1374E+15;2,16404E+15
+﻿1242142943;Biblioteca Poble-sec - Francesc Boix;30.08.01 00:00;07.12.22 12:58;Carrer de Blai;34;11;el Poble-sec;3;Sants-Montjuïc;8004;Barcelona;4,30093E+16;4,58061E+15;4,1374E+15;2,16404E+15
+﻿1242142943;Biblioteca Poble-sec - Francesc Boix;30.08.01 00:00;07.12.22 12:58;Carrer de Blai;34;11;el Poble-sec;3;Sants-Montjuïc;8004;Barcelona;4,30093E+16;4,58061E+15;4,1374E+15;2,16404E+15
+﻿99400084400;Sala d'Estudi Garcilaso;27.04.04 14:35;08.07.22 11:40;C Garcilaso;103;61;la Sagrera;9;Sant Andreu;8027;BARCELONA;4,32E+16;4,58599E+15;4,14226E+16;2,18623E+16
+﻿99400084400;Sala d'Estudi Garcilaso;27.04.04 14:35;08.07.22 11:40;C Garcilaso;103;61;la Sagrera;9;Sant Andreu;8027;BARCELONA;4,32E+16;4,58599E+15;4,14226E+16;2,18623E+16
+﻿97287115527;Tennis Museum;14.10.97 00:00;25.11.21 12:46;Passeig de la Vall d'Hebron;196;41;la Vall d'Hebron;7;Horta-Guinardó;8035;Barcelona;4,28605E+15;4,58682E+15;4,14298E+15;2,14552E+14
+﻿99400084389;Sala d'Estudi Guinardó - Mercè Rodoreda;27.04.04 14:03;14.09.22 11:54;Carrer de les Camèlies;76;33;el Baix Guinardó;7;Horta-Guinardó;8024;Barcelona;4,30348E+15;4,58501E+15;4,14136E+14;2,16659E+16
+﻿99400084391;Sala d'Estudi Can Fabra;27.04.04 14:09;14.09.22 11:55;Carrer del Segre;24;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32401E+15;4,58731E+15;4,14345E+15;2,19089E+15
+﻿92086003428;Biblioteca;15.05.86 00:00;17.09.22 03:53;C Cartagena;350;35;el Guinardó;7;Horta-Guinardó;8025;BARCELONA;4,31E+16;4,58507E+15;4,14142E+15;2,17438E+15
+﻿99103090600;Biblioteca - Centre d'Investigació i Desenvolupament;13.04.99 00:00;17.09.22 05:50;C Jordi Girona;18;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26003E+15;4,58218E+15;4,13877E+15;2,11495E+16
+﻿99106140304;Jardí Botànic de Barcelona;16.04.99 00:00;23.11.22 12:39;Carrer del Doctor Font i Quer;2;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;42963966;4579518613;4,13641E+15;2,15875E+16
+﻿99106140304;Jardí Botànic de Barcelona;16.04.99 00:00;23.11.22 12:39;Carrer del Doctor Font i Quer;2;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;42963966;4579518613;4,13641E+15;2,15875E+16
+﻿99106140304;Jardí Botànic de Barcelona;16.04.99 00:00;23.11.22 12:39;Carrer del Doctor Font i Quer;2;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;42963966;4579518613;4,13641E+15;2,15875E+16
+﻿99400062483;Biblioteca;09.10.03 13:26;21.06.22 12:52;Parc del Laberint;;43;Horta;7;Horta-Guinardó;8035;Barcelona;4,28692E+15;4,58798E+15;4,14402E+14;2,14642E+16
+﻿99400062483;Biblioteca;09.10.03 13:26;21.06.22 12:52;Parc del Laberint;;43;Horta;7;Horta-Guinardó;8035;Barcelona;4,28692E+15;4,58798E+15;4,14402E+14;2,14642E+16
+﻿99400036954;Mediateca i Fonoteca Daniel Danielou;26.03.03 08:55;17.12.21 12:52;Carrer de Bolívia;56;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8018;Barcelona;4,32359E+15;4,58376E+15;4,14026E+16;2,19078E+16
+﻿92086019686;Biblioteca;24.01.90 00:00;17.09.22 04:30;Av Eduard Maristany;16;70;el Besòs i el Maresme;10;Sant Martí;8019;BARCELONA;4,34983E+16;4,58486E+15;4,14127E+16;2,22205E+16
+﻿99322140211;CaixaForum Centre Social i Cultural;18.11.99 00:00;12.09.22 14:53;Avinguda de Francesc Ferrer i Guàrdia;6;14;la Font de la Guatlla;3;Sants-Montjuïc;8038;Barcelona;4,28882E+16;4,58033E+15;4,13713E+16;2,14959E+16
+﻿99400019598;Biblioteca Ignasi Iglésias - Can Fabra;26.09.02 13:17;07.12.22 13:54;Carrer del Segre;24;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32401E+15;4,58731E+15;4,14345E+15;2,19089E+15
+﻿99400019598;Biblioteca Ignasi Iglésias - Can Fabra;26.09.02 13:17;07.12.22 13:54;Carrer del Segre;24;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32401E+15;4,58731E+15;4,14345E+15;2,19089E+15
+﻿99400019598;Biblioteca Ignasi Iglésias - Can Fabra;26.09.02 13:17;07.12.22 13:54;Carrer del Segre;24;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32401E+15;4,58731E+15;4,14345E+15;2,19089E+15
+﻿92086010030;Biblioteca;16.05.86 00:00;17.09.22 04:11;Av Diagonal;647;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26025E+16;4,58186E+15;4,13849E+15;2,11525E+16
+﻿92086005234;Biblioteca;22.05.86 00:00;17.09.22 03:59;C Cornet i Mas;15;23;Sarrià;5;Sarrià-Sant Gervasi;8017;BARCELONA;4,2674E+16;4,58333E+15;4,13982E+15;2,12362E+16
+﻿92086013166;Biblioteca;23.05.86 00:00;09.06.21 11:00;Girona;20;7;la Dreta de l'Eixample;2;Eixample;8010;BARCELONA;4,31071E+15;4,58257E+15;4,13917E+15;2,17551E+16
+﻿92086005760;Biblioteca Canyelles;21.05.86 00:00;07.12.22 13:39;Ronda de la Guineueta Vella;34;49;Canyelles;8;Nou Barris;8042;Barcelona;4,30193E+16;4,58836E+15;4,14438E+15;2,16434E+16
+﻿92086005760;Biblioteca Canyelles;21.05.86 00:00;07.12.22 13:39;Ronda de la Guineueta Vella;34;49;Canyelles;8;Nou Barris;8042;Barcelona;4,30193E+16;4,58836E+15;4,14438E+15;2,16434E+16
+﻿92086005760;Biblioteca Canyelles;21.05.86 00:00;07.12.22 13:39;Ronda de la Guineueta Vella;34;49;Canyelles;8;Nou Barris;8042;Barcelona;4,30193E+16;4,58836E+15;4,14438E+15;2,16434E+16
+﻿92086009703;Biblioteca de la  província franciscana Catalunya;20.05.86 00:00;17.09.22 04:09;C Santaló;80;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8021;BARCELONA;4,28435E+15;4,58324E+15;4,13975E+15;2,14391E+15
+﻿92086002000;CRAI - Biblioteca;15.01.87 00:00;11.07.22 13:08;Av Joan XXIII;1;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26359E+15;4,58146E+15;4,13813E+16;2,11929E+16
+﻿92086002000;CRAI - Biblioteca;15.01.87 00:00;11.07.22 13:08;Av Joan XXIII;1;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26359E+15;4,58146E+15;4,13813E+16;2,11929E+16
+﻿92086010293;Biblioteca;03.07.86 00:00;17.09.22 04:12;C Mallorca;207;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,29602E+15;4,58245E+15;4,13905E+14;2,15796E+15
+﻿99400227877;Biblioteca La Sagrera-Marina Clotet;17.06.09 11:51;07.12.22 13:55;Carrer de Josep Soldevila;9;61;la Sagrera;9;Sant Andreu;8027;Barcelona;432630483;4586323205;4,14256E+16;2,19374E+15
+﻿99400227877;Biblioteca La Sagrera-Marina Clotet;17.06.09 11:51;07.12.22 13:55;Carrer de Josep Soldevila;9;61;la Sagrera;9;Sant Andreu;8027;Barcelona;432630483;4586323205;4,14256E+16;2,19374E+15
+﻿99400227877;Biblioteca La Sagrera-Marina Clotet;17.06.09 11:51;07.12.22 13:55;Carrer de Josep Soldevila;9;61;la Sagrera;9;Sant Andreu;8027;Barcelona;432630483;4586323205;4,14256E+16;2,19374E+15
+﻿99400227877;Biblioteca La Sagrera-Marina Clotet;17.06.09 11:51;07.12.22 13:55;Carrer de Josep Soldevila;9;61;la Sagrera;9;Sant Andreu;8027;Barcelona;432630483;4586323205;4,14256E+16;2,19374E+15
+﻿92086000477;Biblioteca Nacional de Catalunya;21.05.86 00:00;16.02.22 10:41;C Hospital;56;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30583E+15;4,5814E+16;4,13811E+15;2,16981E+16
+﻿92086000491;Biblioteca;29.05.90 00:00;17.09.22 03:44;C Hospital;56;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30583E+15;4,5814E+16;4,13811E+15;2,16981E+16
+﻿92086002084;CRAI - Biblioteca;15.05.86 00:00;11.07.22 12:29;Av Diagonal;645;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26176E+15;4,58192E+15;4,13854E+15;2,11704E+16
+﻿92086002084;CRAI - Biblioteca;15.05.86 00:00;11.07.22 12:29;Av Diagonal;645;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26176E+15;4,58192E+15;4,13854E+15;2,11704E+16
+﻿92086010540;Biblioteca;16.05.86 00:00;17.09.22 04:13;C Arcs;5;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,3098E+15;4,58178E+15;4,13846E+15;2,17451E+16
+﻿92086009591;Biblioteca;16.05.86 00:00;17.09.22 04:08;C Bruc;110;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30451E+15;4,58304E+16;4,13959E+15;2,16804E+16
+﻿92086009591;Biblioteca;16.05.86 00:00;17.09.22 04:08;C Bruc;110;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30451E+15;4,58304E+16;4,13959E+15;2,16804E+16
+﻿96116101350;Arxiu Municipal del Districte de Sarrià-Sant Gervasi;25.04.96 00:00;03.11.22 09:19;Eduardo Conde;22;23;Sarrià;5;Sarrià-Sant Gervasi;8034;BARCELONA;4,26532E+15;4,58286E+14;4,13939E+16;2,12119E+16
+﻿96116102309;Arxiu Municipal del Districte de Sant Andreu;25.04.96 00:00;03.11.22 09:27;Carrer dels Segadors;2;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32513E+15;4,58758E+15;4,1437E+15;2,1922E+16
+﻿92086011804;Biblioteca de Cinema;27.01.87 00:00;17.09.22 04:17;Pl Salvador Seguí;1;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30682E+15;4,58112E+15;4,13786E+16;2,17103E+15
+﻿99400367586;Museu Etnològic i de Cultures del Món *c.  Montcada;13.01.15 15:11;12.09.22 13:26;Carrer de Montcada;12;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31517E+16;4,58183E+15;4,13851E+15;2,18093E+14
+﻿99400367586;Museu Etnològic i de Cultures del Món *c.  Montcada;13.01.15 15:11;12.09.22 13:26;Carrer de Montcada;12;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31517E+16;4,58183E+15;4,13851E+15;2,18093E+14
+﻿92086002115;Biblioteca Montserrat Abelló;30.05.84 00:00;07.12.22 13:10;Carrer dels Comtes de Bell-lloc;192;19;les Corts;4;Les Corts;8014;Barcelona;4,27701E+15;4,58172E+15;4,13837E+15;2,13531E+16
+﻿92086002115;Biblioteca Montserrat Abelló;30.05.84 00:00;07.12.22 13:10;Carrer dels Comtes de Bell-lloc;192;19;les Corts;4;Les Corts;8014;Barcelona;4,27701E+15;4,58172E+15;4,13837E+15;2,13531E+16
+﻿93333143803;Espai de Documentació i Recerca: Biblioteca, Arxiu Històric i Fons Sonor;29.11.93 00:00;14.06.21 15:55;C Lepant;150;5;el Fort Pienc;2;Eixample;8013;BARCELONA;4,31862E+15;4,58331E+15;4,13984E+16;2,18489E+15
+﻿93333143803;Espai de Documentació i Recerca: Biblioteca, Arxiu Històric i Fons Sonor;29.11.93 00:00;14.06.21 15:55;C Lepant;150;5;el Fort Pienc;2;Eixample;8013;BARCELONA;4,31862E+15;4,58331E+15;4,13984E+16;2,18489E+15
+﻿93333143803;Espai de Documentació i Recerca: Biblioteca, Arxiu Històric i Fons Sonor;29.11.93 00:00;14.06.21 15:55;C Lepant;150;5;el Fort Pienc;2;Eixample;8013;BARCELONA;4,31862E+15;4,58331E+15;4,13984E+16;2,18489E+15
+﻿99400659716;Biblioteca Gabriel García Márquez;10.11.20 15:44;07.12.22 14:03;Carrer del Treball;219;72;Sant Martí de Provençals;10;Sant Martí;8020;Barcelona;43314543;4585384045;4,14172E+15;2,20001E+16
+﻿99400659716;Biblioteca Gabriel García Márquez;10.11.20 15:44;07.12.22 14:03;Carrer del Treball;219;72;Sant Martí de Provençals;10;Sant Martí;8020;Barcelona;43314543;4585384045;4,14172E+15;2,20001E+16
+﻿99400659716;Biblioteca Gabriel García Márquez;10.11.20 15:44;07.12.22 14:03;Carrer del Treball;219;72;Sant Martí de Provençals;10;Sant Martí;8020;Barcelona;43314543;4585384045;4,14172E+15;2,20001E+16
+﻿139173259;Museu de la Perruqueria Raffel Pages;18.05.00 00:00;17.09.22 02:16;Rbla Catalunya;99;7;la Dreta de l'Eixample;2;Eixample;8008;BARCELONA;4,29802E+16;4,58275E+14;4,13932E+15;2,16031E+15
+﻿99400224638;Museu de Pintura Contemporània Can Framis;24.04.09 00:00;04.11.22 13:20;Carrer de Roc Boronat;116;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8018;Barcelona;4,32709E+13;4,5838E+14;4,14029E+15;2,19497E+16
+﻿99400471816;Sala d'Estudi Montbau;13.12.16 00:00;08.07.22 11:37;C Arquitectura;8;40;Montbau;7;Horta-Guinardó;8035;BARCELONA;4,28308E+16;4,58676E+15;4,14292E+14;2,14197E+16
+﻿92086000627;Biblioteca;16.05.86 00:00;02.12.22 10:38;C Notariat;4;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30529E+16;4,58162E+16;4,13831E+15;2,16914E+16
+﻿92086010705;Biblioteca Pública Episcopal del Seminari de Barcelona;16.05.86 00:00;20.07.21 16:31;Carrer de la Diputació;231;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;Barcelona;4,30059E+14;4,58215E+15;4,13878E+16;2,16345E+15
+﻿92086011648;Biblioteca;16.05.86 00:00;17.09.22 04:17;Pl Margarida Xirgu;1;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,29538E+16;4,58025E+15;4,13707E+15;2,15745E+16
+﻿99400061992;Biblioteca El Carmel - Juan Marsé;02.10.03 18:13;07.12.22 14:35;Carrer de la Murtra;135;37;el Carmel;7;Horta-Guinardó;8032;Barcelona;4,29398E+15;4,58584E+15;4,1421E+15;2,15512E+16
+﻿99400061992;Biblioteca El Carmel - Juan Marsé;02.10.03 18:13;07.12.22 14:35;Carrer de la Murtra;135;37;el Carmel;7;Horta-Guinardó;8032;Barcelona;4,29398E+15;4,58584E+15;4,1421E+15;2,15512E+16
+﻿99400061992;Biblioteca El Carmel - Juan Marsé;02.10.03 18:13;07.12.22 14:35;Carrer de la Murtra;135;37;el Carmel;7;Horta-Guinardó;8032;Barcelona;4,29398E+15;4,58584E+15;4,1421E+15;2,15512E+16
+﻿92086000948;Biblioteca;14.05.86 00:00;17.09.22 03:46;C Pou de la Figuera;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31442E+16;4,58213E+15;4,13878E+16;2,18E+16
+﻿99400035302;Museu de la Guàrdia Urbana;07.03.03 08:43;24.01.22 12:47;C Guàrdia Urbana;3;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,2926E+15;4,58044E+15;4,13724E+15;2,1541E+16
+﻿99400035302;Museu de la Guàrdia Urbana;07.03.03 08:43;24.01.22 12:47;C Guàrdia Urbana;3;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,2926E+15;4,58044E+15;4,13724E+15;2,1541E+16
+﻿92086021426;Biblioteca Francesc Candel;09.06.87 00:00;07.12.22 12:56;Carrer de l'Amnistia Internacional;10;13;la Marina de Port;3;Sants-Montjuïc;8038;Barcelona;4,27759E+16;4,57928E+15;4,13618E+14;2,13629E+15
+﻿92086021426;Biblioteca Francesc Candel;09.06.87 00:00;07.12.22 12:56;Carrer de l'Amnistia Internacional;10;13;la Marina de Port;3;Sants-Montjuïc;8038;Barcelona;4,27759E+16;4,57928E+15;4,13618E+14;2,13629E+15
+﻿92086021426;Biblioteca Francesc Candel;09.06.87 00:00;07.12.22 12:56;Carrer de l'Amnistia Internacional;10;13;la Marina de Port;3;Sants-Montjuïc;8038;Barcelona;4,27759E+16;4,57928E+15;4,13618E+14;2,13629E+15
+﻿92086008284;Biblioteca;15.05.86 00:00;17.09.22 04:03;C Ciutat de Balaguer;17;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;BARCELONA;4,27791E+16;4,58381E+15;4,14026E+15;2,13613E+15
+﻿92086009696;Biblioteca;16.05.86 00:00;17.09.22 04:09;Av Diagonal;424;7;la Dreta de l'Eixample;2;Eixample;8037;BARCELONA;4,29978E+15;4,58322E+15;4,13975E+15;2,16237E+16
+﻿92086014814;Biblioteca;21.05.86 00:00;17.09.22 04:24;C Número 62 Zona Franca;16;12;la Marina del Prat Vermell;3;Sants-Montjuïc;8040;BARCELONA;4,28228E+16;4,57756E+15;4,13463E+15;2,1421E+15
+﻿92086010270;Centre de Recursos Intermón;16.05.86 00:00;17.09.22 04:12;G.V. Corts Catalanes;641;7;la Dreta de l'Eixample;2;Eixample;8010;BARCELONA;4,30737E+15;4,58263E+15;4,13922E+16;2,17151E+16
+﻿92086003528;CRAI - Biblioteca;08.11.88 00:00;11.07.22 13:17;C Casanova;143;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,29119E+16;4,58235E+15;4,13896E+15;2,15219E+15
+﻿92086003528;CRAI - Biblioteca;08.11.88 00:00;11.07.22 13:17;C Casanova;143;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,29119E+16;4,58235E+15;4,13896E+15;2,15219E+15
+﻿92086001509;Museu Martorell;30.05.84 00:00;08.11.22 11:07;Pg Picasso;9;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31795E+14;4,58207E+15;4,13872E+16;2,18423E+15
+﻿92086001509;Museu Martorell;30.05.84 00:00;08.11.22 11:07;Pg Picasso;9;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31795E+14;4,58207E+15;4,13872E+16;2,18423E+15
+﻿92086001509;Museu Martorell;30.05.84 00:00;08.11.22 11:07;Pg Picasso;9;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31795E+14;4,58207E+15;4,13872E+16;2,18423E+15
+﻿92086001513;Biblioteca;15.05.86 00:00;23.12.21 13:19;Passeig de Picasso;5;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31696E+14;4,58217E+15;4,13881E+16;2,18304E+16
+﻿92086001513;Biblioteca;15.05.86 00:00;23.12.21 13:19;Passeig de Picasso;5;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31696E+14;4,58217E+15;4,13881E+16;2,18304E+16
+﻿92086010260;Biblioteca;16.05.86 00:00;17.09.22 04:12;Via Laietana;51;2;el Barri Gòtic;1;Ciutat Vella;8003;BARCELONA;4,30953E+16;4,58208E+15;4,13873E+15;2,17416E+15
+﻿99400013702;Biblioteca Judicial de Barcelona - TSJC Sala Contenciosa Administrativa;26.07.02 12:28;17.09.22 05:58;Via Laietana;56;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,3094E+16;4,58213E+15;4,13877E+15;2,17399E+16
+﻿99020100152;Biblioteca Josep Benet i Centre de Documentació;20.01.99 00:00;29.07.21 10:30;Pl Pau Vila;3;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,31926E+16;4,58135E+15;4,13808E+15;2,18587E+16
+﻿92086005883;MUHBA Museu d'Història de Barcelona - Vil·la Joana;30.05.84 00:00;07.11.22 09:27;Carretera de l'Església;104;22;Vallvidrera, el Tibidabo i les Planes;5;Sarrià-Sant Gervasi;8017;Barcelona;4,24786E+15;4,58572E+15;4,14195E+15;2,09995E+15
+﻿92086005883;MUHBA Museu d'Història de Barcelona - Vil·la Joana;30.05.84 00:00;07.11.22 09:27;Carretera de l'Església;104;22;Vallvidrera, el Tibidabo i les Planes;5;Sarrià-Sant Gervasi;8017;Barcelona;4,24786E+15;4,58572E+15;4,14195E+15;2,09995E+15
+﻿98153124453;CRAI - Biblioteca Campus Mundet de la Universitat de Barcelona;02.06.98 00:00;11.07.22 12:46;Pg Vall d'Hebron;171;40;Montbau;7;Horta-Guinardó;8035;BARCELONA;4,28749E+16;4,58748E+15;4,14358E+16;2,14716E+15
+﻿98153124453;CRAI - Biblioteca Campus Mundet de la Universitat de Barcelona;02.06.98 00:00;11.07.22 12:46;Pg Vall d'Hebron;171;40;Montbau;7;Horta-Guinardó;8035;BARCELONA;4,28749E+16;4,58748E+15;4,14358E+16;2,14716E+15
+﻿98154113738;Biblioteca;03.06.98 00:00;17.09.22 05:40;Bellesguard;30;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;BARCELONA;4,27021E+15;4,58468E+15;4,14104E+16;2,12681E+16
+﻿92086031155;Biblioteca Xavier Benguerel;18.07.90 00:00;07.12.22 14:09;Avinguda del Bogatell;17;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;Barcelona;4,32929E+15;4,58263E+15;4,13924E+15;2,19773E+16
+﻿92086031155;Biblioteca Xavier Benguerel;18.07.90 00:00;07.12.22 14:09;Avinguda del Bogatell;17;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;Barcelona;4,32929E+15;4,58263E+15;4,13924E+15;2,19773E+16
+﻿92086031155;Biblioteca Xavier Benguerel;18.07.90 00:00;07.12.22 14:09;Avinguda del Bogatell;17;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;Barcelona;4,32929E+15;4,58263E+15;4,13924E+15;2,19773E+16
+﻿99400072581;MUHBA Museu d'Història de Barcelona - Park Güell Casa del Guarda;29.01.04 16:37;04.11.22 15:32;C Olot;7;30;la Salut;6;Gràcia;8024;BARCELONA;4,29223E+15;4,58501E+15;4,14135E+15;2,15313E+15
+﻿92086002667;Biblioteca;15.04.85 00:00;17.09.22 03:51;C Viladomat;152;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;BARCELONA;4,29229E+16;4,58158E+15;4,13827E+15;2,15359E+16
+﻿92086009018;Biblioteca;20.05.86 00:00;17.09.22 04:06;C Elisabets;12;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30465E+16;4,58174E+15;4,13842E+16;2,16835E+16
+﻿92086002059;CRAI - Biblioteca;02.06.88 00:00;11.07.22 13:07;Av Diagonal;684;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26517E+15;4,58212E+15;4,13872E+15;2,1211E+16
+﻿92086002059;CRAI - Biblioteca;02.06.88 00:00;11.07.22 13:07;Av Diagonal;684;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26517E+15;4,58212E+15;4,13872E+15;2,1211E+16
+﻿92086000093;Biblioteca;16.05.86 00:00;13.12.21 09:56;Passeig del Migdia;187;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29827E+15;4,57928E+15;4,1362E+15;2,16102E+16
+﻿92086000093;Biblioteca;16.05.86 00:00;13.12.21 09:56;Passeig del Migdia;187;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29827E+15;4,57928E+15;4,1362E+15;2,16102E+16
+﻿99400385882;MUHBA Museu d'Història de Barcelona - Oliva Artés;08.05.15 13:38;16.09.22 10:23;Carrer d'Espronceda;142;71;Provençals del Poblenou;10;Sant Martí;8018;Barcelona;4,33228E+16;4,58439E+15;4,14083E+14;2,20111E+16
+﻿99400385882;MUHBA Museu d'Història de Barcelona - Oliva Artés;08.05.15 13:38;16.09.22 10:23;Carrer d'Espronceda;142;71;Provençals del Poblenou;10;Sant Martí;8018;Barcelona;4,33228E+16;4,58439E+15;4,14083E+14;2,20111E+16
+﻿92086000116;Biblioteca;20.05.86 00:00;24.10.22 12:52;Pg Mollerussa;71;59;el Bon Pastor;9;Sant Andreu;8030;BARCELONA;4,33752E+15;4,5878E+15;4,14391E+15;2,207E+16
+﻿92086000116;Biblioteca;20.05.86 00:00;24.10.22 12:52;Pg Mollerussa;71;59;el Bon Pastor;9;Sant Andreu;8030;BARCELONA;4,33752E+15;4,5878E+15;4,14391E+15;2,207E+16
+﻿92086008808;Casa Vicens;07.12.84 00:00;18.10.22 09:05;C Carolines;18;31;la Vila de Gràcia;6;Gràcia;8012;BARCELONA;4,29E+16;4,5839E+15;4,14035E+14;2,15059E+16
+﻿92086003688;CRAI - Biblioteca de Lletres;21.05.86 00:00;11.07.22 13:12;G.V. Corts Catalanes;585;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30106E+16;4,58201E+16;4,13866E+15;2,16403E+15
+﻿92086003688;CRAI - Biblioteca de Lletres;21.05.86 00:00;11.07.22 13:12;G.V. Corts Catalanes;585;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30106E+16;4,58201E+16;4,13866E+15;2,16403E+15
+﻿92086013490;Biblioteca;03.03.92 00:00;17.09.22 04:23;C Rosselló;183;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,29321E+15;4,58255E+15;4,13914E+15;2,15458E+16
+﻿92086008698;Biblioteca;16.05.86 00:00;17.09.22 04:04;Pla Palau;18;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,31813E+16;4,58153E+15;4,13824E+15;2,1845E+15
+﻿92086008698;Biblioteca;16.05.86 00:00;17.09.22 04:04;Pla Palau;18;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,31813E+16;4,58153E+15;4,13824E+15;2,1845E+15
+﻿99400299968;Biblioteca Camp de l'Arpa - Caterina Albert;06.09.12 12:53;07.12.22 13:59;Carrer de la Indústria;295;64;el Camp de l'Arpa del Clot;10;Sant Martí;8041;Barcelona;4,31664E+15;4,58524E+15;4,14158E+16;2,1823E+16
+﻿99400299968;Biblioteca Camp de l'Arpa - Caterina Albert;06.09.12 12:53;07.12.22 13:59;Carrer de la Indústria;295;64;el Camp de l'Arpa del Clot;10;Sant Martí;8041;Barcelona;4,31664E+15;4,58524E+15;4,14158E+16;2,1823E+16
+﻿99400299968;Biblioteca Camp de l'Arpa - Caterina Albert;06.09.12 12:53;07.12.22 13:59;Carrer de la Indústria;295;64;el Camp de l'Arpa del Clot;10;Sant Martí;8041;Barcelona;4,31664E+15;4,58524E+15;4,14158E+16;2,1823E+16
+﻿92086001246;Biblioteca;16.05.86 00:00;17.09.22 03:47;Girona;64;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30741E+16;4,58291E+15;4,13947E+16;2,17152E+16
+﻿92086001302;Biblioteca;24.05.88 00:00;17.09.22 03:47;Av Diagonal;452;31;la Vila de Gràcia;6;Gràcia;8006;BARCELONA;4,29593E+15;4,5831E+15;4,13964E+16;2,15777E+16
+﻿99400245954;Sala d'Estudi Zona Nord;27.04.10 00:00;08.07.22 11:39;Carrer de Vallcivera;3;54;Torre Baró;8;Nou Barris;8033;Barcelona;4,31511E+15;4,59029E+14;4,14613E+15;2,17989E+14
+﻿92086004492;Museu Temple Expiatori;17.04.86 00:00;23.12.21 14:16;C Mallorca;401;6;la Sagrada Família;2;Eixample;8013;BARCELONA;4,31027E+15;4,58385E+15;4,14032E+15;2,17484E+15
+﻿92086003282;Casa Museu Gaudí;30.04.86 00:00;04.11.22 15:30;Carretera del Carmel;23;30;la Salut;6;Gràcia;8024;Barcelona;4,29387E+15;4,58515E+14;4,14148E+15;2,15506E+16
+﻿92086026195;Arxiu Municipal Contemporani de Barcelona;16.04.91 00:00;20.10.21 14:58;Carrer del Bisbe Caçador;4;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31334E+15;4,58161E+15;4,13831E+16;2,17877E+16
+﻿92086009755;Biblioteca;22.05.86 00:00;17.09.22 04:09;C Avenir;24;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8021;BARCELONA;4,28786E+16;4,58314E+15;4,13967E+16;2,14811E+15
+﻿99400307844;Sala d'Estudi Clarà;31.12.12 00:00;08.07.22 11:34;Carrer del Doctor Carulla;22;24;les Tres Torres;5;Sarrià-Sant Gervasi;8017;Barcelona;4,27231E+16;4,58352E+15;4,13999E+15;2,12947E+16
+﻿92086005208;Biblioteca;16.05.86 00:00;17.09.22 03:58;Av Pearson;21;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,25427E+15;4,58279E+15;4,13932E+16;2,10798E+15
+﻿92086004493;Arxiu;15.05.86 00:00;17.09.22 03:56;C Mallorca;401;6;la Sagrada Família;2;Eixample;8013;BARCELONA;4,31027E+16;4,58385E+15;4,14032E+15;2,17484E+16
+﻿92086001333;Museu Picasso;30.05.84 00:00;04.11.22 15:10;Carrer de Montcada;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31511E+16;4,58184E+14;4,13852E+16;2,18085E+15
+﻿92086001333;Museu Picasso;30.05.84 00:00;04.11.22 15:10;Carrer de Montcada;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31511E+16;4,58184E+14;4,13852E+16;2,18085E+15
+﻿92086001333;Museu Picasso;30.05.84 00:00;04.11.22 15:10;Carrer de Montcada;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31511E+16;4,58184E+14;4,13852E+16;2,18085E+15
+﻿92086001392;Centre de Documentació de l'Orfeó Català;15.05.86 00:00;17.09.22 03:47;C Palau de la Música;4;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31028E+16;4,5821E+15;4,13875E+15;2,17505E+16
+﻿96296095206;Museu i Centre d'Estudis de l'Esport Doctor Melcior Colet **Tancat al públic;22.10.96 00:00;24.01.22 12:57;C Buenos Aires;56;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,28788E+15;4,58275E+15;4,13931E+16;2,14819E+16
+﻿92086018048;Biblioteca;12.02.88 00:00;17.09.22 04:28;Astúries;83;31;la Vila de Gràcia;6;Gràcia;8024;BARCELONA;4,29489E+15;4,58403E+15;4,14047E+15;2,15642E+16
+﻿90154904;Museu Egipci de Barcelona;30.03.00 00:00;04.11.22 15:23;Carrer de València;284;7;la Dreta de l'Eixample;2;Eixample;8007;Barcelona;4,30174E+16;4,58279E+15;4,13937E+15;2,16475E+16
+﻿92086001132;Museu Frederic Marès;30.05.84 00:00;04.11.22 15:03;Plaça de Sant Iu;5;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31184E+15;4,58174E+15;4,13842E+15;2,17696E+14
+﻿92086001132;Museu Frederic Marès;30.05.84 00:00;04.11.22 15:03;Plaça de Sant Iu;5;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31184E+15;4,58174E+15;4,13842E+15;2,17696E+14
+﻿92086001132;Museu Frederic Marès;30.05.84 00:00;04.11.22 15:03;Plaça de Sant Iu;5;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31184E+15;4,58174E+15;4,13842E+15;2,17696E+14
+﻿92086001171;Biblioteca Francesca Bonnemaison;30.05.84 00:00;07.12.22 12:18;Carrer de Sant Pere Més Baix;7;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31091E+16;4,58204E+15;4,1387E+15;2,17581E+16
+﻿92086001171;Biblioteca Francesca Bonnemaison;30.05.84 00:00;07.12.22 12:18;Carrer de Sant Pere Més Baix;7;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31091E+16;4,58204E+15;4,1387E+15;2,17581E+16
+﻿92086001171;Biblioteca Francesca Bonnemaison;30.05.84 00:00;07.12.22 12:18;Carrer de Sant Pere Més Baix;7;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31091E+16;4,58204E+15;4,1387E+15;2,17581E+16
+﻿2123115923;Biblioteca Vila de Gràcia;03.05.02 00:00;07.12.22 13:24;Carrer del Torrent de l'Olla;104;31;la Vila de Gràcia;6;Gràcia;8012;Barcelona;4,29637E+16;4,58367E+15;4,14015E+15;2,15823E+15
+﻿2123115923;Biblioteca Vila de Gràcia;03.05.02 00:00;07.12.22 13:24;Carrer del Torrent de l'Olla;104;31;la Vila de Gràcia;6;Gràcia;8012;Barcelona;4,29637E+16;4,58367E+15;4,14015E+15;2,15823E+15
+﻿2123115923;Biblioteca Vila de Gràcia;03.05.02 00:00;07.12.22 13:24;Carrer del Torrent de l'Olla;104;31;la Vila de Gràcia;6;Gràcia;8012;Barcelona;4,29637E+16;4,58367E+15;4,14015E+15;2,15823E+15
+﻿99400244867;Fabra i Coats Centre d'Art Contemporani;09.04.10 10:27;08.11.22 13:31;Carrer de Sant Adrià;20;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32396E+16;4,58723E+14;4,14338E+16;2,19083E+16
+﻿276102917;Museu de la Xocolata;02.10.00 00:00;04.11.22 15:16;Carrer del Comerç;36;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31586E+15;4,58209E+15;4,13874E+15;2,18173E+15
+﻿284153819;Biblioteca Les Corts - Miquel Llongueras;10.10.00 00:00;07.12.22 13:07;Travessera de les Corts;58;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26569E+16;4,58109E+15;4,1378E+15;2,12184E+16
+﻿284153819;Biblioteca Les Corts - Miquel Llongueras;10.10.00 00:00;07.12.22 13:07;Travessera de les Corts;58;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26569E+16;4,58109E+15;4,1378E+15;2,12184E+16
+﻿284153819;Biblioteca Les Corts - Miquel Llongueras;10.10.00 00:00;07.12.22 13:07;Travessera de les Corts;58;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26569E+16;4,58109E+15;4,1378E+15;2,12184E+16
+﻿1123095736;Biblioteca;03.05.01 00:00;17.09.22 02:22;Carme;15;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30668E+14;4,58155E+15;4,13825E+16;2,17081E+15
+﻿99400384210;Museu de les Il·lusions - Big Fun Museum;24.04.15 08:59;04.11.22 15:09;C Rambla;88;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30838E+16;4,58149E+15;4,1382E+16;2,17284E+15
+﻿94286172503;Biblioteca Montbau - Albert Pérez Baró;13.10.94 00:00;07.12.22 13:37;Carrer de l'Arquitectura;8;40;Montbau;7;Horta-Guinardó;8035;Barcelona;4,28308E+16;4,58676E+15;4,14292E+14;2,14197E+16
+﻿94286172503;Biblioteca Montbau - Albert Pérez Baró;13.10.94 00:00;07.12.22 13:37;Carrer de l'Arquitectura;8;40;Montbau;7;Horta-Guinardó;8035;Barcelona;4,28308E+16;4,58676E+15;4,14292E+14;2,14197E+16
+﻿94286172503;Biblioteca Montbau - Albert Pérez Baró;13.10.94 00:00;07.12.22 13:37;Carrer de l'Arquitectura;8;40;Montbau;7;Horta-Guinardó;8035;Barcelona;4,28308E+16;4,58676E+15;4,14292E+14;2,14197E+16
+﻿92086009005;Biblioteca;16.05.86 00:00;23.12.21 14:08;Parc de la Ciutadella;;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31996E+16;4,58217E+15;4,13882E+14;2,18661E+16
+﻿92086010668;Biblioteca;16.05.86 00:00;17.09.22 04:14;Av Pedralbes;60;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,25973E+15;4,58285E+15;4,13937E+15;2,1145E+14
+﻿92086004035;Biblioteca;16.05.86 00:00;17.09.22 03:55;Ptge Méndez Vigo;5;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,304E+16;4,58276E+15;4,13934E+15;2,16747E+14
+﻿92086004081;Biblioteca Ventosa i Roig;16.05.86 00:00;17.09.22 03:55;C Aragó;281;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,3028E+14;4,58275E+15;4,13933E+15;2,16603E+16
+﻿92153095030;Biblioteca de l'Espai de Fotografia;01.06.92 00:00;11.03.22 14:22;G.V. Corts Catalanes;491;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;BARCELONA;4,29462E+15;4,58138E+15;4,13808E+15;2,15641E+16
+﻿99400010089;Biblioteca Collserola-Josep Miracle;27.06.02 14:02;07.12.22 13:15;Carrer d'Elisa Moragas i Badia;16;22;Vallvidrera, el Tibidabo i les Planes;5;Sarrià-Sant Gervasi;8017;Barcelona;4,24998E+16;4,58526E+15;4,14154E+15;2,10255E+15
+﻿99400010089;Biblioteca Collserola-Josep Miracle;27.06.02 14:02;07.12.22 13:15;Carrer d'Elisa Moragas i Badia;16;22;Vallvidrera, el Tibidabo i les Planes;5;Sarrià-Sant Gervasi;8017;Barcelona;4,24998E+16;4,58526E+15;4,14154E+15;2,10255E+15
+﻿99400010089;Biblioteca Collserola-Josep Miracle;27.06.02 14:02;07.12.22 13:15;Carrer d'Elisa Moragas i Badia;16;22;Vallvidrera, el Tibidabo i les Planes;5;Sarrià-Sant Gervasi;8017;Barcelona;4,24998E+16;4,58526E+15;4,14154E+15;2,10255E+15
+﻿93046122603;Museu Palmero Arte;15.02.93 00:00;05.10.22 14:43;Judea;2;39;Sant Genís dels Agudells;7;Horta-Guinardó;8035;BARCELONA;4,28154E+16;4,58632E+15;4,14252E+14;2,14018E+15
+﻿99400626890;Sala d'Estudi Calàbria;23.04.19 00:00;08.07.22 11:41;C Calàbria;66;10;Sant Antoni;2;Eixample;8015;BARCELONA;4,29504E+15;4,58111E+15;4,13784E+16;2,15694E+16
+﻿99400626900;Sala d'Estudi Trinitat Vella;23.04.19 00:00;08.07.22 11:38;C Galícia;16;57;la Trinitat Vella;9;Sant Andreu;8033;BARCELONA;4,32406E+16;4,58895E+14;4,14493E+15;2,19077E+16
+﻿94253132228;Museu;10.09.94 00:00;12.09.22 14:35;Carrer d'Aragó;255;7;la Dreta de l'Eixample;2;Eixample;8007;Barcelona;4,3009E+15;4,58256E+15;4,13916E+15;2,16378E+16
+﻿94348110436;Espai Gaudí: Pis, Golfes i Terrat;14.12.94 00:00;23.11.22 13:23;Provença;261;7;la Dreta de l'Eixample;2;Eixample;8008;BARCELONA;4,29951E+15;4,58298E+15;4,13953E+15;2,16206E+15
+﻿94102143353;Biblioteca;12.04.94 00:00;17.09.22 05:08;Pau Gargallo;5;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25875E+16;4,58175E+15;4,13839E+15;2,11346E+16
+﻿94102143353;Biblioteca;12.04.94 00:00;17.09.22 05:08;Pau Gargallo;5;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25875E+16;4,58175E+15;4,13839E+15;2,11346E+16
+﻿92086003714;Museu Geològic del Seminari Conciliar de Barcelona;30.05.84 00:00;04.11.22 15:19;C Diputació;231;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30059E+14;4,58215E+15;4,13878E+16;2,16345E+15
+﻿99400292678;Hemp Museum Gallery Barcelona;11.05.12 13:14;05.07.21 08:24;C Ample;35;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31448E+16;4,58136E+15;4,13808E+15;2,18016E+16
+﻿92086000169;Biblioteca Jacques Dupin - Centre de Documentació;16.05.86 00:00;24.10.22 12:48;Av Miramar;1;11;el Poble-sec;3;Sants-Montjuïc;8038;BARCELONA;4,29762E+16;4,57998E+15;4,13683E+15;2,16015E+16
+﻿92086003774;Biblioteca;28.11.88 00:00;17.09.22 03:54;C Moià;8;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8006;BARCELONA;4,29092E+16;4,58299E+14;4,13953E+15;2,1518E+15
+﻿92086009953;CRAI - Biblioteca;12.02.90 00:00;11.07.22 13:04;C Martí i Franquès;2;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26346E+16;4,58179E+15;4,13842E+15;2,11909E+16
+﻿92086009953;CRAI - Biblioteca;12.02.90 00:00;11.07.22 13:04;C Martí i Franquès;2;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26346E+16;4,58179E+15;4,13842E+15;2,11909E+16
+﻿92086001950;Biblioteca Oriol Bohigas;16.05.86 00:00;17.09.22 03:49;Av Diagonal;649;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25868E+16;4,58181E+15;4,13844E+16;2,11337E+15
+﻿92086001950;Biblioteca Oriol Bohigas;16.05.86 00:00;17.09.22 03:49;Av Diagonal;649;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25868E+16;4,58181E+15;4,13844E+16;2,11337E+15
+﻿96116101644;Arxiu Municipal del Districte de Gràcia;25.04.96 00:00;03.11.22 09:20;Plaça de Lesseps;20;28;Vallcarca i els Penitents;6;Gràcia;8023;Barcelona;4,28912E+15;4,58432E+14;4,14073E+15;2,14948E+15
+﻿96116101913;Arxiu Municipal del Districte d'Horta-Guinardó;25.04.96 00:00;03.11.22 09:22;Carrer de Lepant;387;33;el Baix Guinardó;7;Horta-Guinardó;8025;Barcelona;4,30564E+15;4,5846E+15;4,141E+15;2,16921E+16
+﻿96116102114;Arxiu Municipal del Districte de Nou Barris;25.04.96 00:00;03.11.22 09:26;Plaça Major de Nou Barris;1;48;la Guineueta;8;Nou Barris;8042;Barcelona;4,30761E+16;4,58758E+15;4,14368E+14;2,17123E+16
+﻿99400368749;Sala d'Estudi Sant Gervasi - Joan Maragall;21.01.15 00:00;14.09.22 11:57;Carrer de Sant Gervasi de Cassoles;85;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;Barcelona;4,27783E+15;4,58418E+15;4,1406E+15;2,13599E+16
+﻿99400242727;Arxiu de Població;05.03.10 00:00;10.10.22 13:46;Pl Carles Pi i Sunyer;8;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30936E+15;4,58185E+15;4,13852E+15;2,17398E+15
+﻿99400236720;Biblioteca Zona Nord;24.11.09 12:55;07.12.22 13:47;Carrer de Vallcivera;3;54;Torre Baró;8;Nou Barris;8033;Barcelona;4,31511E+15;4,59029E+14;4,14613E+15;2,17989E+14
+﻿99400236720;Biblioteca Zona Nord;24.11.09 12:55;07.12.22 13:47;Carrer de Vallcivera;3;54;Torre Baró;8;Nou Barris;8033;Barcelona;4,31511E+15;4,59029E+14;4,14613E+15;2,17989E+14
+﻿99400236720;Biblioteca Zona Nord;24.11.09 12:55;07.12.22 13:47;Carrer de Vallcivera;3;54;Torre Baró;8;Nou Barris;8033;Barcelona;4,31511E+15;4,59029E+14;4,14613E+15;2,17989E+14
+﻿99400287783;Biblioteca Trinitat Vella - J. Barbero;09.03.12 09:24;07.12.22 13:57;Carrer de Galícia;16;57;la Trinitat Vella;9;Sant Andreu;8033;Barcelona;4,32406E+16;4,58895E+14;4,14493E+15;2,19077E+16
+﻿99400287783;Biblioteca Trinitat Vella - J. Barbero;09.03.12 09:24;07.12.22 13:57;Carrer de Galícia;16;57;la Trinitat Vella;9;Sant Andreu;8033;Barcelona;4,32406E+16;4,58895E+14;4,14493E+15;2,19077E+16
+﻿99400287783;Biblioteca Trinitat Vella - J. Barbero;09.03.12 09:24;07.12.22 13:57;Carrer de Galícia;16;57;la Trinitat Vella;9;Sant Andreu;8033;Barcelona;4,32406E+16;4,58895E+14;4,14493E+15;2,19077E+16
+﻿99400159253;Biblioteca de Comerç i Turisme;17.05.06 12:56;17.09.22 06:36;Pg Gràcia;105;7;la Dreta de l'Eixample;2;Eixample;8008;BARCELONA;4,29762E+15;4,58305E+15;4,13959E+16;2,1598E+16
+﻿92086001112;Biblioteca;20.05.86 00:00;17.09.22 03:47;C Bisbe Caçador;3;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31336E+15;4,58162E+15;4,13832E+15;2,17879E+16
+﻿97063160238;Centre de Documentació Begoña Raventós -Biblioteca;04.03.97 00:00;17.09.22 05:28;C Comte Borrell;201;9;la Nova Esquerra de l'Eixample;2;Eixample;8029;BARCELONA;4,29116E+16;4,58184E+15;4,1385E+15;2,15221E+15
+﻿99081114412;Biblioteca;22.03.99 00:00;17.09.22 05:49;C Comte d'Urgell;187;9;la Nova Esquerra de l'Eixample;2;Eixample;8036;BARCELONA;4,28729E+16;4,58221E+15;4,13883E+15;2,14754E+15
+﻿97044191228;Biblioteca;13.02.97 00:00;17.09.22 05:28;C Santaló;37;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8021;BARCELONA;4,28589E+15;4,58302E+15;4,13956E+15;2,14577E+16
+﻿92086003038;Biblioteca;16.05.86 00:00;17.09.22 03:52;Ptge Mulet;4;27;el Putxet i el Farró;5;Sarrià-Sant Gervasi;8006;BARCELONA;4,28893E+15;4,58376E+15;4,14022E+16;2,14932E+16
+﻿98030094836;Biblioteca;30.01.98 00:00;17.09.22 05:37;C Astúries;83;31;la Vila de Gràcia;6;Gràcia;8024;BARCELONA;4,29489E+15;4,58403E+15;4,14047E+15;2,15642E+16
+﻿96116100715;Arxiu Municipal del Districte de Sants-Montjuïc;25.04.96 00:00;03.11.22 09:17;Carrer de la Creu Coberta;104;15;Hostafrancs;3;Sants-Montjuïc;8014;Barcelona;4,28274E+15;4,58079E+14;4,13754E+14;2,14227E+16
+﻿92086002014;CRAI - Biblioteca de Recerca Fabià Estapé;16.05.86 00:00;11.07.22 12:59;Av Diagonal;690;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26003E+15;4,58195E+15;4,13857E+16;2,11497E+15
+﻿92086002014;CRAI - Biblioteca de Recerca Fabià Estapé;16.05.86 00:00;11.07.22 12:59;Av Diagonal;690;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26003E+15;4,58195E+15;4,13857E+16;2,11497E+15
+﻿92086002053;Arxiu i Biblioteca;18.04.85 00:00;17.09.22 03:50;Av Diagonal;649;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25868E+16;4,58181E+15;4,13844E+16;2,11337E+15
+﻿96116101124;Arxiu Municipal del Districte de l'Eixample;25.04.96 00:00;03.11.22 09:15;Carrer de Calàbria;38;10;Sant Antoni;2;Eixample;8015;Barcelona;4,29697E+16;4,58091E+15;4,13767E+15;2,15927E+16
+﻿94354131819;Biblioteca;20.12.94 00:00;11.06.21 11:14;Pl Àngels;1;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30421E+15;4,58163E+14;4,13832E+16;2,16785E+16
+﻿95325164950;Biblioteca Universitària de Medicina i Infermeria de la Vall d'Hebrón;21.11.95 00:00;17.09.22 05:17;Pg Vall d'Hebron;119;40;Montbau;7;Horta-Guinardó;8035;BARCELONA;4,28431E+16;4,58663E+14;4,1428E+15;2,14345E+16
+﻿99400319083;Biblioteca - Mediateca;29.05.13 00:00;17.09.22 07:54;C Valldonzella;12;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30263E+16;4,58175E+15;4,13843E+15;2,16594E+15
+﻿99400014293;Museu Escoltisme;31.07.02 10:24;17.09.22 05:58;C Plana;10;43;Horta;7;Horta-Guinardó;8032;BARCELONA;4,29678E+15;4,5869E+15;4,14306E+14;2,15835E+15
+﻿99400037765;Biblioteca Fort Pienc;11.04.03 13:14;07.12.22 12:35;Plaça de Fort Pienc;4;5;el Fort Pienc;2;Eixample;8013;Barcelona;4,31656E+15;4,58299E+15;4,13956E+15;2,18247E+15
+﻿99400037765;Biblioteca Fort Pienc;11.04.03 13:14;07.12.22 12:35;Plaça de Fort Pienc;4;5;el Fort Pienc;2;Eixample;8013;Barcelona;4,31656E+15;4,58299E+15;4,13956E+15;2,18247E+15
+﻿99400037765;Biblioteca Fort Pienc;11.04.03 13:14;07.12.22 12:35;Plaça de Fort Pienc;4;5;el Fort Pienc;2;Eixample;8013;Barcelona;4,31656E+15;4,58299E+15;4,13956E+15;2,18247E+15
+﻿97042092100;CosmoCaixa Barcelona;11.02.97 00:00;12.09.22 14:33;Carrer d'Isaac Newton;26;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;Barcelona;4,27347E+16;4,585E+15;4,14133E+15;2,13068E+16
+﻿96351205257;Biblioteca;16.12.96 00:00;17.09.22 05:27;Pg Gràcia;59;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30089E+14;4,58269E+15;4,13927E+15;2,16375E+16
+﻿96352163754;Biblioteca;17.12.96 00:00;17.09.22 05:27;Av Can Marcet;36;41;la Vall d'Hebron;7;Horta-Guinardó;8035;BARCELONA;4,28831E+16;4,58738E+15;4,14349E+15;2,14816E+16
+﻿95181082738;Biblioteca Judicial de Barcelona - Biblioteca Social;30.06.95 00:00;17.09.22 05:16;C Girona;2;7;la Dreta de l'Eixample;2;Eixample;8010;BARCELONA;4,31165E+16;4,58247E+14;4,13908E+15;2,17664E+15
+﻿95181082925;Biblioteca Judicial de Barcelona - TSJC Palau de Justícia;30.06.95 00:00;17.09.22 05:16;Pg Lluís Companys;1;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31641E+16;4,58227E+15;4,13891E+15;2,18236E+15
+﻿94320113711;Museu Nacional d'Art de Catalunya;16.11.94 00:00;07.11.22 09:08;C Mirador Palau Nacional;6;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,29196E+15;4,58005E+15;4,13689E+13;2,15338E+16
+﻿94320113711;Museu Nacional d'Art de Catalunya;16.11.94 00:00;07.11.22 09:08;C Mirador Palau Nacional;6;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,29196E+15;4,58005E+15;4,13689E+13;2,15338E+16
+﻿96352193917;Biblioteca;17.12.96 00:00;17.09.22 05:27;C Requesens;5;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30093E+15;4,58125E+15;4,13797E+16;2,16397E+15
+﻿96351211101;Biblioteca;16.12.96 00:00;17.09.22 05:27;C Enric Granados;99;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8008;BARCELONA;4,2942E+15;4,5827E+15;4,13927E+15;2,15574E+15
+﻿96313134013;Biblioteca;08.11.96 00:00;17.09.22 05:26;Av Drassanes;3;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,31003E+15;4,58084E+15;4,13761E+15;2,17489E+16
+﻿97045174408;Biblioteca;14.02.97 00:00;17.09.22 05:28;Aragó;204;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8011;BARCELONA;4,29677E+15;4,58211E+15;4,13875E+15;2,1589E+16
+﻿99021111627;Biblioteca Vilapicina i la Torre Llobeta;21.01.99 00:00;07.12.22 13:45;Plaça de Carmen Laforet;11;44;Vilapicina i la Torre Llobeta;8;Nou Barris;8016;Barcelona;4,31188E+14;4,58648E+15;4,14269E+15;2,17647E+16
+﻿99021111627;Biblioteca Vilapicina i la Torre Llobeta;21.01.99 00:00;07.12.22 13:45;Plaça de Carmen Laforet;11;44;Vilapicina i la Torre Llobeta;8;Nou Barris;8016;Barcelona;4,31188E+14;4,58648E+15;4,14269E+15;2,17647E+16
+﻿99021111627;Biblioteca Vilapicina i la Torre Llobeta;21.01.99 00:00;07.12.22 13:45;Plaça de Carmen Laforet;11;44;Vilapicina i la Torre Llobeta;8;Nou Barris;8016;Barcelona;4,31188E+14;4,58648E+15;4,14269E+15;2,17647E+16
+﻿99021111627;Biblioteca Vilapicina i la Torre Llobeta;21.01.99 00:00;07.12.22 13:45;Plaça de Carmen Laforet;11;44;Vilapicina i la Torre Llobeta;8;Nou Barris;8016;Barcelona;4,31188E+14;4,58648E+15;4,14269E+15;2,17647E+16
+﻿92086000797;Biblioteca;22.05.86 00:00;17.09.22 03:46;la Rambla;115;1;el Raval;1;Ciutat Vella;8002;BARCELONA;4,30664E+15;4,58174E+15;4,13842E+15;2,17074E+16
+﻿92086000137;Biblioteca;15.05.86 00:00;17.09.22 03:43;Pg Santa Madrona;39;11;el Poble-sec;3;Sants-Montjuïc;8038;BARCELONA;4,29556E+15;4,58019E+14;4,13702E+16;2,15766E+16
+﻿92086000174;Museu Etnològic i de Cultures del Món *Parc Montjuïc;30.05.84 00:00;12.09.22 14:34;Passeig de Santa Madrona;16;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29416E+15;4,58007E+15;4,13691E+15;2,156E+15
+﻿92086000174;Museu Etnològic i de Cultures del Món *Parc Montjuïc;30.05.84 00:00;12.09.22 14:34;Passeig de Santa Madrona;16;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29416E+15;4,58007E+15;4,13691E+15;2,156E+15
+﻿92086003706;CRAI - Biblioteca de Matemàtiques i Informàtica;16.05.86 00:00;11.07.22 13:16;G.V. Corts Catalanes;585;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30106E+16;4,58201E+16;4,13866E+15;2,16403E+15
+﻿92086003706;CRAI - Biblioteca de Matemàtiques i Informàtica;16.05.86 00:00;11.07.22 13:16;G.V. Corts Catalanes;585;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30106E+16;4,58201E+16;4,13866E+15;2,16403E+15
+﻿98068134636;Fons Bibliogràfic Bergnes de las Casas;09.03.98 00:00;20.05.21 12:56;Hospital;56;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30583E+15;4,5814E+16;4,13811E+15;2,16981E+16
+﻿92086000136;Museu d'Arqueologia de Catalunya;30.05.84 00:00;07.11.22 09:07;Passeig de Santa Madrona;39;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29556E+15;4,58019E+14;4,13702E+16;2,15766E+16
+﻿99137113647;Biblioteca;17.05.99 00:00;17.09.22 05:51;C Rocafort;129;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;BARCELONA;4,29036E+15;4,58137E+15;4,13807E+15;2,15131E+16
+﻿92086001838;Biblioteca Ramon d'Alòs - Moner;30.05.84 00:00;07.12.22 14:07;Rambla de Prim;87;70;el Besòs i el Maresme;10;Sant Martí;8019;Barcelona;4,34105E+15;4,58528E+15;4,14163E+15;2,2115E+15
+﻿92086001838;Biblioteca Ramon d'Alòs - Moner;30.05.84 00:00;07.12.22 14:07;Rambla de Prim;87;70;el Besòs i el Maresme;10;Sant Martí;8019;Barcelona;4,34105E+15;4,58528E+15;4,14163E+15;2,2115E+15
+﻿92086001838;Biblioteca Ramon d'Alòs - Moner;30.05.84 00:00;07.12.22 14:07;Rambla de Prim;87;70;el Besòs i el Maresme;10;Sant Martí;8019;Barcelona;4,34105E+15;4,58528E+15;4,14163E+15;2,2115E+15
+﻿92086008865;Biblioteca;20.05.86 00:00;17.09.22 04:05;Pg Colom;14;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31423E+16;4,58121E+15;4,13795E+15;2,17987E+16
+﻿96355142237;Bibiblioteca Rector Gabriel Ferraté;20.12.96 00:00;30.11.22 13:41;Jordi Girona;1;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,2598E+15;4,5822E+15;4,13879E+15;2,11467E+15
+﻿92086008608;Arxiu Històric de la Ciutat de Barcelona;17.09.91 00:00;01.12.22 14:27;C Santa Llúcia;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31094E+14;4,58175E+16;4,13843E+15;2,17588E+15
+﻿92086008608;Arxiu Històric de la Ciutat de Barcelona;17.09.91 00:00;01.12.22 14:27;C Santa Llúcia;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31094E+14;4,58175E+16;4,13843E+15;2,17588E+15
+﻿94048135042;Arxiu Històric del Poblenou;17.02.94 00:00;07.09.21 14:02;Plaça de Ramon Calsina;1;69;Diagonal Mar i el Front Marítim del Poblenou;10;Sant Martí;8019;Barcelona;4,34182E+16;4,58407E+14;4,14055E+15;2,21256E+15
+﻿92086003812;Biblioteca;28.11.88 00:00;23.12.21 13:10;C Roger de Flor;224;7;la Dreta de l'Eixample;2;Eixample;8025;BARCELONA;4,30639E+15;4,58359E+16;4,14008E+15;2,17022E+15
+﻿92086003855;Biblioteca;16.05.86 00:00;17.09.22 03:55;C Cardenal Tedeschini;72;62;el Congrés i els Indians;9;Sant Andreu;8027;BARCELONA;4,31591E+15;4,58643E+15;4,14265E+15;2,18129E+16
+﻿99174174612;Biblioteca;23.06.99 00:00;17.09.22 05:52;;;;;;;;BARCELONA;-8,0804E+14;-1,21323E+16;-1,09426E+16;-1,48947E+16
+﻿92086002010;CRAI - Biblioteca de Física i Química;21.05.86 00:00;11.07.22 13:13;Av Diagonal;647;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26025E+16;4,58186E+15;4,13849E+15;2,11525E+16
+﻿92086002010;CRAI - Biblioteca de Física i Química;21.05.86 00:00;11.07.22 13:13;Av Diagonal;647;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26025E+16;4,58186E+15;4,13849E+15;2,11525E+16
+﻿99062161826;Biblioteca;03.03.99 00:00;16.06.22 13:45;Av Drassanes;1;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,311E+16;4,58082E+15;4,1376E+16;2,17606E+16
+﻿92163150849;Museu Futbol Club Barcelona President Núñez;11.06.92 00:00;15.06.22 10:33;Carrer d'Arístides Maillol;12;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,2644E+15;4,58121E+15;4,13791E+16;2,12029E+16
+﻿94354123927;Museu d'Art Contemporani de Barcelona;20.12.94 00:00;04.11.22 15:07;Plaça dels Àngels;1;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30421E+15;4,58163E+14;4,13832E+16;2,16785E+16
+﻿94354123927;Museu d'Art Contemporani de Barcelona;20.12.94 00:00;04.11.22 15:07;Plaça dels Àngels;1;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30421E+15;4,58163E+14;4,13832E+16;2,16785E+16
+﻿94354123927;Museu d'Art Contemporani de Barcelona;20.12.94 00:00;04.11.22 15:07;Plaça dels Àngels;1;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30421E+15;4,58163E+14;4,13832E+16;2,16785E+16
+﻿96352155944;Biblioteca;17.12.96 00:00;17.09.22 05:27;C Paradís;10;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31203E+15;4,58165E+14;4,13834E+15;2,17719E+16
+﻿97135114148;Biblioteca Nou Barris;15.05.97 00:00;07.12.22 13:43;Plaça Major de Nou Barris;2;48;la Guineueta;8;Nou Barris;80;Barcelona;4,30761E+16;4,58758E+15;4,14368E+14;2,17123E+16
+﻿97135114148;Biblioteca Nou Barris;15.05.97 00:00;07.12.22 13:43;Plaça Major de Nou Barris;2;48;la Guineueta;8;Nou Barris;80;Barcelona;4,30761E+16;4,58758E+15;4,14368E+14;2,17123E+16
+﻿97135114148;Biblioteca Nou Barris;15.05.97 00:00;07.12.22 13:43;Plaça Major de Nou Barris;2;48;la Guineueta;8;Nou Barris;80;Barcelona;4,30761E+16;4,58758E+15;4,14368E+14;2,17123E+16
+﻿99400143851;Biblioteca Jaume Fuster;29.09.05 13:44;07.12.22 13:21;Plaça de Lesseps;20;28;Vallcarca i els Penitents;6;Gràcia;8023;Barcelona;4,28937E+16;4,58434E+15;4,14075E+15;2,14978E+15
+﻿99400143851;Biblioteca Jaume Fuster;29.09.05 13:44;07.12.22 13:21;Plaça de Lesseps;20;28;Vallcarca i els Penitents;6;Gràcia;8023;Barcelona;4,28937E+16;4,58434E+15;4,14075E+15;2,14978E+15
+﻿99400143851;Biblioteca Jaume Fuster;29.09.05 13:44;07.12.22 13:21;Plaça de Lesseps;20;28;Vallcarca i els Penitents;6;Gràcia;8023;Barcelona;4,28937E+16;4,58434E+15;4,14075E+15;2,14978E+15
+﻿99400196643;Biblioteca Horta - Can Mariner;13.12.07 17:23;07.12.22 13:35;Carrer del Vent;1;43;Horta;7;Horta-Guinardó;8031;Barcelona;4,29879E+16;4,58696E+14;4,14311E+15;2,16075E+16
+﻿99400196643;Biblioteca Horta - Can Mariner;13.12.07 17:23;07.12.22 13:35;Carrer del Vent;1;43;Horta;7;Horta-Guinardó;8031;Barcelona;4,29879E+16;4,58696E+14;4,14311E+15;2,16075E+16
+﻿99400196643;Biblioteca Horta - Can Mariner;13.12.07 17:23;07.12.22 13:35;Carrer del Vent;1;43;Horta;7;Horta-Guinardó;8031;Barcelona;4,29879E+16;4,58696E+14;4,14311E+15;2,16075E+16
+﻿99400669368;Sala d'Estudi Can Mariner;06.05.21 15:14;08.07.22 11:35;Carrer del Vent;1;43;Horta;7;Horta-Guinardó;8031;Barcelona;4,29879E+13;4,58696E+14;4,14311E+15;2,16074E+15
+﻿99400669369;Sala d'Estudi Torre Llobeta;06.05.21 15:19;08.07.22 11:39;Plaça de Carmen Laforet;11;44;Vilapicina i la Torre Llobeta;8;Nou Barris;8016;Barcelona;4,31189E+16;4,58648E+14;4,14269E+15;2,17648E+16
+﻿95325165927;Biblioteca de Medicina *Pg. Marítim;21.11.95 00:00;17.09.22 05:17;Pg Marítim Barceloneta;25;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,32665E+15;4,58164E+15;4,13834E+15;2,19468E+16
+﻿92086000494;Biblioteca;16.05.86 00:00;17.09.22 03:45;Carme;47;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30514E+15;4,58144E+15;4,13815E+15;2,16897E+15
+﻿92086012447;Biblioteca;21.05.86 00:00;17.09.22 04:21;C Sepúlveda;1;10;Sant Antoni;2;Eixample;8015;BARCELONA;4,29081E+15;4,58079E+15;4,13755E+14;2,15192E+16
+﻿92086004178;Biblioteca;20.05.86 00:00;17.09.22 03:56;C Diputació;297;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30551E+15;4,58263E+15;4,13922E+16;2,16929E+15
+﻿92086001334;Biblioteca;15.05.86 00:00;15.07.21 10:24;C Montcada;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31511E+15;4,58184E+15;4,13852E+16;2,18085E+15
+﻿92086001334;Biblioteca;15.05.86 00:00;15.07.21 10:24;C Montcada;15;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31511E+15;4,58184E+15;4,13852E+16;2,18085E+15
+﻿96116095957;Arxiu Municipal del Districte de les Corts;25.04.96 00:00;03.11.22 09:18;Plaça de Comas;18;19;les Corts;4;Les Corts;8028;Barcelona;4,2724E+15;4,58193E+15;4,13856E+15;2,12977E+16
+﻿96116100938;Arxiu Municipal del Districte de Ciutat Vella;25.04.96 00:00;03.11.22 09:13;Carrer dels Àngels;3;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,3044E+16;4,58153E+15;4,13823E+15;2,16808E+16
+﻿99299142605;Biblioteca;26.10.99 00:00;17.09.22 05:54;;;;;;;;BARCELONA;-8,0804E+14;-1,21323E+16;-1,09426E+16;-1,48947E+16
+﻿92086000924;Biblioteca;16.05.86 00:00;17.09.22 03:46;C Mercaders;42;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31179E+16;4,58194E+15;4,1386E+16;2,17688E+16
+﻿99400317247;Sala d'Estudi El Carmel;06.05.13 00:00;08.07.22 11:35;Carrer de la Murtra;135;37;el Carmel;7;Horta-Guinardó;8032;Barcelona;4,29414E+16;4,58585E+15;4,14211E+15;2,1553E+14
+﻿94139142346;Biblioteca;19.05.94 00:00;17.09.22 05:09;C Guadiana;13;18;Sants;3;Sants-Montjuïc;8014;BARCELONA;4,28023E+16;4,58069E+15;4,13745E+15;2,13928E+16
+﻿92086011563;MUHBA Museu d'Història de Barcelona - Plaça del Rei;20.03.85 00:00;04.11.22 14:54;Plaça del Rei;7;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31209E+15;4,58175E+15;4,13843E+15;2,17726E+16
+﻿92086011563;MUHBA Museu d'Història de Barcelona - Plaça del Rei;20.03.85 00:00;04.11.22 14:54;Plaça del Rei;7;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31209E+15;4,58175E+15;4,13843E+15;2,17726E+16
+﻿92168151705;Biblioteca Joan Miró;07.01.92 00:00;07.12.22 12:39;Carrer de Vilamarí;61;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;Barcelona;4,28861E+15;4,58116E+15;4,13788E+15;2,14925E+15
+﻿92168151705;Biblioteca Joan Miró;07.01.92 00:00;07.12.22 12:39;Carrer de Vilamarí;61;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;Barcelona;4,28861E+15;4,58116E+15;4,13788E+15;2,14925E+15
+﻿92168151705;Biblioteca Joan Miró;07.01.92 00:00;07.12.22 12:39;Carrer de Vilamarí;61;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;Barcelona;4,28861E+15;4,58116E+15;4,13788E+15;2,14925E+15
+﻿94166142341;CRAI - Biblioteca de Grau;15.06.94 00:00;11.07.22 13:31;C John M. Keynes;1;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26094E+16;4,58209E+15;4,1387E+16;2,11605E+15
+﻿94166142341;CRAI - Biblioteca de Grau;15.06.94 00:00;11.07.22 13:31;C John M. Keynes;1;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,26094E+16;4,58209E+15;4,1387E+16;2,11605E+15
+﻿92086029955;Museu;19.04.89 00:00;17.09.22 04:40;Trav Gràcia;93;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8006;BARCELONA;4,29132E+15;4,58328E+16;4,1398E+15;2,15224E+16
+﻿92086038779;Museu Africà Daniel Comboni;25.03.92 00:00;17.09.22 04:48;Feliu i Codina;59;43;Horta;7;Horta-Guinardó;8031;BARCELONA;4,30037E+16;4,58747E+16;4,14358E+15;2,16258E+16
+﻿93015122056;Biblioteca;15.01.93 00:00;17.09.22 05:00;C Roger de Llúria;46;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30623E+14;4,58264E+15;4,13923E+16;2,17015E+14
+﻿92086010397;Biblioteca;16.05.86 00:00;17.09.22 04:13;C Jocs Florals;51;18;Sants;3;Sants-Montjuïc;8014;BARCELONA;4,27653E+16;4,58061E+15;4,13737E+15;2,13487E+15
+﻿99400448222;Sala d'Estudi;22.04.16 00:00;17.09.22 08:39;C Sant Pere Més Baix;55;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31321E+15;4,58218E+15;4,13882E+16;2,17854E+15
+﻿99400448222;Sala d'Estudi;22.04.16 00:00;17.09.22 08:39;C Sant Pere Més Baix;55;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31321E+15;4,58218E+15;4,13882E+16;2,17854E+15
+﻿99400626895;Sala d'Estudi Sarrià;23.04.19 00:00;08.07.22 11:40;C Eduardo Conde;22;23;Sarrià;5;Sarrià-Sant Gervasi;8034;BARCELONA;4,26532E+15;4,58286E+14;4,13939E+16;2,12119E+16
+﻿99400203147;Museu del Clavegueram;31.03.08 12:58;04.11.21 13:31;Pg Sant Joan;96;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30682E+16;4,58336E+15;4,13987E+16;2,17077E+16
+﻿99400203147;Museu del Clavegueram;31.03.08 12:58;04.11.21 13:31;Pg Sant Joan;96;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30682E+16;4,58336E+15;4,13987E+16;2,17077E+16
+﻿99320093048;Fundació Biblioteca Josep Laporte;16.11.99 00:00;17.09.22 05:54;C Sant Antoni Maria Claret;171;35;el Guinardó;7;Horta-Guinardó;8041;BARCELONA;4,31114E+16;4,58487E+15;4,14124E+15;2,17576E+15
+﻿93117112023;Casa  Museu i Arxiu Joan Maragall;27.04.93 00:00;16.11.22 14:22;C Alfons XII;79;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8006;BARCELONA;4,28708E+16;4,58358E+15;4,14006E+14;2,14714E+16
+﻿99400158486;Sala d'Estudi Francesc Boix;09.05.06 10:26;08.07.22 11:37;Carrer de Blai;34;11;el Poble-sec;3;Sants-Montjuïc;8004;Barcelona;4,30093E+16;4,58061E+14;4,1374E+15;2,16404E+15
+﻿99400158488;Sala d'Estudi Jaume Fuster;09.05.06 10:35;10.10.22 13:18;Plaça de Lesseps;20;28;Vallcarca i els Penitents;6;Gràcia;8023;Barcelona;4,28937E+15;4,58434E+15;4,14075E+15;2,14978E+15
+﻿96025141508;Museu d'Història de Catalunya;25.01.96 00:00;12.09.22 13:21;Plaça de Pau Vila;3;3;la Barceloneta;1;Ciutat Vella;8039;Barcelona;4,31896E+16;4,58134E+15;4,13807E+15;2,18552E+15
+﻿99400578100;Biblioteca Histórico-Militar de Barcelona;26.02.18 00:00;17.09.22 09:13;Av Exèrcit;1;21;Pedralbes;4;Les Corts;8034;BARCELONA;4,25645E+15;4,58213E+14;4,13873E+15;2,11067E+15
+﻿92086000438;Museu Marítim de Barcelona;30.05.84 00:00;23.09.22 09:53;Avinguda de les Drassanes;1;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,311E+15;4,58082E+15;4,1376E+15;2,17606E+15
+﻿92086000438;Museu Marítim de Barcelona;30.05.84 00:00;23.09.22 09:53;Avinguda de les Drassanes;1;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,311E+15;4,58082E+15;4,1376E+15;2,17606E+15
+﻿92086000450;Biblioteca;02.12.88 00:00;17.09.22 03:44;Arc del Teatre;24;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,3089E+15;4,58095E+15;4,13771E+14;2,17353E+16
+﻿92086003914;Biblioteca;20.05.86 00:00;17.09.22 03:55;Pg Gràcia;41;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30202E+16;4,58257E+15;4,13916E+15;2,16511E+16
+﻿92086004222;Biblioteca;16.05.86 00:00;17.09.22 03:56;C Mallorca;283;7;la Dreta de l'Eixample;2;Eixample;8037;BARCELONA;4,30177E+16;4,58302E+15;4,13957E+16;2,16477E+15
+﻿93202191846;Biblioteca;21.07.93 00:00;03.08.21 09:01;Plaça de la Gardunya;9;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30666E+16;4,58138E+15;4,1381E+15;2,17081E+16
+﻿93202191846;Biblioteca;21.07.93 00:00;03.08.21 09:01;Plaça de la Gardunya;9;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30666E+16;4,58138E+15;4,1381E+15;2,17081E+16
+﻿99400156272;Biblioteca;30.03.06 09:43;17.09.22 06:35;C Duran i Bas;9;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30984E+16;4,5819E+14;4,13857E+15;2,17455E+15
+﻿99400613287;Biblioteca Marta Mata;16.11.18 00:00;17.09.22 10:56;C Domínguez i Miralles;1;23;Sarrià;5;Sarrià-Sant Gervasi;8034;BARCELONA;4,26377E+15;4,58325E+15;4,13974E+15;2,11928E+15
+﻿99400243388;Museu del Modernisme de Barcelona;17.03.10 09:00;04.11.22 15:26;C Balmes;48;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30056E+15;4,58227E+15;4,13889E+15;2,1634E+15
+﻿97016132650;Museu de l'Eròtica de Barcelona;16.01.97 00:00;23.12.21 13:57;Carrer la Rambla;96;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,30829E+15;4,58153E+15;4,13823E+15;2,17273E+16
+﻿99400626906;Sala d'Estudi Sant Martí;23.04.19 00:00;08.07.22 11:40;C Selva de Mar;215;72;Sant Martí de Provençals;10;Sant Martí;8020;BARCELONA;4,33025E+16;4,58532E+15;4,14167E+15;2,19858E+15
+﻿99400329623;Biblioteca El Clot - Josep Benet;12.11.13 14:02;07.12.22 14:00;Plaça de les Glòries Catalanes;37;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8038;Barcelona;4,32131E+15;4,58377E+14;4,14026E+15;2,18805E+16
+﻿99400329623;Biblioteca El Clot - Josep Benet;12.11.13 14:02;07.12.22 14:00;Plaça de les Glòries Catalanes;37;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8038;Barcelona;4,32131E+15;4,58377E+14;4,14026E+15;2,18805E+16
+﻿99400329623;Biblioteca El Clot - Josep Benet;12.11.13 14:02;07.12.22 14:00;Plaça de les Glòries Catalanes;37;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8038;Barcelona;4,32131E+15;4,58377E+14;4,14026E+15;2,18805E+16
+﻿96325115342;CRAI - Biblioteca del Pavelló de la República;20.11.96 00:00;11.07.22 12:53;Av Cardenal Vidal i Barraquer;34;41;la Vall d'Hebron;7;Horta-Guinardó;8035;BARCELONA;4,29079E+16;4,58691E+15;4,14306E+15;2,15118E+15
+﻿96325115342;CRAI - Biblioteca del Pavelló de la República;20.11.96 00:00;11.07.22 12:53;Av Cardenal Vidal i Barraquer;34;41;la Vall d'Hebron;7;Horta-Guinardó;8035;BARCELONA;4,29079E+16;4,58691E+15;4,14306E+15;2,15118E+15
+﻿98035131434;Biblioteca;04.02.98 00:00;17.09.22 05:37;Plta Montcada;1;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31627E+15;4,5818E+15;4,13848E+15;2,18224E+15
+﻿99211170324;Biblioteca de l'Institut Universitari d'Història Jaume Vicens Vives;30.07.99 00:00;17.09.22 05:53;C Ramon Trias Fargas;25;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;BARCELONA;4,32354E+15;4,58237E+15;4,139E+16;2,19087E+16
+﻿99400622824;Sala d'Estudi Montserrat Abelló - Les Corts;15.03.19 00:00;14.09.22 11:56;C Comtes de Bell-lloc;192;19;les Corts;4;Les Corts;8014;BARCELONA;4,27701E+15;4,58172E+15;4,13837E+15;2,13531E+16
+﻿92086015638;Biblioteca centre didàctic ciències experimentals;20.05.86 00:00;17.09.22 04:25;Rbla Catalunya;8;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30442E+15;4,58216E+15;4,1388E+15;2,16803E+15
+﻿92086015694;Biblioteca;23.07.86 00:00;17.09.22 04:25;Via Laietana;8;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31486E+16;4,58157E+15;4,13827E+14;2,18058E+16
+﻿92086017545;Biblioteca Pública Arús;24.11.86 00:00;30.11.22 14:24;Passeig de Sant Joan;26;5;el Fort Pienc;2;Eixample;8010;Barcelona;4,31329E+15;4,58271E+15;4,1393E+16;2,17858E+16
+﻿92086009419;Biblioteca;24.10.91 00:00;17.09.22 04:07;C Amigó;83;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8021;BARCELONA;4,28235E+15;4,58324E+15;4,13975E+15;2,14151E+15
+﻿99400224357;Sala d'Estudi Poblenou - Manuel Arranz;17.04.09 00:00;15.09.22 15:33;Carrer del Joncar;35;68;el Poblenou;10;Sant Martí;8005;Barcelona;4,33508E+15;4,58362E+15;4,14014E+15;2,20454E+16
+﻿92086000939;Centro de Documentación y Recursos - Biblioteca;16.05.86 00:00;17.09.22 03:46;C Aragó;55;9;la Nova Esquerra de l'Eixample;2;Eixample;8015;BARCELONA;4,2884E+15;4,58133E+15;4,13803E+15;2,14897E+16
+﻿92086000956;Biblioteca;16.05.86 00:00;17.09.22 03:46;C Arcs;1;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30998E+16;4,58176E+15;4,13845E+15;2,17472E+15
+﻿249121118;Biblioteca Vapor Vell;05.09.00 00:00;07.12.22 13:05;Passatge del Vapor Vell;1;18;Sants;3;Sants-Montjuïc;8028;Barcelona;4,27647E+16;4,58096E+15;4,13769E+16;2,13475E+15
+﻿249121118;Biblioteca Vapor Vell;05.09.00 00:00;07.12.22 13:05;Passatge del Vapor Vell;1;18;Sants;3;Sants-Montjuïc;8028;Barcelona;4,27647E+16;4,58096E+15;4,13769E+16;2,13475E+15
+﻿249121118;Biblioteca Vapor Vell;05.09.00 00:00;07.12.22 13:05;Passatge del Vapor Vell;1;18;Sants;3;Sants-Montjuïc;8028;Barcelona;4,27647E+16;4,58096E+15;4,13769E+16;2,13475E+15
+﻿92086001996;Museu de la Farmàcia Catalana;18.03.86 00:00;22.10.21 10:14;Avinguda de Joan XXIII;31;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26354E+15;4,58193E+15;4,13855E+14;2,11917E+16
+﻿92086008874;Biblioteca Cambó;07.07.89 00:00;17.09.22 04:05;C Sant Antoni Maria Claret;167;35;el Guinardó;7;Horta-Guinardó;8025;BARCELONA;4,31114E+15;4,58487E+15;4,14124E+15;2,17576E+16
+﻿99400272038;Museu Europeu d'Art Modern;03.06.11 14:11;04.11.22 13:22;Carrer de la Barra de Ferro;5;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31466E+15;4,58181E+15;4,13849E+15;2,18032E+14
+﻿92086005213;Museu Reial Monestir de Santa Maria de Pedralbes;30.05.84 00:00;07.11.22 09:04;Baixada del Monestir;9;21;Pedralbes;4;Les Corts;8034;Barcelona;4,25772E+15;4,58305E+15;4,13956E+15;2,11208E+16
+﻿92086005213;Museu Reial Monestir de Santa Maria de Pedralbes;30.05.84 00:00;07.11.22 09:04;Baixada del Monestir;9;21;Pedralbes;4;Les Corts;8034;Barcelona;4,25772E+15;4,58305E+15;4,13956E+15;2,11208E+16
+﻿92086009683;Biblioteca;20.05.86 00:00;17.09.22 04:09;Via Laietana;32;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31217E+16;4,58185E+15;4,13852E+12;2,17734E+15
+﻿92086014671;Biblioteca Campo Freudiano;20.05.86 00:00;17.09.22 04:24;Av Diagonal;333;7;la Dreta de l'Eixample;2;Eixample;8009;BARCELONA;4,30557E+14;4,58336E+15;4,13987E+15;2,16927E+16
+﻿99400040513;CRAI - Biblioteca del Campus Universitari del Mar;19.05.03 12:12;17.09.22 06:02;C Doctor Aiguader;80;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,32611E+15;4,58168E+15;4,13838E+16;2,19402E+15
+﻿99400040513;CRAI - Biblioteca del Campus Universitari del Mar;19.05.03 12:12;17.09.22 06:02;C Doctor Aiguader;80;3;la Barceloneta;1;Ciutat Vella;8003;BARCELONA;4,32611E+15;4,58168E+15;4,13838E+16;2,19402E+15
+﻿99400273433;Biblioteca Vallcarca i els Penitents - M. Antonieta Cot;28.06.11 16:38;07.12.22 13:23;Passeig de la Vall d'Hebron;65;28;Vallcarca i els Penitents;6;Gràcia;8000;Barcelona;4,28106E+15;4,58574E+15;4,142E+16;2,13967E+14
+﻿99400273433;Biblioteca Vallcarca i els Penitents - M. Antonieta Cot;28.06.11 16:38;07.12.22 13:23;Passeig de la Vall d'Hebron;65;28;Vallcarca i els Penitents;6;Gràcia;8000;Barcelona;4,28106E+15;4,58574E+15;4,142E+16;2,13967E+14
+﻿99400273433;Biblioteca Vallcarca i els Penitents - M. Antonieta Cot;28.06.11 16:38;07.12.22 13:23;Passeig de la Vall d'Hebron;65;28;Vallcarca i els Penitents;6;Gràcia;8000;Barcelona;4,28106E+15;4,58574E+15;4,142E+16;2,13967E+14
+﻿99400273433;Biblioteca Vallcarca i els Penitents - M. Antonieta Cot;28.06.11 16:38;07.12.22 13:23;Passeig de la Vall d'Hebron;65;28;Vallcarca i els Penitents;6;Gràcia;8000;Barcelona;4,28106E+15;4,58574E+15;4,142E+16;2,13967E+14
+﻿92086009414;Museu Belles Arts;19.03.86 00:00;17.09.22 04:07;Pg Isabel II;1;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31664E+15;4,58151E+15;4,13823E+15;2,18272E+16
+﻿99400014295;Museu Antic Car Club Catalunya;31.07.02 10:28;17.09.22 05:58;Via Augusta;182;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8021;BARCELONA;4,28245E+15;4,58334E+12;4,13984E+15;2,14162E+16
+﻿92357100826;Biblioteca;22.12.92 00:00;17.09.22 04:59;Pg Gràcia;19;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30373E+16;4,58238E+15;4,13899E+16;2,16718E+16
+﻿99400270325;Biblioteca Esquerra de l'Eixample - Agustí Centelles;09.05.11 00:00;07.12.22 12:31;Carrer del Comte d'Urgell;145;9;la Nova Esquerra de l'Eixample;2;Eixample;8036;Barcelona;4,29104E+16;4,58205E+15;4,13869E+15;2,15205E+15
+﻿99400270325;Biblioteca Esquerra de l'Eixample - Agustí Centelles;09.05.11 00:00;07.12.22 12:31;Carrer del Comte d'Urgell;145;9;la Nova Esquerra de l'Eixample;2;Eixample;8036;Barcelona;4,29104E+16;4,58205E+15;4,13869E+15;2,15205E+15
+﻿99400270325;Biblioteca Esquerra de l'Eixample - Agustí Centelles;09.05.11 00:00;07.12.22 12:31;Carrer del Comte d'Urgell;145;9;la Nova Esquerra de l'Eixample;2;Eixample;8036;Barcelona;4,29104E+16;4,58205E+15;4,13869E+15;2,15205E+15
+﻿99400188956;Biblioteca Sant Antoni - Joan Oliver;13.08.07 12:33;07.12.22 12:51;Carrer del Comte Borrell;44;10;Sant Antoni;2;Eixample;8015;Barcelona;4,29993E+15;4,58099E+15;4,13774E+15;2,1628E+16
+﻿99400188956;Biblioteca Sant Antoni - Joan Oliver;13.08.07 12:33;07.12.22 12:51;Carrer del Comte Borrell;44;10;Sant Antoni;2;Eixample;8015;Barcelona;4,29993E+15;4,58099E+15;4,13774E+15;2,1628E+16
+﻿99400188956;Biblioteca Sant Antoni - Joan Oliver;13.08.07 12:33;07.12.22 12:51;Carrer del Comte Borrell;44;10;Sant Antoni;2;Eixample;8015;Barcelona;4,29993E+15;4,58099E+15;4,13774E+15;2,1628E+16
+﻿92086036656;Biblioteca;20.08.91 00:00;17.09.22 04:47;Via Laietana;18;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,31401E+14;4,58166E+15;4,13835E+15;2,17956E+15
+﻿92086003918;Museu del Perfum - Fundació Planas Giralt;30.05.84 00:00;04.11.22 15:24;Pg Gràcia;39;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30213E+16;4,58256E+15;4,13915E+15;2,16525E+16
+﻿92086003162;Biblioteca;02.06.86 00:00;17.09.22 03:53;C Encarnació;131;32;el Camp d'en Grassot i Gràcia Nova;6;Gràcia;8025;BARCELONA;4,30152E+15;4,58453E+15;4,14093E+16;2,1643E+16
+﻿99400243881;Biblioteca Gòtic - Andreu Nin;24.03.10 14:37;07.12.22 12:13;Carrer la Rambla;30;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31103E+15;4,5811E+15;4,13785E+15;2,17606E+15
+﻿99400243881;Biblioteca Gòtic - Andreu Nin;24.03.10 14:37;07.12.22 12:13;Carrer la Rambla;30;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31103E+15;4,5811E+15;4,13785E+15;2,17606E+15
+﻿99400243881;Biblioteca Gòtic - Andreu Nin;24.03.10 14:37;07.12.22 12:13;Carrer la Rambla;30;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31103E+15;4,5811E+15;4,13785E+15;2,17606E+15
+﻿99400084398;Sala d'Estudi Vapor Vell;27.04.04 14:25;10.10.22 13:19;Passatge del Vapor Vell;1;18;Sants;3;Sants-Montjuïc;8028;Barcelona;4,27647E+16;4,58096E+15;4,13769E+16;2,13475E+15
+﻿99400179658;Museu Olímpic i de l'Esport Joan Antoni Samaranch de Barcelona;22.03.07 00:00;07.11.22 09:12;Avinguda de l'Estadi;60;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29504E+15;4,57976E+15;4,13663E+15;2,15709E+16
+﻿99400179658;Museu Olímpic i de l'Esport Joan Antoni Samaranch de Barcelona;22.03.07 00:00;07.11.22 09:12;Avinguda de l'Estadi;60;11;el Poble-sec;3;Sants-Montjuïc;8038;Barcelona;4,29504E+15;4,57976E+15;4,13663E+15;2,15709E+16
+﻿1331130047;Fundació Fran Daurel *Poble Espanyol;27.11.01 00:00;25.01.22 13:14;Av Francesc Ferrer Guàrdia;13;11;el Poble-sec;3;Sants-Montjuïc;8038;BARCELONA;4,28641E+15;4,58009E+15;4,13691E+15;2,14674E+16
+﻿99400187152;Biblioteca Sagrada Família - Josep M. Ainaud de Lasarte;11.07.07 00:00;07.12.22 12:47;Carrer de Provença;480;6;la Sagrada Família;2;Eixample;8025;Barcelona;4,31191E+15;4,58409E+15;4,14054E+15;2,17677E+16
+﻿99400187152;Biblioteca Sagrada Família - Josep M. Ainaud de Lasarte;11.07.07 00:00;07.12.22 12:47;Carrer de Provença;480;6;la Sagrada Família;2;Eixample;8025;Barcelona;4,31191E+15;4,58409E+15;4,14054E+15;2,17677E+16
+﻿99400187152;Biblioteca Sagrada Família - Josep M. Ainaud de Lasarte;11.07.07 00:00;07.12.22 12:47;Carrer de Provença;480;6;la Sagrada Família;2;Eixample;8025;Barcelona;4,31191E+15;4,58409E+15;4,14054E+15;2,17677E+16
+﻿62172134;Biblioteca Josep Benet;02.03.00 00:00;15.06.22 10:44;Pl Pau Vila;3;3;la Barceloneta;1;Ciutat Vella;8039;BARCELONA;4,31896E+16;4,58134E+15;4,13807E+15;2,18552E+15
+﻿99400206033;Sala d’Estudi Ciutat Vella;09.05.08 00:00;14.09.22 12:00;Carrer de Sant Oleguer;6;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30649E+14;4,581E+15;4,13775E+14;2,17064E+16
+﻿99400206033;Sala d’Estudi Ciutat Vella;09.05.08 00:00;14.09.22 12:00;Carrer de Sant Oleguer;6;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30649E+14;4,581E+15;4,13775E+14;2,17064E+16
+﻿99400206052;Sala d'Estudi Les Roquetes;09.05.08 00:00;08.07.22 11:36;Via Favència;288;50;les Roquetes;8;Nou Barris;8042;Barcelona;4,31262E+15;4,58853E+15;4,14454E+15;2,17712E+16
+﻿99400142058;Biblioteca;16.09.05 15:17;17.09.22 06:28;C València;284;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30174E+16;4,58279E+15;4,13937E+15;2,16475E+16
+﻿99211165718;CRAI  Ciutadella - Biblioteca General Jaume I i Dipòsit de les Aigües;30.07.99 00:00;10.05.22 13:45;C Ramon Trias Fargas;25;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;BARCELONA;4,32354E+15;4,58237E+15;4,139E+16;2,19087E+16
+﻿99211165718;CRAI  Ciutadella - Biblioteca General Jaume I i Dipòsit de les Aigües;30.07.99 00:00;10.05.22 13:45;C Ramon Trias Fargas;25;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;BARCELONA;4,32354E+15;4,58237E+15;4,139E+16;2,19087E+16
+﻿99400167038;CRAI - Biblioteca;08.09.06 10:14;11.07.22 12:26;C Baldiri Reixac;2;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26123E+15;4,58153E+15;4,13819E+15;2,11646E+15
+﻿99400167038;CRAI - Biblioteca;08.09.06 10:14;11.07.22 12:26;C Baldiri Reixac;2;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,26123E+15;4,58153E+15;4,13819E+15;2,11646E+15
+﻿99400448219;Sala d'Estudi;22.04.16 00:00;17.09.22 08:39;C Brusi;51;26;Sant Gervasi - Galvany;5;Sarrià-Sant Gervasi;8006;BARCELONA;4,28459E+15;4,58375E+15;4,14021E+16;2,14413E+15
+﻿99400218118;Museu del Disseny de Barcelona;01.12.08 14:02;04.11.22 13:25;Plaça de les Glòries Catalanes;37;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8038;Barcelona;4,32131E+15;4,58377E+14;4,14026E+15;2,18805E+16
+﻿99400218118;Museu del Disseny de Barcelona;01.12.08 14:02;04.11.22 13:25;Plaça de les Glòries Catalanes;37;66;el Parc i la Llacuna del Poblenou;10;Sant Martí;8038;Barcelona;4,32131E+15;4,58377E+14;4,14026E+15;2,18805E+16
+﻿99400496724;Sala d'Estudi Girapells;26.04.17 00:00;08.07.22 11:40;C Teodor Llorente;20;35;el Guinardó;7;Horta-Guinardó;8041;BARCELONA;4,31373E+15;4,5856E+15;4,1419E+16;2,17878E+16
+﻿99400224356;Biblioteca Poblenou-Manuel Arranz;17.04.09 16:45;07.12.22 14:04;Carrer del Joncar;35;68;el Poblenou;10;Sant Martí;8005;Barcelona;4,33508E+15;4,58362E+15;4,14014E+15;2,20454E+16
+﻿99400224356;Biblioteca Poblenou-Manuel Arranz;17.04.09 16:45;07.12.22 14:04;Carrer del Joncar;35;68;el Poblenou;10;Sant Martí;8005;Barcelona;4,33508E+15;4,58362E+15;4,14014E+15;2,20454E+16
+﻿99400224356;Biblioteca Poblenou-Manuel Arranz;17.04.09 16:45;07.12.22 14:04;Carrer del Joncar;35;68;el Poblenou;10;Sant Martí;8005;Barcelona;4,33508E+15;4,58362E+15;4,14014E+15;2,20454E+16
+﻿99400626904;Sala d'Estudi Xavier Benguerel;23.04.19 00:00;08.07.22 11:38;Av Bogatell;17;67;la Vila Olímpica del Poblenou;10;Sant Martí;8005;BARCELONA;4,32929E+15;4,58263E+15;4,13924E+15;2,19773E+16
+﻿99400504584;Espai Subirachs - Poblenou;17.05.17 14:57;31.05.22 14:13;Carrer de Batista;6;68;el Poblenou;10;Sant Martí;8005;Barcelona;4,33122E+15;4,58393E+14;4,14042E+16;2,19989E+15
+﻿99400199688;MUHBA Museu d'Història de Barcelona - El Call;05.02.08 08:54;29.09.22 13:40;Placeta de Manuel Ribé;3;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31052E+16;4,58156E+15;4,13826E+15;2,17539E+16
+﻿99400199688;MUHBA Museu d'Història de Barcelona - El Call;05.02.08 08:54;29.09.22 13:40;Placeta de Manuel Ribé;3;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31052E+16;4,58156E+15;4,13826E+15;2,17539E+16
+﻿98105180745;Biblioteca i Arxiu;15.04.98 00:00;09.09.21 15:00;Pg Sant Joan;26;5;el Fort Pienc;2;Eixample;8010;BARCELONA;4,31329E+15;4,58271E+15;4,1393E+16;2,17858E+16
+﻿99400090058;Museu de Ciències Naturals de Barcelona;10.06.04 12:18;04.11.22 13:18;Plaça de Leonardo da Vinci;4;70;el Besòs i el Maresme;10;Sant Martí;8019;Barcelona;4,34851E+16;4,58466E+15;4,14108E+16;2,2205E+15
+﻿99400090058;Museu de Ciències Naturals de Barcelona;10.06.04 12:18;04.11.22 13:18;Plaça de Leonardo da Vinci;4;70;el Besòs i el Maresme;10;Sant Martí;8019;Barcelona;4,34851E+16;4,58466E+15;4,14108E+16;2,2205E+15
+﻿99400120200;Museu;29.06.05 13:07;17.09.22 06:26;Via Augusta;390;23;Sarrià;5;Sarrià-Sant Gervasi;8017;BARCELONA;4,26399E+16;4,58396E+15;4,14038E+15;2,11946E+16
+﻿99400348703;Bibliopiscina *Via Barcino;04.08.14 00:00;17.09.22 08:08;Via Bàrcino;84;57;la Trinitat Vella;9;Sant Andreu;8033;BARCELONA;4,32606E+16;4,58919E+14;4,14515E+16;2,19313E+16
+﻿99400348703;Bibliopiscina *Via Barcino;04.08.14 00:00;17.09.22 08:08;Via Bàrcino;84;57;la Trinitat Vella;9;Sant Andreu;8033;BARCELONA;4,32606E+16;4,58919E+14;4,14515E+16;2,19313E+16
+﻿99400348703;Bibliopiscina *Via Barcino;04.08.14 00:00;17.09.22 08:08;Via Bàrcino;84;57;la Trinitat Vella;9;Sant Andreu;8033;BARCELONA;4,32606E+16;4,58919E+14;4,14515E+16;2,19313E+16
+﻿99400348703;Bibliopiscina *Via Barcino;04.08.14 00:00;17.09.22 08:08;Via Bàrcino;84;57;la Trinitat Vella;9;Sant Andreu;8033;BARCELONA;4,32606E+16;4,58919E+14;4,14515E+16;2,19313E+16
+﻿99400471818;Sala d'Estudi Nou Barris;13.12.16 00:00;14.09.22 11:56;Pl Major de Nou Barris;2;48;la Guineueta;8;Nou Barris;80;BARCELONA;4,30761E+16;4,58758E+15;4,14368E+14;2,17123E+16
+﻿99400448268;CRAI - Biblioteca de Fons Antic;22.04.16 13:55;11.07.22 12:49;G.V. Corts Catalanes;585;8;l'Antiga Esquerra de l'Eixample;2;Eixample;8007;BARCELONA;4,30106E+15;4,58201E+15;4,13866E+16;2,16403E+16
+﻿99400399766;Casa Museu Mas Ravetllat - Pla del Guinardó;26.10.15 11:41;20.01.22 12:54;Avinguda de la Mare de Déu de Montserrat;114;35;el Guinardó;7;Horta-Guinardó;8041;Barcelona;4,3063E+15;4,58527E+15;4,1416E+15;2,16992E+16
+﻿99400347176;MAE - Centre de Documentació i Museu de les Arts Escèniques;10.07.14 00:00;03.05.22 13:59;Plaça de Margarida Xirgu;1;11;el Poble-sec;3;Sants-Montjuïc;8004;Barcelona;429536595;4580246544;4,13707E+16;2,15743E+15
+﻿99400096898;Servei de Biblioteca i Documentació Infermera;01.10.04 11:05;17.09.22 06:19;C Pujades;350;69;Diagonal Mar i el Front Marítim del Poblenou;10;Sant Martí;8019;BARCELONA;4,33893E+16;4,58433E+15;4,14078E+16;2,20907E+15
+﻿99400098833;Biblioteca Bon Pastor;05.11.04 11:02;07.12.22 13:51;Carrer d'Estadella;64;59;el Bon Pastor;9;Sant Andreu;8030;Barcelona;4,33554E+16;4,58737E+15;4,14352E+16;2,20468E+15
+﻿99400098833;Biblioteca Bon Pastor;05.11.04 11:02;07.12.22 13:51;Carrer d'Estadella;64;59;el Bon Pastor;9;Sant Andreu;8030;Barcelona;4,33554E+16;4,58737E+15;4,14352E+16;2,20468E+15
+﻿99400098833;Biblioteca Bon Pastor;05.11.04 11:02;07.12.22 13:51;Carrer d'Estadella;64;59;el Bon Pastor;9;Sant Andreu;8030;Barcelona;4,33554E+16;4,58737E+15;4,14352E+16;2,20468E+15
+﻿99400080113;Museu;21.04.04 14:36;25.01.22 14:00;Pla Seu;3;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,31119E+16;4,58175E+15;4,13843E+15;2,17618E+15
+﻿99400678872;EcoMuseu Urbà Gitano de Barcelona;04.11.21 10:44;13.01.22 13:40;Carrer de la Cera;10;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30308E+16;4,58119E+14;4,13792E+15;2,16654E+16
+﻿92086015625;Arxiu Fotogràfic de Barcelona;15.05.86 00:00;04.11.22 15:13;Plaça de Pons i Clerch;2;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31594E+15;4,58203E+16;4,13869E+15;2,18182E+16
+﻿99400652524;MUHBA Museu d'Història de Barcelona;05.05.20 13:02;13.01.22 15:57;Plaça del Rei;1;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31207E+15;4,58173E+15;4,13842E+14;2,17724E+15
+﻿99400652524;MUHBA Museu d'Història de Barcelona;05.05.20 13:02;13.01.22 15:57;Plaça del Rei;1;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31207E+15;4,58173E+15;4,13842E+14;2,17724E+15
+﻿92086000548;Arxiu Bibliogràfic Excursionista;18.04.85 00:00;17.09.22 03:45;C Rocafort;7;10;Sant Antoni;2;Eixample;8015;BARCELONA;4,29597E+15;4,58079E+15;4,13756E+16;2,15808E+16
+﻿99400677628;MOCO Museum;08.10.21 09:31;28.10.22 09:49;Carrer de Montcada;25;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;Barcelona;4,31569E+16;4,58179E+15;4,13847E+16;2,18156E+16
+﻿99400342504;Sala d'Estudi Guineueta;14.05.14 00:00;17.09.22 08:01;Pl Ca n'Ensenya;4;48;la Guineueta;8;Nou Barris;8042;BARCELONA;4,30601E+15;4,58766E+15;4,14375E+15;2,1693E+15
+﻿99400342694;Biblioteca Sant Gervasi - Joan Maragall;15.05.14 15:03;07.12.22 13:16;Carrer de Sant Gervasi de Cassoles;85;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;Barcelona;4,27783E+15;4,58418E+15;4,1406E+15;2,13599E+16
+﻿99400342694;Biblioteca Sant Gervasi - Joan Maragall;15.05.14 15:03;07.12.22 13:16;Carrer de Sant Gervasi de Cassoles;85;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;Barcelona;4,27783E+15;4,58418E+15;4,1406E+15;2,13599E+16
+﻿99400342694;Biblioteca Sant Gervasi - Joan Maragall;15.05.14 15:03;07.12.22 13:16;Carrer de Sant Gervasi de Cassoles;85;25;Sant Gervasi - la Bonanova;5;Sarrià-Sant Gervasi;8022;Barcelona;4,27783E+15;4,58418E+15;4,1406E+15;2,13599E+16
+﻿99400303297;Col·lecció Filatèlica Virtual de Ramon Marull;17.10.12 09:28;17.09.22 07:51;;;;;;;;BARCELONA;-8,0804E+14;-1,21323E+16;-1,09426E+16;-1,48947E+16
+﻿92086021211;Biblioteca;05.05.89 00:00;17.09.22 04:32;C Egipcíaques;15;1;el Raval;1;Ciutat Vella;8001;BARCELONA;4,30507E+16;4,58138E+16;4,13809E+16;2,1689E+15
+﻿99400287924;Pis - Museu Habitatge 1/11;12.03.12 00:00;04.04.22 17:03;Passeig de Torras i Bages;91;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32363E+16;4,58803E+15;4,1441E+16;2,19035E+15
+﻿99400287924;Pis - Museu Habitatge 1/11;12.03.12 00:00;04.04.22 17:03;Passeig de Torras i Bages;91;60;Sant Andreu;9;Sant Andreu;8030;Barcelona;4,32363E+16;4,58803E+15;4,1441E+16;2,19035E+15
+﻿92086004112;Museu de la Música  -  L'Auditori;30.05.84 00:00;12.09.22 14:23;Carrer de Lepant;150;5;el Fort Pienc;2;Eixample;8013;Barcelona;4,31862E+15;4,58331E+15;4,13984E+16;2,18489E+15
+﻿92086004112;Museu de la Música  -  L'Auditori;30.05.84 00:00;12.09.22 14:23;Carrer de Lepant;150;5;el Fort Pienc;2;Eixample;8013;Barcelona;4,31862E+15;4,58331E+15;4,13984E+16;2,18489E+15
+﻿92086002127;Museu Etnogràfic Andino Amazònic;30.05.84 00:00;17.09.22 03:50;C Cardenal Vives i Tutó;16;23;Sarrià;5;Sarrià-Sant Gervasi;8034;BARCELONA;4,26386E+16;4,58284E+15;4,13937E+15;2,11944E+15
+﻿92086002128;Biblioteca hispano caputxina;15.05.86 00:00;17.09.22 03:50;C Cardenal Vives i Tutó;2;23;Sarrià;5;Sarrià-Sant Gervasi;8034;BARCELONA;4,26386E+16;4,58284E+15;4,13937E+15;2,11944E+15
+﻿92086002695;Biblioteca;16.05.86 00:00;17.09.22 03:52;Via Laietana;58;4;Sant Pere, Santa Caterina i la Ribera;1;Ciutat Vella;8003;BARCELONA;4,30916E+16;4,58215E+15;4,13879E+16;2,1737E+15
+﻿92086000768;Biblioteca;21.05.86 00:00;28.06.21 16:27;C Canuda;6;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30742E+16;4,58179E+15;4,13847E+15;2,17166E+15
+﻿92086010318;Biblioteca Les Roquetes – Rafa Juncadella;21.05.86 00:00;07.12.22 13:40;Via Favència;288;50;les Roquetes;8;Nou Barris;8042;Barcelona;4,31262E+15;4,58853E+15;4,14454E+15;2,17712E+16
+﻿92086010318;Biblioteca Les Roquetes – Rafa Juncadella;21.05.86 00:00;07.12.22 13:40;Via Favència;288;50;les Roquetes;8;Nou Barris;8042;Barcelona;4,31262E+15;4,58853E+15;4,14454E+15;2,17712E+16
+﻿92086010318;Biblioteca Les Roquetes – Rafa Juncadella;21.05.86 00:00;07.12.22 13:40;Via Favència;288;50;les Roquetes;8;Nou Barris;8042;Barcelona;4,31262E+15;4,58853E+15;4,14454E+15;2,17712E+16
+﻿92086005280;Biblioteca;15.05.86 00:00;17.09.22 03:59;Via Augusta;390;23;Sarrià;5;Sarrià-Sant Gervasi;8017;BARCELONA;4,26399E+16;4,58396E+15;4,14038E+15;2,11946E+16
+﻿99400691487;Museu Magic World de Barcelon;28.04.22 13:56;28.04.22 15:12;Carrer de Casp;50;7;la Dreta de l'Eixample;2;Eixample;8010;Barcelona;430871138;4582497169;4,1391E+15;2,17313E+16
+﻿75990024770;Museu de Cera de Barcelona;17.09.96 00:00;08.11.22 11:00;Passatge de la Banca;5;2;el Barri Gòtic;1;Ciutat Vella;8002;Barcelona;4,31219E+15;4,58095E+15;4,13771E+16;2,17746E+16
+﻿92086000482;Biblioteca Sant Pau - Santa Creu;30.05.84 00:00;07.12.22 12:16;Carrer del Carme;47;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30514E+16;4,58144E+15;4,13815E+15;2,16898E+16
+﻿92086000482;Biblioteca Sant Pau - Santa Creu;30.05.84 00:00;07.12.22 12:16;Carrer del Carme;47;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30514E+16;4,58144E+15;4,13815E+15;2,16898E+16
+﻿92086000482;Biblioteca Sant Pau - Santa Creu;30.05.84 00:00;07.12.22 12:16;Carrer del Carme;47;1;el Raval;1;Ciutat Vella;8001;Barcelona;4,30514E+16;4,58144E+15;4,13815E+15;2,16898E+16
+﻿92086000497;CRAI Biblioteca d'Informació i Mitjans Audiovisuals;22.05.86 00:00;11.07.22 13:00;Melcior de Palau;140;18;Sants;3;Sants-Montjuïc;8014;BARCELONA;4,27989E+15;4,58144E+15;4,13813E+15;2,13879E+16
+﻿92086000497;CRAI Biblioteca d'Informació i Mitjans Audiovisuals;22.05.86 00:00;11.07.22 13:00;Melcior de Palau;140;18;Sants;3;Sants-Montjuïc;8014;BARCELONA;4,27989E+15;4,58144E+15;4,13813E+15;2,13879E+16
+﻿92086010652;Biblioteca Otero Pedrayo;11.11.87 00:00;17.09.22 04:14;C la Rambla;35;1;el Raval;1;Ciutat Vella;8002;BARCELONA;4,30985E+15;4,58116E+15;4,1379E+15;2,17465E+16
+﻿92086004289;Biblioteca Sofia Barat;30.05.84 00:00;07.12.22 12:52;Carrer de Girona;64;7;la Dreta de l'Eixample;2;Eixample;8009;Barcelona;4,30741E+16;4,58291E+15;4,13947E+16;2,17152E+16
+﻿92086004289;Biblioteca Sofia Barat;30.05.84 00:00;07.12.22 12:52;Carrer de Girona;64;7;la Dreta de l'Eixample;2;Eixample;8009;Barcelona;4,30741E+16;4,58291E+15;4,13947E+16;2,17152E+16
+﻿92086004289;Biblioteca Sofia Barat;30.05.84 00:00;07.12.22 12:52;Carrer de Girona;64;7;la Dreta de l'Eixample;2;Eixample;8009;Barcelona;4,30741E+16;4,58291E+15;4,13947E+16;2,17152E+16
+﻿92086000721;Biblioteca;20.05.86 00:00;17.09.22 03:45;Pl Sant Josep Oriol;4;2;el Barri Gòtic;1;Ciutat Vella;8002;BARCELONA;4,30963E+15;4,58155E+15;4,13825E+15;2,17433E+16
+﻿99329122806;Biblioteca Clarà;25.11.99 00:00;07.12.22 13:12;Carrer del Doctor Carulla;22;24;les Tres Torres;5;Sarrià-Sant Gervasi;8017;Barcelona;4,27231E+16;4,58352E+15;4,13999E+15;2,12947E+16
+﻿99329122806;Biblioteca Clarà;25.11.99 00:00;07.12.22 13:12;Carrer del Doctor Carulla;22;24;les Tres Torres;5;Sarrià-Sant Gervasi;8017;Barcelona;4,27231E+16;4,58352E+15;4,13999E+15;2,12947E+16
+﻿99329122806;Biblioteca Clarà;25.11.99 00:00;07.12.22 13:12;Carrer del Doctor Carulla;22;24;les Tres Torres;5;Sarrià-Sant Gervasi;8017;Barcelona;4,27231E+16;4,58352E+15;4,13999E+15;2,12947E+16
+﻿99400688421;Sala d'Estudi Agustí Centelles;25.03.22 08:09;07.11.22 12:15;Carrer del Comte d'Urgell;145;9;la Nova Esquerra de l'Eixample;2;Eixample;8036;Barcelona;429102372;4582051938;4,13869E+15;2,15203E+16
+﻿99272140701;Biblioteca;29.09.99 00:00;22.07.22 08:28;Rbla Catalunya;6;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30454E+15;4,58215E+15;4,13879E+15;2,16818E+15
+﻿99272140701;Biblioteca;29.09.99 00:00;22.07.22 08:28;Rbla Catalunya;6;7;la Dreta de l'Eixample;2;Eixample;8007;BARCELONA;4,30454E+15;4,58215E+15;4,13879E+15;2,16818E+15
+﻿354173408;Escola Politècnica Superior d'Edificació de Barcelona - UPC;19.12.00 00:00;30.06.22 12:53;Av Doctor Marañón;44;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25816E+15;4,58174E+15;4,13838E+15;2,11276E+16
+﻿354173408;Escola Politècnica Superior d'Edificació de Barcelona - UPC;19.12.00 00:00;30.06.22 12:53;Av Doctor Marañón;44;20;la Maternitat i Sant Ramon;4;Les Corts;8028;BARCELONA;4,25816E+15;4,58174E+15;4,13838E+15;2,11276E+16
+﻿99400669371;Sala d'Estudi Miquel Llongueras;06.05.21 15:22;08.07.22 11:36;Travessera de les Corts;58;20;la Maternitat i Sant Ramon;4;Les Corts;8028;Barcelona;4,26568E+13;4,58109E+14;4,1378E+15;2,12184E+15
+﻿94253111956;Biblioteca Joaquim Folch i Torres;10.09.94 00:00;22.06.21 11:31;C Mirador Palau Nacional;6;11;el Poble-sec;3;Sants-Montjuïc;8004;BARCELONA;4,29196E+15;4,58005E+15;4,13689E+13;2,15338E+16
+﻿94109102254;Biblioteca;19.04.94 00:00;15.06.22 10:18;Carrer d'Aragó;255;7;la Dreta de l'Eixample;2;Eixample;8007;Barcelona;4,3009E+15;4,58256E+15;4,13916E+15;2,16378E+16
+﻿92168174773;Museu de Carruatges del Foment;20.03.85 00:00;27.01.22 10:33;Pl Josep Pallach;8;41;la Vall d'Hebron;7;Horta-Guinardó;8035;BARCELONA;4,28968E+16;4,58727E+15;4,14339E+16;2,1498E+15

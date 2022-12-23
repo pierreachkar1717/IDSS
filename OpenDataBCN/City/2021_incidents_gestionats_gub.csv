@@ -1,4 +1,4 @@
-﻿incident_code;description_incident;district_code;district_name;neighborhood_code;neighborhood_name;year;number_incidents
+﻿incident_code;description_incident;district_code;district_name;neighbourhood_code;neighbourhood_name;year;number_incidents
 810;DISPOSAL OF WASTE                                                                                                                                                                           ;10;Sant Martí;68;el Poblenou;2021;1
 810;DISPOSAL OF WASTE                                                                                                                                                                           ;2;Eixample;7;la Dreta de l'Eixample;2021;8
 810;DISPOSAL OF WASTE                                                                                                                                                                           ;8;Nou Barris;49;Canyelles;2021;1

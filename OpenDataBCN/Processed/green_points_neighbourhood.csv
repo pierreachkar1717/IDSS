@@ -1,0 +1,27 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,green_points
+1,Ciutat Vella,1,el Raval,1
+1,Ciutat Vella,3,la Barceloneta,1
+2,Eixample,5,el Fort Pienc,1
+2,Eixample,6,la Sagrada Família,1
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,1
+2,Eixample,9,la Nova Esquerra de l'Eixample,1
+2,Eixample,10,Sant Antoni,1
+3,Sants-Montjuïc,11,el Poble-sec,1
+3,Sants-Montjuïc,16,la Bordeta,1
+3,Sants-Montjuïc,18,Sants,1
+4,Les Corts,19,les Corts,1
+4,Les Corts,20,la Maternitat i Sant Ramon,1
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1
+5,Sarrià-Sant Gervasi,23,Sarrià,1
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1
+6,Gràcia,28,Vallcarca i els Penitents,1
+6,Gràcia,31,la Vila de Gràcia,1
+7,Horta-Guinardó,35,el Guinardó,1
+7,Horta-Guinardó,37,el Carmel,1
+8,Nou Barris,46,el Turó de la Peira,1
+8,Nou Barris,53,la Trinitat Nova,1
+8,Nou Barris,55,Ciutat Meridiana,1
+9,Sant Andreu,60,Sant Andreu,2
+10,Sant Martí,65,el Clot,1
+10,Sant Martí,68,el Poblenou,1
+10,Sant Martí,72,Sant Martí de Provençals,1
