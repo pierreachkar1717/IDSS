@@ -1,0 +1,685 @@
+﻿layer_code;generic_layer;layer_name;ED50_X_coordinate;ED50_Y_coordinate;ETRS89_X_coordinate;ETRS89_Y_coordinate;longitude;latitude;equipment;district_code;neighbourhood_code;district_name;neighbourhood_name
+K004;Transports i serveis relacionats;Tren a l'aeroport;432343.18;4.584.819.321;432.251.231;4.584.618.362;2.189.397;41.410.259;Tren AEROPORT - CLOT-;10;65;Sant Mart√≠;el Clot
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.818.595;4.583.478.761;427.726.688;4.583.277.816;2.135.427;41.397.791;FGC - BONANOVA-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.146.731;4.584.356.984;428.054.821;4.584.156.031;2.139.248;41.405.731;FGC - EL PUTXET-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.044.361;4.579.104.133;422.952.497;4578903.23;2.078.879;41.357.949;Gavarra (Pl. Catalunya)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.017.791;4.580.918.758;428.925.872;4.580.717.836;2.150.072;41.374.841;Espanya (Exposici√≥)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.759.572;4580948.83;429.667.646;4.580.747.908;2.158.937;41.375.177;Poble Sec (Manso)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.762.788;4.580.918.266;429.670.862;4.580.717.344;2.158.979;41.374.902;Poble Sec (Teodor Bonaplata)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.048.723;4.588.128.525;435.956.741;4.587.927.534;2.233.378;41.440.368;Gorg (Avinguda Alfons XIII)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.136.559;4.590.067.701;433.044.605;4.589.866.693;2.198.307;41.457.596;Can Zam (Francesc Maci√†)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.983.466;4.589.069.597;436.891.476;4.588.868.597;2.244.468;41.448.918;Badalona Pompeu Fabra (La Creu)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.834.257;4.581.995.237;425.742.368;4.581.794.306;2.111.874;41.384.249;Zona Universit√†ria (Dr. Mara√±√≥n / Diagonal)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.782.231;4.581.055.123;425.690.342;4.580.854.201;2.111.368;41.375.777;Ernest Lluch (Cementiri de Sants)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.707.806;4.582.077.957;430.615.872;4.581.877.024;2.170.146;41.385.429;Catalunya (La Rambla)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.881.979;4.583.286.687;429.790.053;4.583.085.743;216.013;41.396.244;Diagonal (Diagonal / Pau Claris)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.015.665;4.584.404.318;428.923.747;4.584.203.364;2.149.637;41.406.234;Lesseps (Septim√†nia)-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.331.324;4.585.665.371;428.239.413;4.585.464.406;2.141.301;41.417.531;Penitents (Avinguda Vallcarca)-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.044.041;4582420.39;428.952.122;4.582.219.454;2.150.209;41.388.368;Hospital Cl√≠nic (Comte d'Urgell)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.498.636;4.583.598.613;430.406.704;4.583.397.666;216.747;41.399.107;Verdaguer (Bail√®n)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.471.146;4.587.070.982;430.379.215;4.586.870.003;2.166.742;41.430.379;Vilapicina (Cartell√†)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.232.839;4.580.200.141;426.140.946;4.579.999.227;211.686;41.368.118;Torrassa (Rosal√≠a de Castro)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.057.934;4.580.994.738;427.966.024;4.580.793.816;2.138.586;4.137.544;Pla√ßa de Sants (Riego)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.940.478;4.580.982.693;427.848.569;4.580.781.771;2.137.183;41.375.321;Pla√ßa de Sants (Olzinelles)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.658.799;4.582.313.141;430.566.865;4.582.112.206;2.169.533;41.387.543;Catalunya (Centre Pla√ßa)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.824.996;4.585.326.887;432.733.043;4.585.125.923;2.195.105;41.414.871;Bac de Roda (Bac de Roda)-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K011;Transports i serveis relacionats;Tramvia;425.335.618;4581092.28;425.243.733;4.580.891.358;2.106.023;41.376.071;TRAMVIA (T1,T2,T3) - CAN RIGAL-;;;;
+K011;Transports i serveis relacionats;Tramvia;435.164.796;4.587.035.887;435.072.822;4.586.834.907;2.222.916;41.430.456;TRAMVIA (T5) - ENCANTS DE SANT ADRI√Ä-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.096.418;4.585.876.766;434.004.454;4.585.675.797;2.210.257;41.419.929;METRO (L4) - Bes√≤s-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422338.97;4579041.71;422.247.112;4.578.840.808;2.070.455;41.357.319;METRO (L5) - Cornell√† Centre-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.439.007;4.581.047.865;426.347.112;4.580.846.943;2.119.222;41.375.772;METRO (L5) - Collblanc-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.658.221;4.581.994.167;428.566.306;4.581.793.235;2.145.645;41.384.495;METRO (L5) - Enten√ßa-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.546.717;4.587.082.912;430.454.786;4.586.881.933;2.167.645;41.430.493;METRO (L5) - Vilapicina-;8;46;Nou Barris;el Tur√≥ de la Peira
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.500.208;4.573.103.524;422.408.347;4.572.902.677;2.073.141;41.303.852;METRO (L9S) - Aeroport T2-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.700.439;4.587.690.371;433.608.479;4.587.489.385;220.532;41.436.231;METRO (L9NL10N) - Bon Pastor-;9;59;Sant Andreu;el Bon Pastor
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434675.75;4588254.06;434.583.781;4.588.053.069;2.216.931;41.441.388;METRO (L10N) - Llefi√†-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.014.559;4.579.406.009;427.922.649;4.579.205.102;2.138.256;41.361.128;METRO (L10S) - Foneria-;3;13;Sants-Montju√Øc;la Marina de Port
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.589.584;4.580.796.378;430497.65;4.580.595.457;2.168.879;41.373.877;METRO (FM) - Paral¬∑lel-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.952.565;4.587.673.545;428.860.649;4.587.472.561;2.148.498;41.435.673;METRO (L3) - Mundet-;7;41;Horta-Guinard√≥;la Vall d'Hebron
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.871.609;4.580.970.711;428.779.691;4.580.769.789;2.148.318;41.375.296;Espanya (Creu Coberta)-;3;15;Sants-Montju√Øc;Hostafrancs
+K003;Transports i serveis relacionats;RENFE;430.734.873;4.582.375.115;430.642.939;4.582.174.179;2.170.436;41.388.108;RENFE - CATALUNYA-;2;7;Eixample;la Dreta de l'Eixample
+K003;Transports i serveis relacionats;RENFE;424.033.841;4.576.123.885;423.941.967;4.575.923.009;209.108;41.331.201;RENFE - EL PRAT DE LLOBREGAT-;;;;
+K011;Transports i serveis relacionats;Tramvia;434.888.218;4.584.964.443;434.796.246;4.584.763.482;2.219.829;41.411.777;TRAMVIA (T4) - F√íRUM-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K011;Transports i serveis relacionats;Tramvia;435.784.581;4.586.297.339;435.692.601;4.586.096.365;2.230.412;41.423.854;TRAMVIA (T4, T6) - ESTACI√ì DE SANT ADRI√Ä-;;;;
+K011;Transports i serveis relacionats;Tramvia;421.654.373;4.579.389.297;421.562.522;4.579.188.392;2.062.227;41.360.383;TRAMVIA (T1,T2) - FONTSANTA-FATJ√ì-;;;;
+K003;Transports i serveis relacionats;RENFE;431.795.907;4.594.379.975;431.703.966;4.594.178.928;2.181.768;41.496.321;RENFE - MONTCADA-RIPOLLET-;;;;
+K011;Transports i serveis relacionats;Tramvia;422.886.853;4.579.945.679;422794.99;4.579.744.768;2.076.889;41.365.513;TRAMVIA (T1,T2) - EL PEDR√í-;;;;
+K011;Transports i serveis relacionats;Tramvia;433.034.236;4.584.922.045;432.942.281;4.584.721.085;2.197.653;41.411.242;TRAMVIA (T5, T6) - ESPRONCEDA-;10;71;Sant Mart√≠;Proven√ßals del Poblenou
+K011;Transports i serveis relacionats;Tramvia;426.092.308;4.581.574.089;426.000.416;4.581.373.162;2.115.012;4.138.048;TRAMVIA (T1,T2,T3) - AVINGUDA DE XILE-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.569.587;4.588.856.684;434.477.619;4.588.655.687;2.215.595;41.446.807;Santa Rosa (Ban√∫s Baixa)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.340.766;4.579.371.428;426.248.871;4.579.170.521;2.118.251;41.360.665;Can Tries | Gornal (Can Tries - Narc√≠s de Monturiol)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.384.656;4.578.410.814;427.292.751;4.578.209.916;2.130.845;41.352.108;Fira (Bot√†nica + Acc√©s NORD | EST)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.064.502;4.577.223.132;426972.6;4.577.022.245;2.127.161;41.341.382;Parc Log√≠stic (Av. Parc Log√≠stic / C. N√∫mero Un)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.170.286;4.590.455.575;431078.35;4.590.254.564;2.174.722;41.460.923;Ciutat Meridiana (Avinguda Rasos de Peguera)-;8;55;Nou Barris;Ciutat Meridiana
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.833.197;4.579.759.751;424.741.316;4.579.558.841;2.100.181;41.364.022;Rambla Just Oliveras (Renfe)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.162.369;4.585.407.352;432.070.422;4.585.206.388;2.187.168;4.141.554;Navas (Navas de Tolosa)-;9;63;Sant Andreu;Navas
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.930.636;4.586.903.201;431.838.692;4.586.702.223;2.184.227;41.428.993;Fabra i Puig (Concepci√≥n Arenal)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.762.829;4.589.085.455;432.670.878;4.588.884.457;2.193.942;41.448.718;Trinitat Vella (Via B√†rcino)-;9;57;Sant Andreu;la Trinitat Vella
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.107.045;4.581.371.595;430.015.116;4.581.170.669;2.163.043;41.379.015;Sant Antoni (Urgell)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.600.902;4582553.85;430.508.969;4.582.352.913;2.168.813;41.389.706;Passeig de Gr√†cia (Pau Claris)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.721.084;4.581.102.937;425.629.196;4.580.902.015;2.110.631;41.376.202;Ernest Lluch (Avinguda de Xile)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.234.177;4.581.134.193;431.142.238;4.580.933.269;2.176.548;41.376.975;Drassanes (La Rambla)-;1;1;Ciutat Vella;el Raval
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);422.671.426;4.588.750.953;422.579.568;4.588.549.961;2.073.187;41.444.795;FGC - LA FLORESTA-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432161.47;4584722.98;432.069.523;4.584.522.022;2.187.234;41.409.376;Clot (Arag√≥ / Meridiana)-;10;65;Sant Mart√≠;el Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.886.081;4587016.87;431.794.137;4.586.815.891;2.183.681;41.430.013;Fabra i Puig (Avinguda Meridiana)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.527.145;4573996.25;422.435.284;4.573.795.394;2.073.349;41.311.895;Mas Blau (Avinguda de Les Garrigues / Alta Ribagor√ßa)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.322.349;4571369.92;422.230.489;4.571.169.089;2.071.238;41.288.221;Aeroport T1 (Aeroport T1)-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);430.446.512;4582134.85;430354.58;4.581.933.917;2.167.015;41.385.919;FGC - CATALUNYA (C. de Balmes)-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426.957.615;4.583.617.136;426.865.716;4583416.19;2.125.112;4.139.896;FGC - SARRI√Ä-;5;24;Sarri√†-Sant Gervasi;les Tres Torres
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428555.42;4.577.373.718;428.463.504;4.577.172.829;2.144.961;41.342.872;Zona Franca (Carrer A (costat mar))-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.534.876;4.575.248.102;427.442.969;4.575.047.233;2.133.018;41.323.636;ZAL | Riu Vell (Riu Llobregat)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.336.647;4.586.196.568;431.244.708;4.585.995.597;2.177.199;41.422.578;Maragall (Ronda Guinard√≥ - costat Muntanya)-;7;35;Horta-Guinard√≥;el Guinard√≥
+K011;Transports i serveis relacionats;Tramvia;422762.79;4.581.426.948;422.670.929;4.581.226.023;2.075.217;41.378.842;TRAMVIA (T3) - RAMBLA DE SANT JUST-;;;;
+K011;Transports i serveis relacionats;Tramvia;435.426.049;4.585.750.863;435.334.072;4.585.549.895;222.618;41.418.903;TRAMVIA (T4, T6) - PORT F√íRUM-;;;;
+K011;Transports i serveis relacionats;Tramvia;423.516.749;4.580.823.236;423.424.881;4.580.622.317;2.084.309;41.373.477;TRAMVIA (T1,T2,T3) - LA SARDANA-;;;;
+K009;Transports i serveis relacionats;Funicular;431.351.425;4.590.442.304;431.259.487;4.590.241.293;2.176.893;41.460.819;Ascensor Inclinat - Funicular Ciutat Meridiana-;8;55;Nou Barris;Ciutat Meridiana
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.064.779;4.585.917.358;433.972.815;4.585.716.388;2.209.874;41.420.292;Bes√≤s (Tram Bes√≤s)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.927.604;4.584.531.759;433.835.641;4.584.330.802;2.208.384;41.407.801;Selva de Mar (Proven√ßals)-;10;69;Sant Mart√≠;Diagonal Mar i el Front Mar√≠tim del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.810.279;4.587.004.313;429.718.354;4.586.803.335;2.158.841;41.429.721;Horta (Lisboa)-;7;43;Horta-Guinard√≥;Horta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431503.01;4.583.729.707;431.411.069;4.583.528.759;2.179.469;41.400.374;Monumental (Marina)-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.126.062;4584373.41;430.034.134;4.584.172.456;2.162.924;41.406.053;Joanic (Escorial)-;6;32;Gr√†cia;el Camp d'en Grassot i Gr√†cia Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.271.124;4.588.903.863;431.179.187;4.588.702.867;2.176.107;41.446.956;Roquetes (Carrer de les Torres)-;8;50;Nou Barris;les Roquetes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.432.023;4.586.296.628;429.340.102;4.586.095.656;2.154.397;41.423.314;El Carmel (Llobreg√≥s)-;7;37;Horta-Guinard√≥;el Carmel
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.619.333;4.587.096.474;428.527.419;4.586.895.495;2.144.578;41.430.446;Montbau (Resid√®ncia Sanit√†ria / Llars Mundet)-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.121.477;4.586.108.882;432.029.531;4.585.907.911;21.866;41.421.855;La Sagrera (Garcilaso)-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.844.587;4.581.691.682;427.752.679;4.581.490.753;2.135.951;41.381.698;Pla√ßa del Centre (Pla√ßa del Centre (mar))-;3;18;Sants-Montju√Øc;Sants
+K011;Transports i serveis relacionats;Tramvia;424.740.122;4.581.144.606;424.648.243;4.580.943.683;2.098.896;41.376.486;TRAMVIA (T1,T2,T3) - CA N'OLIVERES-;;;;
+K011;Transports i serveis relacionats;Tramvia;422.805.021;4.580.704.456;422.713.159;4.580.503.538;2.075.814;41.372.339;TRAMVIA (T3) - SANT MART√ç DE L'ERM-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432860.76;4.585.361.973;432.768.807;4.585.161.009;2.195.529;4.141.519;METRO (L2) - Bac de Roda-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.946.929;4.581.636.443;430.854.992;4.581.435.514;2.173.056;41.381.473;METRO (L3) - Liceu-;1;2;Ciutat Vella;el Barri G√≤tic
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.612.855;4.580.912.069;430.520.921;4.580.711.147;2.169.144;41.374.921;METRO (L3) - Paral¬∑lel-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.765.797;4.581.763.498;429.673.871;4.581.562.568;2.158.917;41.382.515;METRO (L1) - Urgell-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.181.614;4.583.937.709;432.089.667;4.583.736.758;2.187.563;41.402.305;METRO (L1) - Gl√≤ries-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.024.001;4.580.988.524;427.932.091;4.580.787.602;2.138.181;41.375.381;METRO (L1) - Pla√ßa de Sants-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.660.245;4.587.118.498;428.568.331;4.586.917.519;2.145.065;41.430.648;METRO (L3) - Montbau-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.126.681;4.581.465.336;430.034.752;4.581.264.409;2.163.267;41.379.861;METRO (L2) - Sant Antoni-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431474;4.588.546.863;431.382.061;4588345.87;2.178.576;41.443.758;METRO (L4) - Via J√∫lia-;8;51;Nou Barris;Verdun
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.813.719;4.589.387.857;434.721.749;4.589.186.855;221.846;41.451.611;METRO (L1) - Fondo-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.315.353;4.582.770.325;430.223.423;4.582.569.386;2.165.373;41.391.631;METRO (L3) - Passeig de Gr√†cia-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.930.389;4.581.667.765;431.838.443;4.581.466.835;2.184.813;41.381.839;METRO (L4) - Barceloneta-;1;3;Ciutat Vella;la Barceloneta
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429.726.943;4582853.67;429.635.018;4582652.73;2.158.326;41.392.331;FGC - PROVEN√áA (C. de Proven√ßa)-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.504.785;4.583.749.453;431.412.844;4.583.548.504;2.179.488;41.400.552;METRO (L2) - Monumental-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.301.089;4585791.13;433.209.132;4.585.590.162;220.075;41.419.092;METRO (L2) - Sant Mart√≠-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.235.718;4589219.41;433.143.763;4589018.41;2.199.588;41.449.964;METRO (L1) - Bar√≥ de Viver-;9;57;Sant Andreu;la Trinitat Vella
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.548.263;4583138.32;432.456.312;4.582.937.377;2.192.038;41.395.136;METRO (L4) - Bogatell-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.409.721;4581929.71;431317.78;4.581.728.778;2.178.557;41.384.154;METRO (L4) - Jaume I-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.431.962;4.583.565.877;428.340.049;4.583.364.931;2.142.754;41.398.631;FGC - MUNTANER-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.533.646;4.580.953.387;428.441.732;4.580.752.465;2.144.279;4.137.511;Hostafrancs (Hostafrancs)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.960.141;4.580.856.259;428.868.223;4.580.655.338;214.939;41.374.273;Espanya (Exposici√≥ / Gran Via)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.777.317;4.580.589.616;424.685.437;4.580.388.699;209.941;41.371.491;Can Vidalet (Hort√®nsia)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.806.742;4.581.986.747;425.714.853;4.581.785.816;2.111.546;4.138.417;Zona Universit√†ria (Avinguda Diagonal)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.347.202;4.582.201.734;426.255.308;4.582.000.801;2.117.983;41.386.156;Palau Reial (Palau de Pedralbes)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.820.242;4581741;427.728.334;4.581.540.071;2.135.654;4.138.214;Pla√ßa del Centre (Pla√ßa del Centre (muntanya))-;4;19;Les Corts;les Corts
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.350.238;4.581.621.375;428.258.325;4.581.420.447;2.142.006;4.138.111;Sants Estaci√≥ (Av. Josep Tarradellas)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.900.629;4.581.700.726;430.808.693;4.581.499.796;2.172.495;41.382.048;Liceu (La Rambla / Mercat de la Boqueria)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.473.861;4.588.580.987;436.381.876;4.588.379.992;2.238.419;41.444.477;Pep Ventura (Avinguda Marqu√®s de Mont-roig)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.470.488;4.584.062.749;433.378.529;4.583.861.797;2.202.967;41.403.539;Poblenou (Pujades / Bilbao)-;10;68;Sant Mart√≠;el Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.991.788;4.583.589.414;432.899.833;4.583.388.466;2.197.293;41.399.236;Llacuna (Pujades / Ciutat de Granada)-;10;68;Sant Mart√≠;el Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.017.261;4.581.728.791;431.925.315;4.581.527.861;2.185.845;41.382.396;Barceloneta (Pla√ßa Pau Vila)-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431354.63;4.589.032.196;431.262.692;4.588.831.198;2.177.091;41.448.119;Roquetes (Vidal i Guasch)-;8;50;Nou Barris;les Roquetes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.076.893;4.588.639.218;433984.93;4.588.438.223;2.209.721;41.444.808;Can Peixauet (Avinguda Santa Coloma)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.486.226;4.586.335.959;429.394.304;4.586.134.987;2.155.041;41.423.673;El Carmel (Mercat)-;7;37;Horta-Guinard√≥;el Carmel
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.821.386;4.580.645.229;424.729.506;4.580.444.311;209.993;41.371.996;Can Vidalet (Maladeta)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.151.314;4.577.260.453;427.059.411;4.577.059.566;2.128.194;41.341.726;Parc Log√≠stic (Av. Parc Log√≠stic / C. N√∫mero Vint-i-cinc)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423837.41;4574487.01;423.745.537;4.574.286.149;2.088.938;4.131.644;Parc Nou (Riu Llobregat / Riu Ebre)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428599;4.585.027.521;428.507.086;4.584.826.561;2.144.579;4.141.181;Vallcarca (Gomis)-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.503.822;4.580.905.898;430.411.889;4.580.704.976;2.167.841;41.374.856;Paral¬∑lel (Fontrodona)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.405.934;4.580.808.172;425.314.048;4.580.607.252;2.106.899;41.373.518;Pubilla Cases (Esteve Grau)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427228.36;4581025.9;427.136.458;4.580.824.978;2.128.663;41.375.646;Badal (Carrer de Sants)-;3;17;Sants-Montju√Øc;Sants - Badal
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.766.516;4.581.024.064;427.674.609;4.580.823.142;2.135.098;41.375.678;Pla√ßa de Sants (Pla√ßa de Sants)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.337.922;4.586.410.065;431.245.983;4.586.209.092;217.719;41.424.501;Maragall (Ramon Alb√≥)-;9;62;Sant Andreu;el Congr√©s i els Indians
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429920.1;4.583.191.277;429.828.173;4.582.990.334;2.160.597;41.395.388;Diagonal (Pg. de Gr√†cia (escala mec√†nica))-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.721.028;4.578.354.506;425.629.139;4.578.153.609;2.110.967;41.351.449;Bellvitge (Rambla de la Marina / Trav. Industrial)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.821.281;4.579.707.691;424729.4;4.579.506.782;2.100.045;41.363.552;Rambla Just Oliveras (Rambla Just Oliveras)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.126.333;4.580.208.386;425034.45;4.580.007.472;210.363;4.136.809;Can Serra (Parc de les Planes)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425672.51;4580215.64;425.580.622;4.580.014.726;2.110.159;41.368.206;Florida (Blocs Florida)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.518.373;4.583.745.328;431.426.432;4.583.544.379;2.179.651;41.400.516;Monumental (Marina / Pla√ßa de Toros)-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431734.74;4.584.473.517;431.642.797;4.584.272.562;2.182.157;41.407.093;Encants (Val√®ncia / Mallorca)-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.628.025;4.581.331.176;428536.11;4.581.130.251;2.145.362;41.378.521;METRO (L3) - Tarragona-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.142.916;4.580.215.824;426.051.023;4580014.91;2.115.783;41.368.251;METRO (L9SL10S) - Torrassa-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.773.559;4.583.089.996;429.681.634;4.582.889.054;2.158.856;41.394.463;METRO (L5) - Diagonal-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.468.825;4.583.584.799;430.376.893;4.583.383.852;2.167.115;4.139.898;METRO (L5) - Verdaguer-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.690.127;4.585.361.613;431.598.185;4.585.160.649;2.181.523;41.415.088;METRO (L5) - Camp de l'Arpa-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.907.119;4.587.003.373;429.815.194;4.586.802.395;Feb 16;41.429.721;METRO (L5) - Horta-;7;43;Horta-Guinard√≥;Horta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428429.89;4.586.496.009;428.337.978;4.586.295.036;2.142.382;41.425.021;METRO (L5) - Vall d'Hebron-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.558.075;4.577.388.458;428.466.159;4.577.187.569;2.144.991;41.343.005;METRO (L10S) - Zona Franca-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.004.096;4.582.382.497;426.912.196;4.582.181.562;2.125.817;41.387.844;METRO (L3) - Maria Cristina-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.943.409;4.589.183.064;431.851.465;4.588.982.065;2.184.122;41.449.528;METRO (L3) - Trinitat Nova-;8;53;Nou Barris;la Trinitat Nova
+K003;Transports i serveis relacionats;RENFE;430578.78;4.592.725.907;430486.85;4.592.524.876;2.167.379;41.481.319;RENFE - MONTCADA I REIXAC-STA. MARIA-;;;;
+K003;Transports i serveis relacionats;RENFE;431.703.264;4.582.951.797;431.611.321;4.582.750.856;2.181.952;41.393.385;RENFE - ARC DE TRIOMF-;2;5;Eixample;el Fort Pienc
+K003;Transports i serveis relacionats;RENFE;430592.78;4.582.255.558;430.500.847;4.582.054.623;216.875;41.387.019;RENFE - CATALUNYA-;2;7;Eixample;la Dreta de l'Eixample
+K004;Transports i serveis relacionats;Tren a l'aeroport;430.305.812;4.582.796.969;430.213.882;4.582.596.029;2.165.256;4.139.187;Tren AEROPORT - PASSEIG DE GR√ÄCIA-;2;7;Eixample;la Dreta de l'Eixample
+K003;Transports i serveis relacionats;RENFE;418.270.282;4.584.937.756;418.178.463;4584736.8;2.021.024;41.410.017;RENFE - MOLINS DE REI-;;;;
+K003;Transports i serveis relacionats;RENFE;437.366.835;4588726.32;437.274.841;4.588.525.323;2.249.093;41.445.856;RENFE - BADALONA-;;;;
+K003;Transports i serveis relacionats;RENFE;432.218.282;4.584.773.015;432.126.335;4.584.572.057;2.187.908;41.409.832;RENFE - CLOT-;10;65;Sant Mart√≠;el Clot
+K003;Transports i serveis relacionats;RENFE;432343.18;4.584.819.321;432.251.231;4.584.618.362;2.189.397;41.410.259;RENFE - CLOT-;10;65;Sant Mart√≠;el Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433980.26;4.589.355.347;433.888.298;4.589.154.346;2.208.486;4.145.125;Santa Coloma (Pla√ßa de la Vila)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.821.904;4.589.378.456;434.729.934;4.589.177.454;2.218.559;41.451.527;Fondo (Moss√®n Cinto Verdaguer)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.127.897;4.581.556.701;430.035.968;4.581.355.773;2.163.271;41.380.684;Sant Antoni (Villarroel)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.940.233;4.576.135.389;423848.36;4.575.934.513;208.996;41.331.296;El Prat Estaci√≥ (Doctor Soler i Torrens)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431670.53;4.590.273.287;431.578.589;4.590.072.278;2.180.732;41.459.324;Torre Bar√≥ | Vallbona (Avinguda Escolapi C√†ncer)-;8;54;Nou Barris;Torre Bar√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.355.668;4.577.574.058;425.263.782;4.577.373.168;2.106.696;41.344.386;Hospital de Bellvitge (Resid√®ncia sanit√†ria)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.709.857;4.581.712.191;429.617.932;4.581.511.262;2.158.254;41.382.048;Urgell (Comte d'Urgell)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.506.728;4.588.390.248;432.414.779;4.588.189.256;2.190.955;41.442.435;Torras i Bages (Palomar / costat mar)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.855.904;4.587.184.142;431.763.961;4.586.983.161;2.183.301;41.431.517;Fabra i Puig (S√≤crates)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.860.637;4.587.110.041;431.768.694;4.586.909.061;2.183.366;4.143.085;Fabra i Puig (Renfe)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.928.063;4.589.347.498;433.836.101;4.589.146.497;2.207.862;41.451.175;Santa Coloma (Lloren√ß Serra)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.126.447;4581371.63;430.034.518;4.581.170.704;2.163.275;41.379.017;Sant Antoni (Sant Antoni Abat)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.919.812;4.587.597.034;428.827.896;4587396.05;2.148.115;41.434.981;Mundet (Can Marcet)-;7;41;Horta-Guinard√≥;la Vall d'Hebron
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.851.428;4.581.789.537;429.759.502;4.581.588.607;2.159.938;41.382.757;Urgell (Villarroel / Sep√∫lveda)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.986.153;4.582.514.637;430.894.216;4582313.7;2.173.425;41.389.386;Urquinaona (Pla√ßa Urquinaona)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.021.822;4.582.484.652;430.929.885;4.582.283.715;2.173.855;41.389.119;Urquinaona (Trafalgar)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.874.732;4.587.071.714;431.782.788;4.586.870.734;2.183.539;41.430.506;Fabra i Puig (Passeig Fabra i Puig)-;9;60;Sant Andreu;Sant Andreu
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.434.114;4.583.481.448;427342.21;4.583.280.503;2.130.828;41.397.781;FGC - LES TRES TORRES-;5;24;Sarri√†-Sant Gervasi;les Tres Torres
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.331.613;4.578.798.425;428239.7;4.578.597.523;2.142.118;41.355.684;Foc (Fira Gran Via (Pavellons 6¬∑7¬∑8))-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.834.932;4.579.474.341;426.743.033;4.579.273.433;2.124.146;41.361.637;Proven√ßana (Aprestadora / Rosell)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.547.001;4577377.02;428.455.085;4.577.176.131;214.486;41.342.901;Zona Franca (Carrer A / Carrer 2)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K011;Transports i serveis relacionats;Tramvia;432688.06;4584567.87;432.596.108;4.584.366.913;2.193.551;41.408.024;TRAMVIA (T5, T6) - CAN JAUMANDREU-;10;71;Sant Mart√≠;Proven√ßals del Poblenou
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.791.257;4583866.67;428.699.341;4.583.665.721;2.147.016;41.401.372;FGC - SANT GERVASI-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.573.507;4.586.545.398;429.481.585;4.586.344.424;2.156.061;41.425.567;El Carmel (Pla√ßa Pastrana)-;7;37;Horta-Guinard√≥;el Carmel
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.231.945;4.589.648.831;434.139.981;4.589.447.827;2.211.467;41.453.914;Esgl√©sia Major (Moss√®n Camil Rossell)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.710.081;4.588.225.548;434.618.112;4.588.024.557;2.217.345;41.441.134;Llefi√† (Ronda Sant Antoni)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.162.393;4.588.095.877;436070.41;4.587.894.887;2.234.742;41.440.083;Gorg (Antoni Bori)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.209.754;4.588.344.624;435117.78;4.588.143.632;2.223.313;41.442.247;La Salut (Austr√†lia)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.504.348;4.582.564.658;430.412.416;4.582.363.721;2.167.657;41.389.795;Passeig de Gr√†cia (Passeig de Gr√†cia / Gran Via)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.608.095;4.583.688.384;430.516.162;4.583.487.436;2.168.769;41.399.925;Verdaguer (Passeig Sant Joan)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.356.966;4.582.142.233;426.265.072;4.581.941.301;2.118.107;41.385.621;Palau Reial (Facultat de Ci√®ncies)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.990.612;4.581.578.292;430.898.675;4.581.377.364;2.173.585;41.380.953;Liceu (La Rambla / Teatre Liceu)-;1;2;Ciutat Vella;el Barri G√≤tic
+K011;Transports i serveis relacionats;Tramvia;434.370.625;4.585.575.454;434.278.658;4.585.374.488;2.213.571;41.417.238;TRAMVIA (T5, T6) - ALFONS EL MAGN√ÄNIM-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K011;Transports i serveis relacionats;Tramvia;434706.5;4585810.25;434614.53;4.585.609.281;2.217.564;4.141.938;TRAMVIA (T5, T6) - PARC DEL BES√ìS-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.063.612;4.585.467.707;430.971.675;4.585.266.743;2.174.015;4.141.599;METRO (L4) - Guinard√≥ | Hospital de Sant Pau-;7;35;Horta-Guinard√≥;el Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.077.559;4.586.998.656;433.985.595;4.586.797.676;2.209.909;41.430.032;METRO (L2) - Verneda-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424782.29;4.580.569.135;424690.41;4.580.368.218;2.099.472;41.371.307;METRO (L5) - Can Vidalet-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.219.188;4.580.270.769;427.127.285;4.580.069.854;2.128.644;41.368.844;METRO (L1) - Santa Eul√†lia-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.424.051;4.585.075.794;430332.12;4.584.874.833;2.166.408;41.412.405;METRO (L4) - Alfons X-;7;33;Horta-Guinard√≥;el Baix Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.166.269;4.590.445.954;431.074.333;4.590.244.943;2.174.675;41.460.836;METRO (L11) - Ciutat Meridiana-;8;55;Nou Barris;Ciutat Meridiana
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.034.208;4.579.153.554;424.942.325;4578952.65;2.102.659;41.358.582;METRO (L1) - Av. Carrilet-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430551.5;4.583.740.889;430.459.568;4.583.539.941;2.168.086;41.400.393;METRO (L4) - Verdaguer-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.978.275;4.584.857.903;427.886.367;4.584.656.945;2.137.173;41.410.227;FGC - AVINGUDA DEL TIBIDABO-;5;25;Sarri√†-Sant Gervasi;Sant Gervasi - la Bonanova
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.425.993;4584117.19;428334.08;4.583.916.239;2.142.617;41.403.596;FGC - PADUA-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.220.293;4.582.128.606;430.128.363;4.581.927.673;216.431;41.385.843;METRO (L1) - Universitat-;2;10;Eixample;Sant Antoni
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.824.633;4.583.461.639;427.732.726;4.583.260.694;2.135.502;41.397.638;FGC - BONANOVA-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.743.478;4.589.091.575;431.651.536;4.588.890.577;2.181.739;41.448.687;Trinitat Nova (Aiguablava)-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.064.494;4.582.434.961;426.972.593;4.582.234.026;2.126.533;41.388.322;Maria Cristina (Capit√† Arenas)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.355.608;4.588.331.614;430.263.679;4.588.130.623;2.165.214;41.441.723;Canyelles (Garc√≠a Lorca)-;8;49;Nou Barris;Canyelles
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.494.612;4.580.867.438;425.402.726;4.580.666.518;2.107.952;4.137.406;Pubilla Cases (Doctor Ramon Solanich)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.777.535;4.583.068.973;429685.61;4.582.868.031;2.158.906;41.394.274;Diagonal (Rossell√≥ / FGC)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.521.513;4.587.094.924;430.429.582;4.586.893.945;2.167.342;41.430.599;Vilapicina (Canfranc)-;8;46;Nou Barris;el Tur√≥ de la Peira
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.989.117;4.587.048.988;429.897.191;4.586.848.009;2.160.976;41.430.139;Horta (Pla√ßa Eivissa)-;7;43;Horta-Guinard√≥;Horta
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431504.08;4.579.272.101;431.412.138;4.579.071.194;2.179.986;41.360.226;Terminal Mar√≠tima C *Creuers-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.119.412;4.582.449.407;429.027.493;4.582.248.471;2.151.107;41.388.636;METRO (L5) - Hospital Cl√≠nic-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.494.116;4.586.425.261;429.402.194;4.586.224.288;2.155.125;41.424.478;METRO (L5) - El Carmel-;7;37;Horta-Guinard√≥;el Carmel
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.538.942;4.573.924.954;422.447.081;4.573.724.099;2.073.499;41.311.254;METRO (L9S) - Mas Blau-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.037.338;4.575.885.475;424.945.454;4.575.684.601;21.031;41.329.148;METRO (L9S) - Les Moreres-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.159.602;4.589.967.339;433.067.648;4.589.766.332;2.198.594;41.456.694;METRO (L9N) - Can Zam-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.227.517;4.584.887.797;431.135.579;4.584.686.838;2.176.042;41.410.781;METRO (L5) - Sant Pau | Dos de Maig-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.121.592;4.586.049.924;432.029.646;4.585.848.954;2.186.608;41.421.324;METRO (L5) - La Sagrera-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.294.255;4.589.749.411;434202.29;4.589.548.406;2.212.202;41.454.825;METRO (L9N) - Esgl√©sia Major-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.331.395;4.588.409.928;435239.42;4.588.208.935;2.224.762;41.442.845;METRO (L10N) - La Salut-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.308.161;4.578.854.838;428.216.248;4.578.653.936;2.141.831;4.135.619;METRO (L10S) - Foc-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.268.192;4.581.679.478;428176.28;4.581.478.549;2.141.018;41.381.626;METRO (L3) - Sants Estaci√≥-;3;18;Sants-Montju√Øc;Sants
+K003;Transports i serveis relacionats;RENFE;430.640.301;4.582.313.623;430.548.367;4.582.112.688;2.169.312;41.387.546;RENFE - CATALUNYA-;2;7;Eixample;la Dreta de l'Eixample
+K003;Transports i serveis relacionats;RENFE;432276.02;4.584.790.649;432.184.072;4584589.69;2.188.597;41.409.995;RENFE - CLOT-;10;65;Sant Mart√≠;el Clot
+K003;Transports i serveis relacionats;RENFE;431.986.075;4.581.932.911;431.894.129;4.581.731.979;2.185.449;41.384.232;RENFE - DE FRAN√áA-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K003;Transports i serveis relacionats;RENFE;431.838.563;4587111.63;431746.62;4586910.65;2.183.101;41.430.862;RENFE - SANT ANDREU ARENAL-;9;60;Sant Andreu;Sant Andreu
+K011;Transports i serveis relacionats;Tramvia;433.503.312;4.584.495.592;433.411.353;4.584.294.636;2.203.312;4.140.744;TRAMVIA (T4) - FLUVI√Ä-;10;71;Sant Mart√≠;Proven√ßals del Poblenou
+K003;Transports i serveis relacionats;RENFE;430.305.812;4.582.796.969;430.213.882;4.582.596.029;2.165.256;4.139.187;RENFE - PASSEIG DE GR√ÄCIA-;2;7;Eixample;la Dreta de l'Eixample
+K011;Transports i serveis relacionats;Tramvia;423.792.408;4.581.155.468;423.700.537;4.580.954.546;2.087.563;41.376.495;TRAMVIA (T1,T2,T3) - PONT D'ESPLUGUES-;;;;
+K011;Transports i serveis relacionats;Tramvia;421974.72;4.578.976.831;421.882.866;4.578.775.929;2.066.109;41.356.699;TRAMVIA (T1,T2) - LES AIG√úES-;;;;
+K011;Transports i serveis relacionats;Tramvia;420923.21;4581503.09;420.831.366;4.581.302.165;205.321;41.379.349;Tramvia (T3) - SANT FELIU/CONSELL COMARCAL-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.502.029;4.582.471.084;430.410.097;4.582.270.147;216.764;41.388.952;Passeig de Gr√†cia (Rbla. Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.973.491;4.578.929.565;426881.59;4.578.728.662;2.125.868;41.356.743;Europa | Fira (Fira Gran Via)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.709.319;4.574.541.206;423.617.447;4.574.340.345;2.087.401;41.316.916;Parc Nou (Riu Llobregat / Riu X√∫quer)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.427.075;4.588.571.184;436335.09;4.588.370.189;223.786;41.444.385;Pep Ventura (Avinguda Alfons XIII)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.035.292;4.589.377.722;431.943.348;4.589.176.721;21.852;41.451.289;Casa de l'Aigua (Aiguablava)-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.166.873;4.586.101.683;432.074.927;4.585.900.712;2.187.144;41.421.794;La Sagrera (Meridiana | Hondures)-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432509.03;4587840.3;432.417.081;4.587.639.313;2.191.044;41.437.482;Sant Andreu (Joan Torras)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.530.693;4.580.934.618;430438.76;4.580.733.696;2.168.159;41.375.117;Paral¬∑lel (Ronda Sant Pau)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428948.31;4.587.640.166;428.856.394;4.587.439.182;2.148.451;41.435.372;Mundet (Salesians)-;7;41;Horta-Guinard√≥;la Vall d'Hebron
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.385.639;4581333.74;429.293.717;4.581.132.814;2.154.421;41.378.611;Rocafort (Rocafort / Sep√∫lveda)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.670.913;4.582.373.202;430.578.979;4.582.172.266;2.169.671;41.388.085;Catalunya (Passeig de Gr√†cia)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.120.191;4.582.576.646;431.028.253;4.582.375.708;2.175.021;41.389.956;Urquinaona (Bruc)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.138.067;4.583.153.592;432046.12;4.582.952.649;218.713;41.395.239;Marina (Almog√†vers)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.163.037;4585558.9;432071.09;4.585.357.934;2.187.159;41.416.905;Navas (Biscaia)-;9;63;Sant Andreu;Navas
+K003;Transports i serveis relacionats;RENFE;428.972.719;4.593.965.938;428.880.804;4.593.764.896;2.147.997;41.492.347;RENFE - CERDANYOLA DEL VALL√àS-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426.908.772;4.583.660.942;426.816.873;4.583.459.995;2.124.523;4.139.935;FGC - SARRI√Ä-;5;23;Sarri√†-Sant Gervasi;Sarri√†
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.363.016;4.579.441.732;427.271.112;4.579.240.824;2.130.463;41.361.391;FGC - ILDEFONS CERD√Ä-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429.175.608;4.583.674.947;429.083.688;4583474;2.151.636;41.399.679;FGC - GR√ÄCIA (C. de Mari√† Cub√≠)-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.467.531;4.579.553.139;427.375.626;4579352.23;2.131.699;41.362.404;Ciutat de la Just√≠cia (Gran Via / Alhambra)-;;;;
+K011;Transports i serveis relacionats;Tramvia;435.361.902;4586703.06;435.269.926;4.586.502.083;222.531;41.427.474;TRAMVIA (T5) - SANT JOAN BAPTISTA-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427013.72;4.583.570.427;426921.82;4.583.369.481;2.125.789;41.398.544;FGC - SARRI√Ä-;5;24;Sarri√†-Sant Gervasi;les Tres Torres
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;430.994.195;4.579.734.621;430.902.257;4579533.71;2.173.838;41.364.349;Estaci√≥ Mar√≠tima Grimaldi Lines-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K009;Transports i serveis relacionats;Funicular;425.375.564;4585332.19;425283.68;4.585.131.228;2.105.977;41.414.261;Funicular Vallvidrera - FGC-;5;22;Sarri√†-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.964.209;4.589.174.097;431.872.265;4.588.973.098;2.184.372;41.449.449;Trinitat Nova (Palam√≥s)-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.549.442;4.590.275.544;431.457.502;4.590.074.535;2.179.282;41.459.334;Torre Bar√≥ | Vallbona (Sant Feliu de Codines)-;8;54;Nou Barris;Torre Bar√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.701.924;4.582.908.659;431.609.981;4.582.707.718;2.181.941;41.392.996;Arc de Triomf (N√†pols)-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.619.167;4.587.091.876;430.527.235;4.586.890.897;2.168.511;4.143.058;Vilapicina (Teide)-;8;46;Nou Barris;el Tur√≥ de la Peira
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.197.605;4.584.123.981;431.105.667;4.583.923.029;2.175.771;41.403.899;Sagrada Fam√≠lia (Mallorca - Marina)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.322.215;4.582.814.337;430.230.285;4.582.613.397;216.545;41.392.028;Passeig de Gr√†cia (Arag√≥ / Pau Claris)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.304.454;4.585.652.758;428.212.543;4.585.451.793;2.140.981;41.417.415;Penitents (Anna Piferrer)-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.105.209;4585473.75;431.013.272;4.585.272.785;2.174.512;41.416.048;Guinard√≥ | Hospital de Sant Pau (Sant Quint√≠)-;7;35;Horta-Guinard√≥;el Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.078.751;4587871.9;430.986.815;4.587.670.913;2.173.922;41.437.645;Llucmajor (Passeig Verdum / Llucmajor)-;8;48;Nou Barris;la Guineueta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.503.538;4.588.604.651;431.411.598;4.588.403.657;2.178.923;41.444.281;Via J√∫lia (Via J√∫lia / Joaquim Valls)-;8;52;Nou Barris;la Prosperitat
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.753.294;4.586.272.609;433.661.333;4.586.071.636;2.206.108;41.423.466;La Pau (Rambla Guip√∫scoa / Ca n'Oliva)-;10;73;Sant Mart√≠;la Verneda i la Pau
+K011;Transports i serveis relacionats;Tramvia;432.544.669;4.582.298.819;432.452.718;4.582.097.883;2.192.089;41.387.575;TRAMVIA (T4) - CIUTADELLA-VILA OL√çMPICA-;10;67;Sant Mart√≠;la Vila Ol√≠mpica del Poblenou
+K011;Transports i serveis relacionats;Tramvia;421327.15;4579790.91;421.235.302;4.579.590.001;2.058.263;41.363.968;TRAMVIA (T1,T2) - BON VIATGE-;;;;
+K011;Transports i serveis relacionats;Tramvia;421.688.768;4580185.9;421.596.916;4.579.984.987;2.062.535;4.136.756;TRAMVIA (T2) - LA FONTSANTA-;;;;
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431.794.364;4.580.997.943;431.702.419;4580797.02;2.183.262;41.375.795;Terminal Mar√≠tima Marem√†gnum *Creuers-;1;2;Ciutat Vella;el Barri G√≤tic
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.740.569;4587419.43;434.648.599;4.587.218.446;2.217.798;41.433.876;METRO (L2) - Artigues | Sant Adri√†-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.883.561;4.575.972.085;427.791.651;4.575.771.209;2.137.098;41.330.188;METRO (L10S) - Ecoparc-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.718.599;4.578.305.234;425626.71;4.578.104.337;2.110.944;41.351.005;METRO (L1) - Bellvitge-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.031.882;4.587.802.177;430.939.946;4.587.601.191;2.173.369;41.437.013;METRO (L4) - Llucmajor-;8;48;Nou Barris;la Guineueta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429081.69;4.584.351.709;428.989.771;4.584.150.755;2.150.433;41.405.766;METRO (L3) - Lesseps-;6;31;Gr√†cia;la Vila de Gr√†cia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432621.41;4.582.202.672;432.529.458;4.582.001.737;2.193.017;41.386.715;METRO (L4) - Ciutadella | Vila Ol√≠mpica-;10;67;Sant Mart√≠;la Vila Ol√≠mpica del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.172.577;4.583.126.738;431.080.639;4.582.925.795;2.175.585;41.394.915;METRO (L2) - Tetuan-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.055.974;4.588.117.025;435.963.992;4.587.916.035;2.233.466;41.440.265;METRO (L2) - Gorg-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.939.007;4.589.338.515;433.847.045;4.589.137.514;2.207.994;41.451.095;METRO (L1) - Santa Coloma-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.161.999;4.581.089.579;431070.06;4.580.888.655;217.569;41.376.567;METRO (L3) - Drassanes-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.296.222;4583935.58;429.204.301;4583734.63;2.153.048;41.402.037;METRO (L3) - Fontana-;6;31;Gr√†cia;la Vila de Gr√†cia
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);416.940.284;4.583.728.731;416.848.477;4.583.527.787;200.528;41.398.991;FGC - CAN ROS-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);419.088.184;4.579.775.774;418.996.356;4.579.574.866;2.031.499;41.363.609;FGC - COL√íNIA G√úELL-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.155.551;4.586.168.739;432.063.605;4.585.967.768;2.187.001;41.422.397;METRO (L1) - La Sagrera-;9;61;Sant Andreu;la Sagrera
+K004;Transports i serveis relacionats;Tren a l'aeroport;432276.02;4.584.790.649;432.184.072;4584589.69;2.188.597;41.409.995;Tren AEROPORT - CLOT-;10;65;Sant Mart√≠;el Clot
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);418.558.815;4.580.405.181;418.466.992;4.580.204.267;2.025.086;41.369.224;FGC - SANTA COLOMA DE CERVELL√ì-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.610.101;4.581.956.336;428.518.186;4.581.755.405;2.145.074;4.138.415;Enten√ßa (Enten√ßa)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.973.649;4.584.106.019;430.881.713;4.583.905.067;2.173.094;41.403.718;Sagrada Fam√≠lia (Sardenya)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.477.917;4.588.528.173;431.385.978;4588327.18;2.178.625;4.144.359;Via J√∫lia (Via J√∫lia / Argull√≥s)-;8;52;Nou Barris;la Prosperitat
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.475.362;4.579.706.906;423.383.494;4.579.505.997;2.083.955;41.363.418;Sant Ildefons (Avinguda Rep√∫blica Argentina)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.610.824;4.581.376.313;428.518.909;4.581.175.387;2.145.151;41.378.926;Tarragona (Val√®ncia)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.662.955;4581260.44;428.571.039;4.581.059.515;2.145.789;41.377.887;Tarragona (Tarragona)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434525.31;4.585.404.664;434.433.342;4.585.203.699;221.544;41.415.712;Bes√≤s Mar (Ferrer Bassa)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.029.102;4.584.579.796;433.937.138;4.584.378.839;2.209.593;41.408.242;Selva de Mar (Selva de Mar)-;10;69;Sant Mart√≠;Diagonal Mar i el Front Mar√≠tim del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.658.032;4.582.337.341;432566.08;4.582.136.405;219.344;41.387.931;Ciutadella | Vila Ol√≠mpica (Avinguda Ic√†ria)-;10;67;Sant Mart√≠;la Vila Ol√≠mpica del Poblenou
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426932.02;4578959.11;426840.12;4.578.758.207;2.125.369;41.357.005;FGC - EUROPA / FIRA-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429861.51;4.583.270.898;429.769.584;4.583.069.954;2.159.887;413.961;Diagonal (Diagonal / Rambla Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.450.284;4.580.989.296;428358.37;4.580.788.374;2.143.278;41.375.426;Hostafrancs (Consell de Cent)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.699.645;4.587.365.951;434.607.676;4.587.164.968;2.217.314;41.433.391;Artigues | Sant Adri√† (Avinguda Joan XXIII)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.057.863;4.580.979.083;427.965.953;4.580.778.161;2.138.587;41.375.299;Pla√ßa de Sants (Cros)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.639.369;4.586.305.505;431.547.427;4.586.104.533;2.180.809;41.423.585;Congr√©s (Francesc T√†rrega)-;9;62;Sant Andreu;el Congr√©s i els Indians
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431280.27;4.586.525.528;431.188.332;4.586.324.554;2.176.487;41.425.536;Maragall (Prat d'en Roquer)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.375.894;4.586.461.237;428.283.983;4.586.260.264;214.174;41.424.703;Vall d'Hebron (Avinguda Jord√†)-;7;39;Horta-Guinard√≥;Sant Gen√≠s dels Agudells
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.107.484;4.583.121.806;431.015.546;4.582.920.863;2.174.807;41.394.865;Tetuan (Diputaci√≥ / Passeig de Sant Joan)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.306.856;4.585.751.773;428.214.945;4.585.550.807;2.140.998;41.418.307;METRO (L3) - Penitents-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.543.689;4.575.259.006;427.451.782;4.575.058.137;2.133.122;41.323.735;METRO (L10S) - ZAL | Riu Vell-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.281.787;4.586.474.107;431.189.849;4.586.273.133;2.176.511;41.425.073;METRO (L5) - Maragall-;9;62;Sant Andreu;el Congr√©s i els Indians
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.927.318;4.586.158.456;428.835.401;4.585.957.486;2.148.374;41.422.025;METRO (L5) - El Coll | La Teixonera-;7;38;Horta-Guinard√≥;la Teixonera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.713.579;4586961.82;432.621.628;4.586.760.841;219.359;41.429.587;METRO (L9NL10N) - Onze de Setembre-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.453.471;4.580.973.276;428.361.557;4.580.772.354;2.143.318;41.375.282;METRO (L1) - Hostafrancs-;3;15;Sants-Montju√Øc;Hostafrancs
+K003;Transports i serveis relacionats;RENFE;432.066.693;4.593.040.907;431.974.749;4.592.839.872;2.185.163;41.484.284;RENFE - MONTCADA I REIXAC-MANRESA-;;;;
+K004;Transports i serveis relacionats;Tren a l'aeroport;426.100.715;4.578.674.691;426.008.822;4.578.473.791;2.115.466;41.354.367;Tren AEROPORT - BELLVITGE-;;;;
+K003;Transports i serveis relacionats;RENFE;421.504.368;4.580.310.127;421.412.518;4.580.109.213;2.060.314;41.368.661;RENFE - ST. JOAN DESP√ç-;;;;
+K011;Transports i serveis relacionats;Tramvia;427.892.861;4.582.668.993;427.800.953;4.582.468.055;2.136.412;41.390.505;TRAMVIA (T1,T2,T3) - L'ILLA-;4;19;Les Corts;les Corts
+K011;Transports i serveis relacionats;Tramvia;432.234.006;4.582.615.201;432.142.058;4.582.414.263;2.188.338;41.390.398;TRAMVIA (T4) - WELLINGTON-;10;67;Sant Mart√≠;la Vila Ol√≠mpica del Poblenou
+K011;Transports i serveis relacionats;Tramvia;433.612.784;4.585.484.703;433.520.824;4.585.283.738;2.204.513;41.416.358;TRAMVIA (T5, T6) - SANT MART√ç DE PROVEN√áALS-;10;71;Sant Mart√≠;Proven√ßals del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.171.274;4.582.083.335;430.079.345;4.581.882.402;2.163.729;41.385.431;Universitat (Pla√ßa Universitat)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.094.728;4.588.106.246;436.002.746;4.587.905.256;2.233.931;41.440.171;Gorg (Guifr√©)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.195.266;4586242.09;432.103.319;4.586.041.118;2.187.468;41.423.061;La Sagrera (Jardins d'Elx)-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.775.276;4589112.43;432.683.325;4.588.911.431;2.194.088;41.448.962;Trinitat Vella (Parc de la Trinitat)-;9;57;Sant Andreu;la Trinitat Vella
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.484.493;4.588.389.012;432.392.544;4588188.02;2.190.689;41.442.422;Torras i Bages (Palomar / costat muntanya)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.929.382;4.589.327.278;433837.42;4.589.126.277;220.788;41.450.993;Santa Coloma (Avinguda Santa Coloma)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430707.27;4.580.902.726;430.615.335;4.580.701.804;2.170.274;41.374.845;Paral¬∑lel (Avinguda Paral¬∑lel)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.421.505;4.581.452.857;429.329.582;4581251.93;2.154.836;41.379.687;Rocafort (Cal√†bria / Diputaci√≥)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429.696.583;4582918.15;429.604.658;4582717.21;2.157.956;41.392.909;FGC - PROVEN√áA-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);425.782.443;4.584.775.162;425.690.555;4.584.574.205;2.110.914;41.409.282;FGC - PEU FUNICULAR-;5;23;Sarri√†-Sant Gervasi;Sarri√†
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.881.072;4.575.957.454;427.789.162;4.575.756.579;213.707;41.330.056;Ecoparc (Carrer A (costat mar))-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.546.587;4.575.272.633;427454.68;4.575.071.764;2.133.155;41.323.858;ZAL | Riu Vell (Carrer A / Carrer 5)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K011;Transports i serveis relacionats;Tramvia;426.641.164;4.582.261.097;426.549.267;4.582.060.164;2.121.492;41.386.718;TRAMVIA (T1,T2,T3) - PIUS XII-;4;20;Les Corts;la Maternitat i Sant Ramon
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.837.852;4.583.869.712;428.745.936;4.583.668.763;2.147.573;41.401.403;FGC - PLA√áA MOLINA<center>-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K009;Transports i serveis relacionats;Funicular;427.506.131;4.585.541.696;427.414.227;4.585.340.732;2.131.443;41.416.343;Funicular Tibidabo - Cuca de Llum-;5;25;Sarri√†-Sant Gervasi;Sant Gervasi - la Bonanova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431099.26;4.585.445.939;431.007.323;4.585.244.975;2.174.444;41.415.797;Guinard√≥ | Hospital de Sant Pau (Hospital de Sant Pau)-;7;35;Horta-Guinard√≥;el Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.777.515;4.583.124.733;430685.58;4582923.79;217.086;41.394.863;Girona (Consell de Cent)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.658.626;4.582.085.423;430.566.692;4581884.49;2.169.557;41.385.492;Catalunya (Pelai)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.699.902;4.582.048.938;428.607.986;4.581.848.006;2.146.137;41.384.992;Enten√ßa (Rocafort)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.070.963;4.584.194.691;430.979.026;4.583.993.738;2.174.248;41.404.525;Sagrada Fam√≠lia (Proven√ßa / Avinguda Gaud√≠)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.618.258;4.587.066.792;430.526.326;4.586.865.813;2.168.503;41.430.354;Vilapicina (Passeig de les Palmeres)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.075.588;4.584.825.933;431.983.642;4.584.624.974;2.186.195;41.410.296;Clot (Sibelius)-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433238.44;4.585.731.198;433.146.484;4585530.23;2.200.007;41.418.547;Sant Mart√≠ (Agricultura)-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.403.147;4581943.47;427.311.243;4.581.742.539;2.130.642;41.383.926;Les Corts (Travessera de les Corts)-;4;19;Les Corts;les Corts
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.323.666;4.581.606.538;428.231.754;4581405.61;214.169;41.380.974;Sants Estaci√≥ (Pl. Pa√Øsos Catalans / Num√†ncia / Ambulatori)-;3;18;Sants-Montju√Øc;Sants
+K011;Transports i serveis relacionats;Tramvia;435.068.353;4.586.163.946;434976.38;4.585.962.974;2.221.856;41.422.595;TRAMVIA (T5) - LA CATALANA-;;;;
+K011;Transports i serveis relacionats;Tramvia;432.126.647;4.583.383.702;432034.7;4.583.182.757;2.186.968;41.397.311;TRAMVIA (T4) - AUDITORI-TEATRE NACIONAL-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K011;Transports i serveis relacionats;Tramvia;432.119.145;4.583.023.989;432.027.198;4.582.823.047;2.186.918;4.139.407;TRAMVIA (T4) - MARINA-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K011;Transports i serveis relacionats;Tramvia;434.479.089;4.584.807.553;434.387.121;4.584.606.594;2.214.952;4.141.033;TRAMVIA (T4) - DIAGONAL MAR-;10;69;Sant Mart√≠;Diagonal Mar i el Front Mar√≠tim del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.273.328;4.588.986.226;431.181.391;4.588.785.229;2.176.124;41.447.698;METRO (L3) - Roquetes-;8;50;Nou Barris;les Roquetes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.514.244;4.579.705.496;423.422.375;4.579.504.587;208.442;41.363.409;METRO (L5) - Sant Ildefons-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.870.963;4.580.930.763;429.779.036;4.580.729.841;2.160.272;41.375.024;METRO (L3) - Poble Sec-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.776.853;4.583.134.177;430.684.918;4.582.933.234;2.170.851;41.394.948;METRO (L4) - Girona-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433506.64;4.584.085.177;433.414.681;4.583.884.225;2.203.397;41.403.744;METRO (L4) - Poblenou-;10;68;Sant Mart√≠;el Poblenou
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429.248.257;4.583.660.389;429.156.337;4.583.459.442;2.152.507;41.399.554;FGC - GR√ÄCIA-;6;31;Gr√†cia;la Vila de Gr√†cia
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);430.662.379;4582124.25;430.570.445;4.581.923.317;2.169.598;41.385.842;FGC - CATALUNYA (C. de Pelai)-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428440.55;4.583.604.062;428.348.637;4.583.403.116;2.142.852;41.398.976;FGC - MUNTANER-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.991.693;4.584.556.599;433.899.729;4.584.355.642;2.209.148;4.140.803;METRO (L4) - Selva de Mar-;10;69;Sant Mart√≠;Diagonal Mar i el Front Mar√≠tim del Poblenou
+K004;Transports i serveis relacionats;Tren a l'aeroport;432.140.399;4.584.741.446;432.048.452;4.584.540.488;218.698;41.409.541;Tren AEROPORT - CLOT-;10;65;Sant Mart√≠;el Clot
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);420.052.849;4.578.048.029;419.961.012;4.577.847.136;2.043.259;41.348.145;FGC - SANT BOI-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427792.49;4.583.490.526;427.700.583;4.583.289.581;2.135.114;41.397.895;FGC - BONANOVA-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425818.56;4.582.030.261;425.726.671;4581829.33;2.111.682;41.384.563;Zona Universit√†ria (Facultat d'Estudis Empresarials)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.327.404;4.582.195.495;426235.51;4.581.994.562;2.117.747;41.386.098;Palau Reial (Avda. Diagonal)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.490.742;4588562.63;436.398.756;4.588.361.635;2.238.623;41.444.313;Pep Ventura (Pla√ßa Pa√Øsos Catalans)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.402.045;4.581.896.141;431.310.104;4581695.21;2.178.469;41.383.851;Jaume I (Pla√ßa de l'√Ängel)-;1;2;Ciutat Vella;el Barri G√≤tic
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.653.333;4587674.15;433.561.373;4.587.473.164;2.204.758;41.436.081;Bon Pastor (Sant Adri√†)-;9;59;Sant Andreu;el Bon Pastor
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.798.676;4.582.023.803;425.706.787;4.581.822.872;2.111.445;41.384.503;Zona Universit√†ria (Parc Cervantes)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425071.58;4575894.78;424.979.696;4.575.693.906;2.103.508;41.329.235;Les Moreres (Av. Verge de Montserrat / Les Moreres)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.940.125;4.583.221.727;429.848.198;4.583.020.784;2.160.833;41.395.664;Diagonal (Pg. de Gr√†cia / Pau Claris)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.558.487;4.581.036.549;426.466.591;4.580.835.627;2.120.652;41.375.681;Collblanc (Doctor Mart√≠ i Juli√†)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.163.587;4.582.477.732;429.071.667;4.582.276.796;2.151.632;41.388.895;Hospital Cl√≠nic (Villarroel)-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.198.911;4.581.768.323;428107;4.581.567.394;2.140.179;4.138.242;Sants Estaci√≥ (Num√†ncia)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.576.199;4.587.577.584;435.484.222;4.587.376.599;2.227.782;41.435.368;Sant Roc (Pla√ßa Sant Roc)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425017.7;4.579.247.878;424.925.817;4.579.046.973;210.245;4.135.943;Av. Carrilet (Prat de la Riba)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.934.053;4.581.000.966;427.842.144;4.580.800.044;2.137.104;41.375.485;Pla√ßa de Sants (Alcolea (escala mec√†nica))-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.671.841;4580248.29;425.579.953;4.580.047.375;2.110.147;413.685;Florida (Avinguda Masnou)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.180.545;4.580.255.855;426.088.652;4580054.94;2.116.228;41.368.615;Torrassa (Av. Catalunya)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.388.122;4.583.555.819;430.296.191;4.583.354.872;2.166.153;41.398.712;Verdaguer (Girona)-;2;7;Eixample;la Dreta de l'Eixample
+K011;Transports i serveis relacionats;Tramvia;435.574.307;4.587.530.946;435482.33;4.587.329.961;2.227.764;41.434.948;TRAMVIA (T5) - SANT ROC-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.035.098;4.590.625.409;430.943.163;4.590.424.397;2.173.084;41.462.441;METRO (L11) - Can Cui√†s-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.714.291;4.586.339.029;433622.33;4.586.138.056;2.205.634;41.424.061;METRO (L2) - La Pau-;10;73;Sant Mart√≠;la Verneda i la Pau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.679.335;4.586.299.934;433.587.375;4.586.098.961;220.522;41.423.706;METRO (L4) - La Pau-;10;73;Sant Mart√≠;la Verneda i la Pau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432132.54;4.585.960.777;432.040.594;4.585.759.808;2.186.749;41.420.522;METRO (L9NL10N) - La Sagrera-;9;63;Sant Andreu;Navas
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.940.576;4.576.215.993;423.848.703;4.576.015.116;2.089.954;41.332.022;METRO (L9S) - El Prat Estaci√≥-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.087.188;4.577.257.433;426.995.286;4.577.056.546;2.127.428;41.341.693;METRO (L9S) - Parc Log√≠stic-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426981.38;4.579.023.417;426.889.479;4.578.822.513;2.125.951;41.357.589;METRO (L9S) - Europa | Fira-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.372.628;4.581.083.181;426.280.733;4.580.882.259;2.118.424;41.376.084;METRO (L9SL10S) - Collblanc-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.773.961;4581032.65;427.682.054;4.580.831.728;2.135.186;41.375.756;METRO (L5) - Pla√ßa de Sants-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.726.914;4.576.363.133;425.635.024;4.576.162.254;2.111.281;41.333.514;METRO (L9S) - Mercabarna-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.672.922;4.586.292.197;431580.98;4.586.091.225;2.181.212;41.423.468;METRO (L5) - Congr√©s-;9;62;Sant Andreu;el Congr√©s i els Indians
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.839.766;4.581.071.077;425.747.876;4.580.870.155;2.112.054;41.375.926;METRO (L5) - Ernest Lluch-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.355.949;4.586.257.895;431264.01;4.586.056.923;2.177.423;41.423.132;METRO (L4) - Maragall-;7;35;Horta-Guinard√≥;el Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.778.199;4.581.984.042;425686.31;4.581.783.111;2.111.205;41.384.143;METRO (L3) - Zona Universit√†ria-;4;20;Les Corts;la Maternitat i Sant Ramon
+K003;Transports i serveis relacionats;RENFE;432.696.951;4.587.669.481;432605;4.587.468.496;2.193.312;41.435.959;RENFE - SANT ANDREU COMTAL-;9;60;Sant Andreu;Sant Andreu
+K011;Transports i serveis relacionats;Tramvia;434052.63;4.584.670.997;433.960.666;4.584.470.039;2.209.864;41.409.066;TRAMVIA (T4) - SELVA DE MAR-;10;69;Sant Mart√≠;Diagonal Mar i el Front Mar√≠tim del Poblenou
+K003;Transports i serveis relacionats;RENFE;432338.37;4.593.074.625;432.246.424;4592873.59;2.188.413;41.484.611;RENFE - MONTCADA I REIXAC-;;;;
+K003;Transports i serveis relacionats;RENFE;420.498.177;4.581.921.898;420.406.337;4.581.720.969;2.048.073;41.383.079;RENFE - ST. FELIU DE LLOBREGAT-;;;;
+K003;Transports i serveis relacionats;RENFE;424877.07;4579784.77;424.785.189;4579583.86;2.100.702;41.364.252;RENFE - L'HOSPITALET DE LLOBREGAT-;;;;
+K011;Transports i serveis relacionats;Tramvia;426.372.831;4582170.08;426.280.937;4.581.969.147;2.118.294;41.385.874;TRAMVIA (T1,T2,T3) - PALAU REIAL-;4;20;Les Corts;la Maternitat i Sant Ramon
+K011;Transports i serveis relacionats;Tramvia;432.264.601;4.584.148.345;432.172.653;4.583.947.392;2.188.532;41.404.209;TRAMVIA (T5, T6) - LA FARINERA-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.864.246;4.578.996.952;426.772.346;4.578.796.049;2.124.554;4.135.734;Europa | Fira (Pla√ßa Europa)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.002.782;4.575.853.966;424.910.899;4.575.653.092;2.102.691;41.328.861;Les Moreres (Av. Verge de Montserrat / Ctra. de la Marina)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.061.276;4.587.018.234;433.969.312;4.586.817.254;2.209.712;41.430.207;Verneda (Santander)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.008.989;4.590.655.081;430.917.055;4.590.454.069;2.172.768;41.462.706;Can Cui√†s (Circumval¬∑laci√≥)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.768.533;4.578.295.729;425.676.643;4.578.094.833;2.111.542;41.350.924;Bellvitge (Rambla de la Marina / Avda. Granvia)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.588.394;4.582.785.935;431.496.452;4.582.584.995;2.180.597;41.391.881;Arc de Triomf (Avda. Vilanova)-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.257.318;4.589.197.448;433.165.362;4.588.996.448;2.199.849;41.449.768;Bar√≥ de Viver (Riu Bes√≤s)-;9;57;Sant Andreu;la Trinitat Vella
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.178.378;4.582.013.541;430.086.449;4.581.812.609;2.163.822;41.384.803;Universitat (Ronda Sant Antoni)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.165.385;4.583.999.038;432.073.438;4.583.798.087;2.187.362;41.402.856;Gl√≤ries (Pla√ßa de les Gl√≤ries Catalanes)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.187.562;4.576.601.708;428.095.649;4.576.400.827;2.140.656;41.335.886;Port Comercial | La Factoria (Carrer A (costat mar))-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.886.213;4.575.986.381;427.794.303;4.575.785.505;2.137.128;41.330.317;Ecoparc (Ecoparc)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K011;Transports i serveis relacionats;Tramvia;427.509.632;4.582.543.837;427.417.727;4.582.342.901;2.131.844;41.389.343;TRAMVIA (T1,T2,T3) - NUM√ÄNCIA-;4;19;Les Corts;les Corts
+K011;Transports i serveis relacionats;Tramvia;435.009.866;4.585.692.192;434.917.893;4.585.491.224;2.221.206;41.418.341;TRAMVIA (T6) - LA MINA-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.600.152;4.583.179.916;432.508.201;4.582.978.972;2.192.654;41.395.515;Bogatell (Pujades)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.015.551;4.585.909.437;428.923.633;4.585.708.469;2.149.459;4.141.979;El Coll | La Teixonera (Beat Almat√≥)-;6;29;Gr√†cia;el Coll
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.925.782;4583199.66;429.833.855;4.582.998.717;2.160.664;41.395.464;Diagonal (Pg. de Gr√†cia / Rambla Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.268.092;4.583.999.808;429.176.172;4.583.798.858;2.152.704;41.402.613;Fontana (Gran de Gr√†cia / Ast√∫ries)-;6;31;Gr√†cia;la Vila de Gr√†cia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431153.27;4.581.095.103;431.061.331;4.580.894.179;2.175.585;41.376.616;Drassanes (Drassanes)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.295.043;4.579.048.843;422.203.186;4578847.94;2.069.929;41.357.379;Cornell√† Centre (Pla√ßa Estaci√≥)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.044.596;4.580.002.473;423.952.723;4.579.801.561;2.090.723;41.366.134;Can Boixeres (Estronci)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.176.739;4.581.471.872;428.084.828;4.581.270.945;2.139.949;41.379.748;Sants Estaci√≥ (Estaci√≥ RENFE / Pl. Pa√Øsos Catalans)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.118.916;4.585.951.689;432026.97;4585750.72;2.186.587;41.420.439;La Sagrera (Felip II)-;9;63;Sant Andreu;Navas
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.932.569;4.582.454.527;430.840.633;4582253.59;2.172.791;4.138.884;Urquinaona (Pla√ßa Urquinaona)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.690.302;4.581.303.028;428.598.386;4.581.102.103;214.611;41.378.273;Tarragona (Arag√≥)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.702.596;4.585.017.239;434.610.626;4.584.816.278;2.217.603;41.412.237;El Maresme | F√≤rum (Rambla de Prim)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K011;Transports i serveis relacionats;Tramvia;435983.75;4.588.011.049;435.891.769;4587810.06;2.232.613;41.439.305;TRAMVIA (T5) - GORG-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.615.964;4.582.310.664;430.524.031;4.582.109.729;2.169.021;41.387.517;METRO (L1) - Catalunya-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430612.89;4.580.924.504;430.520.956;4.580.723.582;2.169.143;41.375.033;METRO (L2) - Paral¬∑lel-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.079.327;4.579.111.867;422.987.462;4.578.910.964;2.079.296;41.358.022;METRO (L5) - Gavarra-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.434.514;4.580.846.516;425.342.628;4.580.645.596;2.107.236;41.373.866;METRO (L5) - Pubilla Cases-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.663.885;4.580.231.051;425.571.997;4.580.030.137;2.110.054;41.368.344;METRO (L1) - Florida-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.954.724;4.589.088.056;436.862.734;4.588.887.056;2.244.122;41.449.082;METRO (L2) - Badalona Pompeu Fabra-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431804.14;4.589.146.184;431.712.198;4.588.945.185;2.182.459;41.449.184;METRO (L4) - Trinitat Nova-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435647.7;4.587.631.462;435.555.722;4.587.430.476;2.228.632;41.435.859;METRO (L2) - Sant Roc-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.841.437;4.581.719.693;427.749.529;4.581.518.764;213.591;4.138.195;METRO (L3) - Pla√ßa del Centre-;3;18;Sants-Montju√Øc;Sants
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426.420.871;4.583.563.017;426.328.977;4.583.362.072;2.118.699;41.398.423;FGC - REINA ELISENDA-;5;23;Sarri√†-Sant Gervasi;Sarri√†
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.007.329;4.589.379.872;431.915.385;4.589.178.871;2.184.865;41.451.306;METRO (L11) - Casa de l'Aigua-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.028.631;4.583.100.659;431.936.685;4.582.899.716;2.185.827;41.394.753;METRO (L1) - Marina-;2;5;Eixample;el Fort Pienc
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.454.596;4.584.099.555;428.362.683;4.583.898.604;2.142.961;4.140.344;FGC - PADUA-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.114.553;4.580.193.355;428.022.642;4579992.44;2.139.358;41.368.228;FGC - MAG√íRIA-LA CAMPANA-;3;16;Sants-Montju√Øc;la Bordeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.998.298;4.580.875.426;428.906.379;4.580.674.505;2.149.844;41.374.449;Espanya (Exposici√≥ / Paral¬∑lel)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428579.91;4.581.345.197;428.487.995;4.581.144.271;2.144.785;41.378.643;Tarragona (Elisi)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.028.206;4.580.965.954;428.936.287;4.580.765.032;2.150.191;41.375.267;Espanya (Avinguda Paral¬∑lel)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.187.406;4.581.149.515;431.095.467;4.580.948.591;2.175.987;41.377.109;Drassanes (Santa Madrona)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.170.551;4.588.896.049;431.078.615;4.588.695.053;2.174.904;41.446.877;Roquetes (Jaume Pinent)-;8;50;Nou Barris;les Roquetes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.252.382;4.588.262.858;435.160.408;4.588.061.866;2.223.832;41.441.514;La Salut (Juan Valera)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.727.073;4588247.6;434.635.104;4.588.046.609;2.217.546;41.441.334;Llefi√† (Avinguda d'Am√®rica)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.691.431;4.588.343.629;434.599.462;4.588.142.637;2.217.109;41.442.196;Llefi√† (Avinguda d'Am√®rica (mercat))-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.658.414;4.585.017.386;428566.5;4.584.816.426;2.145.291;41.411.724;Vallcarca (Avinguda Vallcarca + Parc G√ºell)-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.510.747;4583113.8;432.418.796;4.582.912.857;2.191.592;41.394.912;Bogatell (Pujades / Pere IV)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.026.207;4.581.007.949;426.934.306;4.580.807.027;2.126.248;41.375.466;Badal (Carreras i Candi)-;3;17;Sants-Montju√Øc;Sants - Badal
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.811.109;4.579.807.724;424.719.229;4.579.606.814;2.099.911;41.364.452;Rambla Just Oliveras (Avinguda Can Serra)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.488.709;4.581.001.573;428.396.795;4.580.800.651;2.143.736;4.137.554;Hostafrancs (Consell de Cent / Mercat)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.707.325;4.585.386.099;431.615.383;4.585.185.135;2.181.726;4.141.531;Camp de l'Arpa (Ind√∫stria)-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425055.24;4.580.168.262;424.963.357;4.579.967.348;2.102.785;41.367.722;METRO (L1) - Can Serra-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.321.735;4.579.400.267;426229.84;4579199.36;211.802;41.360.923;METRO (L9SL10S) - Can Tries | Gornal-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.103.739;4.588.550.816;434.011.775;4.588.349.822;2.210.052;41.444.014;METRO (L9N) - Can Peixauet-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.125.127;4581022.83;427.033.226;4.580.821.908;2.127.429;41.375.609;METRO (L5) - Badal-;3;17;Sants-Montju√Øc;Sants - Badal
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.216.717;4.581.497.679;428.124.806;4.581.296.752;2.140.424;41.379.984;METRO (L5) - Sants Estaci√≥-;3;18;Sants-Montju√Øc;Sants
+K009;Transports i serveis relacionats;Funicular;430.714.189;4.580.900.951;430.622.254;4.580.700.029;2.170.357;41.374.829;Funicular de Montju√Øc-TMB-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.093.853;4.588.139.562;436.001.871;4.587.938.571;2.233.917;41.440.471;METRO (L10N) - Gorg-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.601.691;4.590.262.835;431.509.751;4.590.061.826;2.179.909;41.459.224;METRO (L11) - Torre Bar√≥ | Vallbona-;8;54;Nou Barris;Torre Bar√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.338.754;4.581.379.719;429.246.832;4.581.178.793;2.153.855;41.379.021;Rocafort (Rocafort / Diputaci√≥)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K003;Transports i serveis relacionats;RENFE;431.541.771;4.582.779.212;431.449.829;4.582.578.272;218.004;41.391.817;RENFE - ARC DE TRIOMF-;2;5;Eixample;el Fort Pienc
+K011;Transports i serveis relacionats;Tramvia;422.486.628;4.579.426.234;422.394.769;4.579.225.328;2.072.171;41.360.796;TRAMVIA (T1,T2) - IGNASI IGL√âSIAS-;;;;
+K011;Transports i serveis relacionats;Tramvia;421.550.015;4.581.544.631;421.458.165;4.581.343.706;20.607;41.379.784;TRAMVIA (l√≠nia T3) - TORREBLANCA-;;;;
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431585.51;4.580.560.397;431.493.567;4.580.359.478;2.180.814;41.371.837;Terminal Mar√≠tima Sud *Creuers-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.787.305;4.576.401.042;425.695.415;4.576.200.163;2.111.998;41.333.861;Mercabarna (Carrer K / Carrer Transversal 6)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.619.234;4.587.886.415;429.527.311;4.587.685.429;2.156.452;41.437.649;Valldaura (Passeig Valldaura)-;7;43;Horta-Guinard√≥;Horta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.665.214;4.587.393.131;434.573.245;4.587.192.148;2.216.899;41.433.633;Artigues | Sant Adri√† (Ctra. Santa Coloma)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432099.53;4.583.198.698;432.007.583;4.582.997.754;2.186.664;41.395.642;Marina (L'Auditori)-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.476.552;4.588.576.393;432.384.603;4.588.375.399;2.190.573;41.444.109;Torras i Bages (Passeig Santa Coloma / costat muntanya)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.498.614;4.588.577.075;432.406.665;4.588.376.081;2.190.837;41.444.117;Torras i Bages (Passeig Santa Coloma / costat mar)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.747.884;4.582.342.931;430.655.949;4.582.141.996;2.170.595;41.387.819;Catalunya (Ronda Sant Pere)-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.896.762;4.580.887.245;428.804.844;4.580.686.324;2.148.628;41.374.547;FGC - ESPANYA-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.181.037;4.584.893.225;432089.09;4.584.692.266;2.187.449;41.410.911;Clot (Val√®ncia)-;10;65;Sant Mart√≠;el Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.492.538;4.573.114.487;422.400.677;4572913.64;2.073.048;4.130.395;Aeroport T2 (Aeroport T2)-;;;;
+K003;Transports i serveis relacionats;RENFE;431.616.688;4591556.12;431.524.748;4.591.355.099;2.179.942;41.470.873;RENFE - MONTCADA BIFURCACI√ì-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.169.942;4.584.324.675;428.078.032;4.584.123.722;2.139.529;41.405.442;FGC - EL PUTXET-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.059.722;4.579.371.475;427.967.811;4.579.170.568;21.388;41.360.821;Foneria (Mercat de la Marina)-;3;13;Sants-Montju√Øc;la Marina de Port
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428332.15;4.578.861.262;428.240.237;4578660.36;2.142.117;4.135.625;Foc (Foc (costat Montju√Øc))-;3;13;Sants-Montju√Øc;la Marina de Port
+K011;Transports i serveis relacionats;Tramvia;434.021.534;4585878.64;433929.57;4.585.677.671;2.209.361;4.141.994;TRAMVIA (T5, T6) - BES√íS-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K011;Transports i serveis relacionats;Tramvia;433.089.866;4.584.362.195;432997.91;4584161.24;2.198.381;41.406.205;TRAMVIA (T4) - PERE IV-;10;71;Sant Mart√≠;Proven√ßals del Poblenou
+K010;Transports i serveis relacionats;Telef√®ric;432.180.132;4.580.715.447;432.088.184;4.580.514.526;2.187.907;41.373.283;Telef√®ric de Barcelona-;1;3;Ciutat Vella;la Barceloneta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.697.383;4.587.105.252;428.605.469;4.586.904.273;2.145.511;41.430.532;Montbau (Palau  Ol√≠mpic Vall d'Hebron)-;7;41;Horta-Guinard√≥;la Vall d'Hebron
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.359.795;4.580.810.868;425267.91;4.580.609.948;2.106.347;41.373.538;Pubilla Cases (Avinguda Josep Molins)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.899.312;4.586.302.071;428.807.396;4.586.101.099;2.148.022;41.423.316;El Coll | La Teixonera (Arenys)-;7;38;Horta-Guinard√≥;la Teixonera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.194.347;4.586.099.427;432102.4;4.585.898.456;2.187.473;41.421.776;La Sagrera (Hondures)-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.413.678;4586538.25;428.321.766;4.586.337.276;2.142.183;414.254;Vall d'Hebron (Resid√®ncia Sanit√†ria)-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.691.904;4586994.22;432.599.953;4.586.793.241;2.193.327;41.429.877;Onze de Setembre (Onze de Setembre)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.288.869;4588390.99;435.196.894;4.588.189.997;2.224.255;41.442.671;La Salut (Marqu√®s de Sant Mori)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.356.928;4.588.397.043;435.264.953;4588196.05;2.225.069;41.442.731;La Salut (Quevedo)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.469.143;4.585.027.729;430.377.212;4.584.826.769;2.166.953;41.411.976;Alfons X (Lepant)-;7;33;Horta-Guinard√≥;el Baix Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.992.942;4.587.775.458;430.901.007;4.587.574.472;2.172.906;41.436.769;Llucmajor (Pi i Molist)-;8;48;Nou Barris;la Guineueta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423.489.146;4.579.673.451;423.397.278;4.579.472.542;2.084.124;41.363.118;Sant Ildefons (Mercat Sant Ildefons)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.080.554;4.582.426.139;428.988.635;4.582.225.203;2.150.645;41.388.423;Hospital Cl√≠nic (Rossell√≥)-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.981.016;4.581.571.722;430.889.079;4.581.370.794;2.173.471;41.380.893;Liceu (La Rambla / Teatre Liceu)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.756.421;4.589.115.048;432664.47;4.588.914.049;2.193.862;41.448.984;METRO (L1) - Trinitat Vella-;9;57;Sant Andreu;la Trinitat Vella
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.188.153;4.582.012.669;430.096.224;4.581.811.737;2.163.939;41.384.796;METRO (L2) - Universitat-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.225.178;4.575.131.252;424.133.302;4.574.930.385;209.349;41.322.279;METRO (L9S) - C√®ntric-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.155.968;4.585.482.356;432.064.021;4.585.281.391;2.187.083;41.416.215;METRO (L1) - Navas-;9;63;Sant Andreu;Navas
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.447.673;4.586.528.032;428.355.761;4.586.327.058;2.142.591;41.425.311;METRO (L3) - Vall d'Hebron-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.876.862;4.583.250.319;429.784.936;4.583.049.375;2.160.073;41.395.916;METRO (L3) - Diagonal-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.963.106;4.580.996.682;428.871.188;4580795.76;2.149.409;41.375.538;METRO (L1) - Espanya-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.782.478;4.584.492.053;431.690.535;4.584.291.097;2.182.726;41.407.264;METRO (L2) - Encants-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.580.549;4.585.339.213;434488.58;4.585.138.249;2.216.108;41.415.127;METRO (L4) - Bes√≤s Mar-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426.477.889;4.583.649.008;426.385.994;4.583.448.062;211.937;41.399.203;FGC - REINA ELISENDA-;5;23;Sarri√†-Sant Gervasi;Sarri√†
+K003;Transports i serveis relacionats;RENFE;432.115.901;4.586.339.891;432.023.955;4.586.138.918;2.186.507;41.423.935;RENFE - LA SAGRERA - MERIDIANA-;9;61;Sant Andreu;la Sagrera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.581.159;4.585.049.126;428.489.245;4.584.848.166;2.144.363;41.412.003;METRO (L3) - Vallcarca-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.213.197;4.580.234.316;426.121.304;4.580.033.401;2.116.621;41.368.424;METRO (L1) - Torrassa-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.464.321;4.579.393.075;427.372.416;4.579.192.168;213.168;41.360.962;FGC - ILDEFONS CERD√Ä-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);423.696.607;4.578.548.962;423.604.736;4.578.348.064;2.086.746;41.353.011;FGC - ALMEDA-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429242.29;4.583.714.245;429150.37;4.583.513.297;2.152.429;41.400.039;FGC - GR√ÄCIA (Pl. de Gal¬∑la Plac√≠dia)-;6;31;Gr√†cia;la Vila de Gr√†cia
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426.274.529;4.578.783.125;426.182.635;4.578.582.224;2.117.531;4.135.536;FGC - GORNAL-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);430.499.451;4.582.153.888;430.407.519;4.581.952.954;2.167.646;41.386.095;FGC - CATALUNYA (C. de Bergara)-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);429.671.428;4.582.968.673;429.579.504;4.582.767.732;2.157.649;41.393.362;FGC - PROVEN√áA (C. del Rossell√≤)-;2;7;Eixample;la Dreta de l'Eixample
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.479.622;4584065.28;428.387.709;4.583.864.329;2.143.265;41.403.133;FGC - PADUA-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);425.097.115;4.579.065.424;425.005.232;4.578.864.521;2.103.422;41.357.794;FGC - L'HOSPITALET-AV. CARRILET-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.473.536;4.583.567.057;428.381.623;4.583.366.111;2.143.251;41.398.645;FGC - MUNTANER-;5;26;Sarri√†-Sant Gervasi;Sant Gervasi - Galvany
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427044.36;4.582.428.391;426952.46;4.582.227.456;2.126.293;41.388.261;Maria Cristina (Av. Diagonal / Doctor Ferran)-;4;21;Les Corts;Pedralbes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.405.451;4.581.998.184;427.313.547;4.581.797.253;2.130.663;41.384.419;Les Corts (Joan G√ºell)-;4;19;Les Corts;les Corts
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.749.239;4590288.33;433.657.279;4590087.32;2.205.618;41.459.634;Singuerl√≠n (Passatge de Salvatella)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.089.601;4.586.046.054;428.997.683;4.585.845.085;2.150.329;41.421.027;El Coll | La Teixonera (Passeig Mare de D√©u del Coll)-;7;37;Horta-Guinard√≥;el Carmel
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);425.791.861;4.579.444.362;425.699.971;4.579.243.455;211.168;41.361.271;FGC - SANT JOSEP-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.103.892;4.588.576.685;434.011.928;4.588.375.691;2.210.051;41.444.247;Can Peixauet (Avinguda Ban√∫s Baixa)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.255.511;4.575.086.301;424.163.634;4.574.885.435;2.093.858;41.321.877;C√®ntric (C. Lleida)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.287.344;4.582.796.464;430.195.414;4.582.595.525;2.165.035;41.391.864;Passeig de Gr√†cia (Arag√≥ / Rambla Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430327.48;4.582.761.992;430.235.549;4.582.561.053;2.165.519;41.391.557;Passeig de Gr√†cia (Consell de Cent)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.575.583;4.584.965.538;434.483.614;4.584.764.577;2.216.089;41.411.761;El Maresme | F√≤rum (Avinguda Diagonal)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.145.143;4.586.955.831;431.053.206;4.586.754.853;2.174.821;414.294;Virrei Amat (Virrei Amat (mar))-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.990.157;4.587.001.013;429.898.231;4.586.800.035;2.160.994;41.429.707;Horta (Tajo)-;7;43;Horta-Guinard√≥;Horta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.100.224;4.586.991.676;434008.26;4.586.790.697;2.210.181;41.429.971;Verneda (Ctra. Matar√≥)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.355.203;4.580.372.328;427.263.299;4.580.171.412;2.130.258;41.369.771;Santa Eul√†lia (Riera Blanca)-;;;;
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431.101.864;4.578.456.025;431.009.925;4.578.255.126;2.175.271;41.352.842;Terminal Mar√≠tima E *Creuers-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K011;Transports i serveis relacionats;Tramvia;425.838.683;4.581.151.128;425.746.793;4.580.950.205;2.112.031;41.376.647;TRAMVIA (T1,T2,T3) - SANT RAMON-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.117.379;4.580.257.769;430025.45;4.580.056.853;2.163.296;41.368.985;METRO (FM) - Parc de Montju√Øc-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.400.306;4.581.405.655;429.308.384;4.581.204.729;2.154.588;4.137.926;METRO (L1) - Rocafort-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.522.158;4.579.637.196;427.430.252;4.579.436.287;2.132.342;41.363.166;METRO (L10S) - Ciutat de la Just√≠cia-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.522.632;4.582.596.681;430430.7;4.582.395.743;2.167.872;41.390.085;METRO (L4) - Passeig de Gr√†cia-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.424.715;4.581.967.902;427.332.811;4.581.766.971;2.130.897;41.384.148;METRO (L3) - Les Corts-;4;19;Les Corts;les Corts
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.486.023;4.588.481.263;432.394.074;4588280.27;2.190.697;41.443.253;METRO (L1) - Torras i Bages-;9;60;Sant Andreu;Sant Andreu
+K003;Transports i serveis relacionats;RENFE;431.586.499;4.582.785.247;431.494.557;4.582.584.307;2.180.575;41.391.875;RENFE - ARC DE TRIOMF-;2;5;Eixample;el Fort Pienc
+K003;Transports i serveis relacionats;RENFE;422.565.576;4.573.165.776;422.473.714;4.572.964.928;2.073.913;41.304.419;RENFE - AEROPORT-;;;;
+K003;Transports i serveis relacionats;RENFE;428.208.764;4.581.396.627;428.116.853;4.581.195.701;2.140.341;41.379.074;RENFE - SANTS ESTACI√ì-;3;18;Sants-Montju√Øc;Sants
+K011;Transports i serveis relacionats;Tramvia;432.120.222;4.583.868.972;432.028.275;4.583.668.022;2.186.836;41.401.681;TRAMVIA (T4, T5, T6) - GL√íRIES-;2;5;Eixample;el Fort Pienc
+K004;Transports i serveis relacionats;Tren a l'aeroport;428.208.764;4.581.396.627;428.116.853;4.581.195.701;2.140.341;41.379.074;Tren AEROPORT - SANTS ESTACI√ì-;3;18;Sants-Montju√Øc;Sants
+K004;Transports i serveis relacionats;Tren a l'aeroport;424.033.841;4.576.123.885;423.941.967;4.575.923.009;209.108;41.331.201;Tren AEROPORT - PRAT DE LLOBREGAT-;;;;
+K004;Transports i serveis relacionats;Tren a l'aeroport;422.565.576;4.573.165.776;422.473.714;4.572.964.928;2.073.913;41.304.419;Tren AEROPORT- AEROPORT-;;;;
+K003;Transports i serveis relacionats;RENFE;431.641.551;4590527.36;431.549.611;4.590.326.349;2.180.357;4.146.161;RENFE - TORRE BAR√ì-;8;54;Nou Barris;Torre Bar√≥
+K003;Transports i serveis relacionats;RENFE;430.660.853;4.582.367.011;430.568.919;4.582.166.075;2.169.552;41.388.029;RENFE - CATALUNYA-;2;7;Eixample;la Dreta de l'Eixample
+K011;Transports i serveis relacionats;Tramvia;422.200.305;4.578.983.961;422.108.448;4.578.783.059;2.068.805;41.356.785;TRAMVIA (T1,T2) - CORNELL√Ä CENTRE-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.067.161;4.584.455.775;428.975.243;4584254.82;2.150.247;41.406.702;Lesseps (Pla√ßa Lesseps)-;6;31;Gr√†cia;la Vila de Gr√†cia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.473.234;4.588.356.906;430.381.304;4.588.155.915;2.166.619;41.441.961;Canyelles (Via Fav√®ncia)-;8;49;Nou Barris;Canyelles
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.036.585;4579092.13;424.944.702;4.578.891.226;2.102.695;41.358.029;Av. Carrilet (Avinguda Carrilet)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.146.531;4.583.905.063;432.054.584;4.583.704.113;2.187.147;41.402.008;Gl√≤ries (Avda. Meridiana)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.726.513;4.589.378.985;434.634.544;4.589.177.983;2.217.417;41.451.524;Fondo (Sic√≠lia)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.467.956;4.581.413.878;429.376.033;4.581.212.952;2.155.396;4.137.934;Rocafort (Cal√†bria / Sep√∫lveda)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.820.191;4.581.819.373;429.728.265;4.581.618.443;2.159.561;41.383.023;Urgell (Villarroel / Diputaci√≥)-;2;8;Eixample;l'Antiga Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.301.501;4.582.147.476;430.209.571;4.581.946.543;2.165.279;4.138.602;Universitat (Ronda Universitat)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.251.394;4.582.119.424;430.159.464;4.581.918.491;2.164.683;41.385.763;Universitat (Pelai)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.652.503;4.582.854.611;431560.56;4.582.653.671;2.181.356;41.392.505;Arc de Triomf (Roger de Flor)-;2;5;Eixample;el Fort Pienc
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);424186.27;4586811.61;424.094.397;4.586.610.635;2.091.563;41.427.474;FGC - LES PLANES-;5;22;Sarri√†-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.464.027;4583462.95;427.372.123;4.583.262.005;2.131.188;41.397.617;FGC - LES TRES TORRES-;5;24;Sarri√†-Sant Gervasi;les Tres Torres
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);424659.96;4.585.939.975;424.568.083;4.585.739.008;209.734;41.419.668;FGC - BAIXADOR DE VALLVIDRERA-;5;22;Sarri√†-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.025.642;4.579.351.162;427.933.732;4.579.150.255;2.138.395;41.360.635;Foneria (Jardins dels Drets Humans)-;3;13;Sants-Montju√Øc;la Marina de Port
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.874.076;4.575.960.854;427.782.166;4.575.759.979;2.136.986;41.330.086;Ecoparc (Carrer A / Carrer 4)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.541.372;4.575.244.817;427.449.465;4.575.043.948;2.133.096;41.323.607;ZAL | Riu Vell (ZAL)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);430.594.303;4.582.119.587;430502.37;4.581.918.654;2.168.784;41.385.795;FGC - CATALUNYA-;2;7;Eixample;la Dreta de l'Eixample
+K010;Transports i serveis relacionats;Telef√®ric;430.099.448;4.580.246.744;430.007.519;4.580.045.828;2.163.082;41.368.884;Telef√®ric de Montju√Øc-;3;11;Sants-Montju√Øc;el Poble-sec
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;430.914.992;4.578.171.415;430.823.055;4.577.970.518;217.307;41.350.262;Terminal Mar√≠tima A *Creuers-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.796.187;4.583.087.001;429.704.261;4.582.886.059;2.159.127;41.394.438;Diagonal (Rambla Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.161.109;4.583.063.672;431.069.171;4582862.73;2.175.455;41.394.346;Tetuan (Casp / Passeig de Sant Joan)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.058.293;4.582.319.317;430.966.356;4.582.118.382;217.431;41.387.633;Urquinaona (Jonqueres)-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.149.156;4.584.341.099;430.057.228;4.584.140.145;2.163.204;41.405.764;Joanic (Pi i Margall)-;6;32;Gr√†cia;el Camp d'en Grassot i Gr√†cia Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.357.269;4.586.194.374;431265.33;4.585.993.403;2.177.446;4.142.256;Maragall (Ronda Guinard√≥ - costat Mar)-;7;35;Horta-Guinard√≥;el Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.072.623;4.587.816.222;430.980.687;4.587.615.236;2.173.855;41.437.143;Llucmajor (Pla√ßa Jardins d'Alf√†bia)-;8;45;Nou Barris;Porta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.480.558;4.586.481.629;428.388.646;4.586.280.656;214.299;41.424.896;Vall d'Hebron (Mercat de Vall d'Hebron)-;7;41;Horta-Guinard√≥;la Vall d'Hebron
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.629.789;4.585.275.704;434537.82;4585074.74;2.216.704;41.414.559;Bes√≤s Mar (Jaume Fabre)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431644.51;4585328.18;431.552.568;4.585.127.217;2.180.981;41.414.783;Camp de l'Arpa (Passeig Maragall)-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431750.45;4.586.289.577;431.658.507;4.586.088.605;218.214;41.423.451;Congr√©s (Matanzas)-;9;62;Sant Andreu;el Congr√©s i els Indians
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.628.193;4.582.365.598;432.536.241;4.582.164.662;219.308;41.388.183;Ciutadella | Vila Ol√≠mpica (Zoo)-;10;67;Sant Mart√≠;la Vila Ol√≠mpica del Poblenou
+K011;Transports i serveis relacionats;Tramvia;422.837.374;4.580.555.809;422.745.512;4.580.354.892;207.622;41.371.003;TRAMVIA (T2) - SANT MART√ç DE L'ERM (Baixador)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.522.264;4.587.745.358;432.430.315;4.587.544.372;2.191.213;41.436.628;METRO (L1) - Sant Andreu-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.886.214;4.586.977.787;431794.27;4.586.776.808;2.183.687;41.429.661;METRO (L1) - Fabra i Puig-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.988.522;4.582.359.508;430.896.585;4.582.158.572;2.173.471;41.387.989;METRO (L4) - Urquinaona-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.555.141;4582525.2;430.463.208;4.582.324.263;2.168.269;41.389.444;METRO (L2) - Passeig de Gr√†cia-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.395.612;4.582.184.809;426.303.718;4.581.983.876;2.118.564;41.386.008;METRO (L3) - Palau Reial-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.657.401;4587927.68;429.565.478;4.587.726.693;2.156.904;41.438.024;METRO (L3) - Valldaura-;7;43;Horta-Guinard√≥;Horta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.145.184;4.584.813.621;432.053.237;4.584.612.662;2.187.029;41.410.191;METRO (L1) - Clot-;10;65;Sant Mart√≠;el Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.144.313;4.584.137.146;431.052.375;4.583.936.194;2.175.132;41.404.013;METRO (L2) - Sagrada Fam√≠lia-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.868.902;4.589.228.179;431.776.959;4589027.18;2.183.225;41.449.928;METRO (L11) - Trinitat Nova-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.706.443;4.582.180.227;430.614.509;4.581.979.293;2.170.118;4.138.635;METRO (L3) - Catalunya-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.403.973;4577609.09;425.312.086;4577408.2;2.107.269;41.344.706;METRO (L1) - Hospital de Bellvitge-;;;;
+K004;Transports i serveis relacionats;Tren a l'aeroport;432.696.951;4.587.669.481;432605;4.587.468.496;2.193.312;41.435.959;Tren AEROPORT - SANT ANDREU COMTAL-;9;60;Sant Andreu;Sant Andreu
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431.109.829;4.580.147.374;431017.89;4.579.946.459;2.175.174;41.368.076;Terminal Mar√≠tima Sant Bertran *Ferris-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);419.347.693;4.579.117.936;419.255.863;4.578.917.034;2.034.689;41.357.711;FGC - MOL√ç NOU-CIUTAT COOPERATIVA-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);422.162.837;4.578.435.921;422.070.981;4.578.235.024;2.068.427;41.351.845;FGC - CORNELL√Ä-RIERA-;;;;
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);417.521.223;4.582.513.247;417.429.411;4.582.312.314;2.012.394;41.388.104;FGC - SANT VICEN√á DELS HORTS-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.830.004;4.581.008.331;427.738.096;4.580.807.409;2.135.859;41.375.542;Pla√ßa de Sants (Galileu)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.368.446;4.580.967.788;428.276.533;4.580.766.866;2.142.302;41.375.225;Hostafrancs (Moian√®s)-;3;15;Sants-Montju√Øc;Hostafrancs
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.948.945;4.581.019.471;428.857.027;4.580.818.548;2.149.237;41.375.742;Espanya (Tarragona)-;2;9;Eixample;la Nova Esquerra de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.963.833;4.580.943.299;429.871.905;4.580.742.377;2.161.381;41.375.145;Poble Sec (Parlament)-;2;10;Eixample;Sant Antoni
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;437.047.006;4.589.161.973;436.955.015;4.588.960.973;2.245.219;41.449.755;Badalona Pompeu Fabra (Avinguda Mart√≠ Pujol)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.101.207;4.585.925.464;434.009.243;4.585.724.494;2.210.309;41.420.368;Bes√≤s (Gran Via de les Corts Catalanes)-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.582.022;4.579.667.797;427.490.116;4.579.466.887;2.133.054;41.363.447;Ciutat de la Just√≠cia (Ciutat de la Just√≠cia)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.719.408;4.580.930.145;430.627.473;4.580.729.223;2.170.416;41.375.093;Paral¬∑lel (Nou de la Rambla)-;1;1;Ciutat Vella;el Raval
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.668.217;4.582.117.751;430.576.283;4.581.916.818;2.169.668;41.385.784;Catalunya (Bergara)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.542.726;4.581.057.471;426450.83;4.580.856.549;2.120.461;41.375.868;Collblanc (Travessera de les Corts)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.393.234;4.583.531.011;430.301.303;4.583.330.065;2.166.217;41.398.489;Verdaguer (Avinguda Diagonal)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.001.793;4.584.076.772;430.909.857;4583875.82;2.173.434;41.403.457;Sagrada Fam√≠lia (Pla√ßa de la Sagrada Fam√≠lia)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.200.856;4.584.808.998;431.108.918;4584608.04;2.175.732;41.410.069;Sant Pau | Dos de Maig (Cartagena)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.247.215;4586547.16;431.155.277;4.586.346.185;2.176.089;41.425.728;Maragall (Avinguda dels Quinze)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.124.072;4.587.077.275;431.032.135;4.586.876.296;2.174.555;41.430.492;Virrei Amat (Pi i Molist)-;8;46;Nou Barris;el Tur√≥ de la Peira
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.086.147;4.587.052.211;430.994.211;4.586.851.232;2.174.104;41.430.263;Virrei Amat (Fabra i Puig)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.913.333;4581700.05;430.821.397;4581499.12;2.172.647;41.382.043;Liceu (La Rambla / Mercat de la Boqueria)-;1;2;Ciutat Vella;el Barri G√≤tic
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.182.756;4.581.732.953;428.090.845;4.581.532.024;213.999;413.821;Sants Estaci√≥ (Enric Barg√©s)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.712.069;4.578.280.319;425620.18;4.578.079.423;2.110.869;4.135.078;Bellvitge (Rambla de la Marina / Merca 2)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425682.59;4.578.334.582;425.590.701;4.578.133.685;211.051;41.351.266;Bellvitge (Rambla de la Marina / Mercat Municipal)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.963.211;4.580.998.011;427.871.302;4.580.797.089;2.137.453;41.375.461;Pla√ßa de Sants (Alcolea)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.146.838;4.580.229.084;427.054.936;4.580.028.169;2.127.784;41.368.463;Santa Eul√†lia (Pont de la Torrassa)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.609.605;4.580.679.108;427.517.699;4.580.478.189;2.133.263;41.372.557;Mercat Nou (Riera de Tena)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.208.049;4.586.936.579;431.116.112;4.586.735.601;2.175.576;41.429.232;Virrei Amat (Felip II / Virrei Amat)-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.337.447;4.585.827.767;433245.49;4.585.626.799;2.201.181;41.419.425;Sant Mart√≠ (Cant√†bria)-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433029.21;4583613.16;432.937.255;4.583.412.212;2.197.738;41.399.453;METRO (L4) - Llacuna-;10;68;Sant Mart√≠;el Poblenou
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.638.562;4.582.839.198;431.546.619;4.582.638.258;2.181.191;41.392.365;METRO (L1) - Arc de Triomf-;2;5;Eixample;el Fort Pienc
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;422.317.614;4.571.381.406;422.225.754;4.571.180.575;207.118;41.288.324;METRO (L9S) - Aeroport T1-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423755.47;4.574.511.964;423.663.598;4.574.311.103;2.087.956;41.316.657;METRO (L9S) - Parc Nou-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.353.937;4.578.401.018;427.262.033;4578200.12;2.130.479;41.352.017;METRO (L9S) - Fira-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;433.735.347;4590267.14;433.643.387;4590066.13;2.205.454;41.459.442;METRO (L9N) - Singuerl√≠n-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.019.776;4.584.121.678;430.927.839;4.583.920.726;2.173.644;41.403.863;METRO (L5) - Sagrada Fam√≠lia-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.155.352;4.586.992.484;431.063.415;4.586.791.505;2.174.939;41.429.731;METRO (L5) - Virrei Amat-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.814.732;4.581.942.253;425.722.843;4.581.741.323;2.111.648;4.138.377;METRO (L9S) - Zona Universit√†ria-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.589.623;4.588.864.385;434.497.655;4.588.663.388;2.215.834;41.446.878;METRO (L9N) - Santa Rosa-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434.818.188;4.589.420.348;434.726.218;4.589.219.346;221.851;41.451.904;METRO (L9N) - Fondo-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.190.043;4.576.615.673;428098.13;4.576.414.791;2.140.684;41.336.012;METRO (L10S) - Port Comercial | La Factoria-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.833.058;4.579.446.158;426.741.159;4.579.245.251;2.124.127;41.361.383;METRO (L10S) - Proven√ßana-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;429.144.288;4580940.28;429.052.368;4.580.739.358;2.151.582;41.375.046;METRO (L3) - Espanya-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.455.918;4.588.337.199;430.363.988;4.588.136.208;2.166.414;41.441.782;METRO (L3) - Canyelles-;8;49;Nou Barris;Canyelles
+K003;Transports i serveis relacionats;RENFE;426.100.715;4.578.674.691;426.008.822;4.578.473.791;2.115.466;41.354.367;RENFE - BELLVITGE-;;;;
+K011;Transports i serveis relacionats;Tramvia;435.148.833;4585347.11;435.056.859;4.585.146.145;2.222.906;41.415.244;TRAMVIA (T4) - CAN LLIMA-;;;;
+K011;Transports i serveis relacionats;Tramvia;432.503.685;4.584.170.552;432.411.735;4.583.969.599;219.139;4.140.443;TRAMVIA (T4) - CA L'ARANY√ì-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K003;Transports i serveis relacionats;RENFE;422.299.939;4.579.108.263;422.208.082;4578907.36;206.998;41.357.914;RENFE - CORNELL√Ä-;;;;
+K003;Transports i serveis relacionats;RENFE;435.794.449;4.586.358.754;435.702.469;4586157.78;2.230.523;41.424.408;RENFE - SANT ADRI√Ä DEL BES√íS-;;;;
+K011;Transports i serveis relacionats;Tramvia;424236.71;4.581.198.968;424.144.835;4.580.998.045;209.287;41.376.929;TRAMVIA (T1,T2,T3) - CAN CLOTA-;;;;
+K011;Transports i serveis relacionats;Tramvia;423.218.517;4.580.378.811;423.126.651;4.580.177.896;2.080.799;41.369.445;TRAMVIA (T1,T2,T3) - MONTESA-;;;;
+K011;Transports i serveis relacionats;Tramvia;428.445.223;4.582.849.882;428353.31;4.582.648.943;2.142.997;41.392.183;TRAMVIA (T1,T2,T3) - FRANCESC MACI√Ä-;4;19;Les Corts;les Corts
+K011;Transports i serveis relacionats;Tramvia;427.073.148;4.582.399.345;426.981.247;4582198.41;2.126.641;41.388.002;TRAMVIA (T1,T2,T3) - M¬™ CRISTINA-;4;20;Les Corts;la Maternitat i Sant Ramon
+K011;Transports i serveis relacionats;Tramvia;426053.88;4.582.016.276;425.961.989;4.581.815.345;2.114.498;41.384.459;TRAMVIA (T1,T2,T3) - ZONA UNIVERSIT√ÄRIA-;4;20;Les Corts;la Maternitat i Sant Ramon
+K011;Transports i serveis relacionats;Tramvia;422.081.516;4.581.533.172;421.989.661;4.581.332.247;2.067.057;41.379.733;TRAMVIA (T3) - WALDEN-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;426.376.681;4.581.062.378;426.284.786;4.580.861.456;2.118.475;41.375.897;Collblanc (Av. Sant Ramon)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.102.624;4.580.245.587;430.010.695;4.580.044.671;2.163.121;41.368.874;Parc de Montju√Øc (Avinguda Miramar)-;3;11;Sants-Montju√Øc;el Poble-sec
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424196.81;4.575.163.969;424.104.934;4.574.963.102;2.093.147;41.322.571;C√®ntric (Pla√ßa Catalunya)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;435.605.244;4.587.555.231;435.513.266;4.587.354.246;2.228.132;41.435.169;Sant Roc (Alfons XII)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.042.473;4.590.671.749;430.950.538;4.590.470.736;2.173.167;41.462.859;Can Cui√†s (Les Fustes)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425108.25;4.580.158.276;425.016.367;4.579.957.362;210.342;41.367.637;Can Serra (Avinguda Can Serra)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.568.548;4.582.275.257;430.476.615;4.582.074.322;2.168.458;41.387.194;Catalunya (Ronda Universitat)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.495.375;4.587.666.445;432.403.426;4587465.46;21.909;41.435.915;Sant Andreu (Pla√ßa d'Orfila)-;9;60;Sant Andreu;Sant Andreu
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.848.515;4.587.662.577;428756.6;4.587.461.593;2.147.254;41.435.565;Mundet (Passeig Vall d'Hebron)-;7;40;Horta-Guinard√≥;Montbau
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.330.064;4.578.448.222;427238.16;4.578.247.324;2.130.188;4.135.244;Fira (Acc√©s SUD)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;425.843.073;4.581.974.273;425.751.184;4.581.773.342;2.111.982;41.384.061;Zona Universit√†ria (Dr. Mara√±√≥n)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.559.487;4.582.324.418;430.467.554;4.582.123.483;2.168.344;41.387.636;Catalunya (Rambla Catalunya)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432253.34;4.584.018.088;432.161.392;4.583.817.137;2.188.412;41.403.035;Gl√≤ries (Badajoz)-;10;66;Sant Mart√≠;el Parc i la Llacuna del Poblenou
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);427.371.597;4.583.523.496;427.279.694;4.583.322.551;2.130.075;41.398.154;FGC - LES TRES TORRES-;5;24;Sarri√†-Sant Gervasi;les Tres Torres
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);426446.51;4583623.13;426.354.616;4.583.422.184;2.118.998;41.398.967;FGC - REINA ELISENDA-;5;23;Sarri√†-Sant Gervasi;Sarri√†
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.559.395;4.577.403.545;428.467.479;4.577.202.656;2.145.005;41.343.141;Zona Franca (Carrer A / Carrer 1)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.192.527;4576629.86;428.100.614;4.576.428.978;2.140.712;4.133.614;Port Comercial | La Factoria (Carrer A / Carrer 25)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.180.731;4.576.604.884;428.088.819;4.576.404.003;2.140.574;41.335.914;Port Comercial | La Factoria (Carrer A / Carrer 27)-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K008;Transports i serveis relacionats;Estaci√≥ mar√≠tima;431.059.703;4.578.250.739;430.967.764;4.578.049.841;217.479;41.350.989;Terminal Mar√≠tima D *Creuers-;3;12;Sants-Montju√Øc;la Marina del Prat Vermell
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.471.104;4.581.894.932;431.379.163;4.581.694.001;2.179.295;41.383.846;Jaume I (Argenteria)-;1;4;Ciutat Vella;Sant Pere, Santa Caterina i la Ribera
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;423052.88;4.579.087.055;422.961.016;4.578.886.152;2.078.983;41.357.796;Gavarra (Lindavista)-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.143.383;4.587.051.888;431.051.446;4.586.850.909;2.174.789;41.430.265;Virrei Amat (Virrei Amat (muntanya))-;8;44;Nou Barris;Vilapicina i la Torre Llobeta
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.762.577;4.584.446.941;431.670.634;4.584.245.986;2.182.493;41.406.856;Encants (Val√®ncia / Arag√≥)-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.827.747;4.583.105.489;430.735.812;4.582.904.546;2.171.463;41.394.694;Girona (Girona)-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.315.489;4.585.042.531;430.223.559;4.584.841.571;2.165.113;41.412.096;Alfons X (Pla√ßa Alfons el Savi)-;7;33;Horta-Guinard√≥;el Baix Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.639.546;4.584.985.818;428.547.632;4.584.784.859;2.145.069;41.411.438;Vallcarca (Avinguda Rep√∫blica Argentina)-;6;28;Gr√†cia;Vallcarca i els Penitents
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.434.937;4.585.077.799;430.343.006;4.584.876.838;2.166.538;41.412.424;Alfons X (Ronda Guinard√≥)-;7;33;Horta-Guinard√≥;el Baix Guinard√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431875.53;4.589.151.395;431.783.587;4.588.950.396;2.183.313;41.449.237;Trinitat Nova (Pedrosa)-;8;53;Nou Barris;la Trinitat Nova
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.010.664;4.581.034.086;426.918.764;4.580.833.164;2.126.059;413.757;Badal (Carrer de Sants / Arizala)-;3;17;Sants-Montju√Øc;Sants - Badal
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;428.147.241;4.581.448.849;428055.33;4.581.247.923;2.139.599;41.379.538;Sants Estaci√≥ (Estaci√≥ RENFE / Pl. Joan Peir√≥)-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.257.095;4.584.930.595;431.165.157;4.584.729.635;2.176.391;41.411.169;Sant Pau | Dos de Maig (Dos de Maig)-;2;6;Eixample;la Sagrada Fam√≠lia
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.924.095;4.585.423.006;432.832.141;4.585.222.041;219.628;41.415.745;Bac de Roda (Fluvi√†)-;10;72;Sant Mart√≠;Sant Mart√≠ de Proven√ßals
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427088.09;4.582.378.431;426.996.189;4.582.177.496;2.126.822;41.387.815;Maria Cristina (Gran Via Carles III)-;4;20;Les Corts;la Maternitat i Sant Ramon
+K011;Transports i serveis relacionats;Tramvia;422.310.862;4.580.275.797;422.219.005;4.580.074.883;2.069.961;4.136.843;TRAMVIA (T2) - CENTRE MIQUEL MART√ç I POL-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.112.882;4.580.053.387;424.021.008;4.579.852.475;2.091.533;41.366.599;METRO (L5) - Can Boixeres-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;431.084.099;4582544.57;430.992.161;4.582.343.633;2.174.593;41.389.664;METRO (L1) - Urquinaona-;2;7;Eixample;la Dreta de l'Eixample
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;436.436.992;4.588.520.913;436.345.007;4.588.319.919;2.237.984;41.443.933;METRO (L2) - Pep Ventura-;;;;
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;427.635.219;4580731.48;427.543.313;4580530.56;2.133.563;41.373.031;METRO (L1) - Mercat Nou-;3;18;Sants-Montju√Øc;Sants
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;434628.2;4.584.970.281;434536.23;4584769.32;2.216.718;41.411.808;METRO (L4) - El Maresme | F√≤rum-;10;70;Sant Mart√≠;el Bes√≤s i el Maresme
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;430.153.825;4.584.417.775;430.061.897;4.584.216.821;2.163.251;41.406.455;METRO (L4) - Joanic-;6;32;Gr√†cia;el Camp d'en Grassot i Gr√†cia Nova
+K002;Transports i serveis relacionats;Ferrocarrils Generalitat (FGC);428.147.789;4.584.391.712;428.055.879;4.584.190.758;2.139.256;41.406.043;FGC - EL PUTXET-;5;27;Sarri√†-Sant Gervasi;el Putxet i el Farr√≥
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;432.131.346;4.584.835.402;432.039.399;4.584.634.443;2.186.861;41.410.386;METRO (L2) - Clot-;10;64;Sant Mart√≠;el Camp de l'Arpa del Clot
+K001;Transports i serveis relacionats;Metro i l√≠nies urbanes FGC;424.799.433;4.579.770.761;424.707.553;4.579.569.851;2.099.776;41.364.118;METRO (L1) - Rambla Just Oliveras-;;;;

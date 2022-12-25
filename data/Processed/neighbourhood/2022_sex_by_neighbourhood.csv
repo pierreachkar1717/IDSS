@@ -1,0 +1,74 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,number_men,number_women
+1,Ciutat Vella,1,el Raval,24759,21761
+1,Ciutat Vella,2,el Barri Gòtic,13924,8824
+1,Ciutat Vella,3,la Barceloneta,7120,7222
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",11186,11232
+2,Eixample,5,el Fort Pienc,16026,17419
+2,Eixample,6,la Sagrada Família,23617,27785
+2,Eixample,7,la Dreta de l'Eixample,20723,23433
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,19915,22450
+2,Eixample,9,la Nova Esquerra de l'Eixample,26868,30446
+2,Eixample,10,Sant Antoni,18187,19988
+3,Sants-Montjuïc,11,el Poble Sec,19283,19860
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,771,746
+3,Sants-Montjuïc,13,la Marina de Port,14649,15779
+3,Sants-Montjuïc,14,la Font de la Guatlla,5043,5316
+3,Sants-Montjuïc,15,Hostafrancs,7603,8256
+3,Sants-Montjuïc,16,la Bordeta,9127,10100
+3,Sants-Montjuïc,17,Sants - Badal,11298,12910
+3,Sants-Montjuïc,18,Sants,20655,22374
+4,Les Corts,19,les Corts,21172,24488
+4,Les Corts,20,la Maternitat i Sant Ramon,11015,12669
+4,Les Corts,21,Pedralbes,5448,6282
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2374,2431
+5,Sarrià-Sant Gervasi,23,Sarrià,11463,13169
+5,Sarrià-Sant Gervasi,24,les Tres Torres,7520,8588
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11745,13947
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,21320,25861
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,13637,16146
+6,Gràcia,28,Vallcarca i els Penitents,7527,8555
+6,Gràcia,29,el Coll,3538,4073
+6,Gràcia,30,la Salut,6189,7148
+6,Gràcia,31,la Vila de Gràcia,22816,27036
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,16126,18907
+7,Horta-Guinardó,33,el Baix Guinardó,11829,13762
+7,Horta-Guinardó,34,Can Baró,4391,4880
+7,Horta-Guinardó,35,el Guinardó,17247,19747
+7,Horta-Guinardó,36,la Font d'en Fargues,4551,4976
+7,Horta-Guinardó,37,el Carmel,15270,16849
+7,Horta-Guinardó,38,la Teixonera,5694,6224
+7,Horta-Guinardó,39,Sant Genís dels Agudells,3401,3861
+7,Horta-Guinardó,40,Montbau,2274,2740
+7,Horta-Guinardó,41,la Vall d'Hebron,2737,3132
+7,Horta-Guinardó,42,la Clota,347,322
+7,Horta-Guinardó,43,Horta,13056,14819
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,11862,13805
+8,Nou Barris,45,Porta,12926,14471
+8,Nou Barris,46,el Turó de la Peira,7441,8584
+8,Nou Barris,47,Can Peguera,1029,1158
+8,Nou Barris,48,la Guineueta,6952,8104
+8,Nou Barris,49,Canyelles,3208,3579
+8,Nou Barris,50,les Roquetes,7786,8370
+8,Nou Barris,51,Verdun,5820,6738
+8,Nou Barris,52,la Prosperitat,12332,14014
+8,Nou Barris,53,la Trinitat Nova,3552,3869
+8,Nou Barris,54,Torre Baró,1447,1461
+8,Nou Barris,55,Ciutat Meridiana,5309,5499
+8,Nou Barris,56,Vallbona,697,723
+9,Sant Andreu,57,la Trinitat Vella,5282,5076
+9,Sant Andreu,58,Baró de Viver,1263,1340
+9,Sant Andreu,59,el Bon Pastor,6771,6782
+9,Sant Andreu,60,Sant Andreu,27248,30357
+9,Sant Andreu,61,la Sagrera,13813,15628
+9,Sant Andreu,62,el Congrés i els Indians,6732,7587
+9,Sant Andreu,63,Navas,10245,11702
+10,Sant Martí,64,el Camp de l'Arpa del Clot,17892,20315
+10,Sant Martí,65,el Clot,12574,13806
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,7716,8245
+10,Sant Martí,67,la Vila Olímpica del Poblenou,4638,4738
+10,Sant Martí,68,el Poblenou,16577,17526
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,6526,6865
+10,Sant Martí,70,el Besòs i el Maresme,13889,12460
+10,Sant Martí,71,Provençals del Poblenou,10082,11010
+10,Sant Martí,72,Sant Martí de Provençals,12124,13728
+10,Sant Martí,73,la Verneda i la Pau,13666,15088

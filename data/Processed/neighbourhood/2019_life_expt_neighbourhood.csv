@@ -1,0 +1,74 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,avg_life_expt
+1,Ciutat Vella,1,el Raval,80.99
+1,Ciutat Vella,2,el Barri Gòtic,82.12
+1,Ciutat Vella,3,la Barceloneta,80.65
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",82.8
+2,Eixample,5,el Fort Pienc,84.67
+2,Eixample,6,la Sagrada Família,84.76
+2,Eixample,7,la Dreta de l'Eixample,83.35
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,84.44
+2,Eixample,9,la Nova Esquerra de l'Eixample,85.15
+2,Eixample,10,Sant Antoni,84.72
+3,Sants-Montjuïc,11,el Poble Sec,83.07000000000001
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,7.9799999999999995
+3,Sants-Montjuïc,13,la Marina de Port,84.16
+3,Sants-Montjuïc,14,la Font de la Guatlla,82.66
+3,Sants-Montjuïc,15,Hostafrancs,83.66
+3,Sants-Montjuïc,16,la Bordeta,84.42
+3,Sants-Montjuïc,17,Sants - Badal,85.08
+3,Sants-Montjuïc,18,Sants,84.58
+4,Les Corts,19,les Corts,85.55
+4,Les Corts,20,la Maternitat i Sant Ramon,86.44
+4,Les Corts,21,Pedralbes,86.47
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",80.08
+5,Sarrià-Sant Gervasi,23,Sarrià,84.97999999999999
+5,Sarrià-Sant Gervasi,24,les Tres Torres,86.14
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,84.92
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,85.35
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,85.8
+6,Gràcia,28,Vallcarca i els Penitents,84.46000000000001
+6,Gràcia,29,el Coll,85.06
+6,Gràcia,30,la Salut,82.24
+6,Gràcia,31,la Vila de Gràcia,83.76
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,84.88
+7,Horta-Guinardó,33,el Baix Guinardó,84.53
+7,Horta-Guinardó,34,Can Baró,83.84
+7,Horta-Guinardó,35,el Guinardó,84.83
+7,Horta-Guinardó,36,la Font d'en Fargues,84.02000000000001
+7,Horta-Guinardó,37,el Carmel,83.94
+7,Horta-Guinardó,38,la Teixonera,83.52000000000001
+7,Horta-Guinardó,39,Sant Genís dels Agudells,83.21000000000001
+7,Horta-Guinardó,40,Montbau,80.34
+7,Horta-Guinardó,41,la Vall d'Hebron,83.83
+7,Horta-Guinardó,42,la Clota,8.2
+7,Horta-Guinardó,43,Horta,83.88
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,84.37
+8,Nou Barris,45,Porta,84.5
+8,Nou Barris,46,el Turó de la Peira,85.24
+8,Nou Barris,47,Can Peguera,63.29
+8,Nou Barris,48,la Guineueta,84.42
+8,Nou Barris,49,Canyelles,83.64
+8,Nou Barris,50,les Roquetes,82.53
+8,Nou Barris,51,Verdun,83.6
+8,Nou Barris,52,la Prosperitat,84.72999999999999
+8,Nou Barris,53,la Trinitat Nova,80.16
+8,Nou Barris,54,Torre Baró,38.35
+8,Nou Barris,55,Ciutat Meridiana,83.92
+8,Nou Barris,56,Vallbona,23.22
+9,Sant Andreu,57,la Trinitat Vella,84.28999999999999
+9,Sant Andreu,58,Baró de Viver,55.4
+9,Sant Andreu,59,el Bon Pastor,74.05
+9,Sant Andreu,60,Sant Andreu,84.76
+9,Sant Andreu,61,la Sagrera,85.38
+9,Sant Andreu,62,el Congrés i els Indians,84.9
+9,Sant Andreu,63,Navas,85.72
+10,Sant Martí,64,el Camp de l'Arpa del Clot,84.91
+10,Sant Martí,65,el Clot,85.07
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,83.89
+10,Sant Martí,67,la Vila Olímpica del Poblenou,69.1
+10,Sant Martí,68,el Poblenou,83.64
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,85.19
+10,Sant Martí,70,el Besòs i el Maresme,83.34
+10,Sant Martí,71,Provençals del Poblenou,84.46
+10,Sant Martí,72,Sant Martí de Provençals,84.39
+10,Sant Martí,73,la Verneda i la Pau,84.03999999999999
