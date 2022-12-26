@@ -20,8 +20,6 @@ def aggregate_per_district(data_path, output_path, value_column, output_column, 
 
     df = pd.read_csv(data_path, sep=';')
 
-    # Replace '...' with 0
-    df = df.replace('...', 0)
     df[value_column] = df[value_column].astype(float)
 
     # Group the data by district
@@ -59,8 +57,6 @@ def aggregate_per_neighbourhood(data_path, output_path, value_column, output_col
 
     df = pd.read_csv(data_path, sep=';')
 
-    # Replace '...' with 0
-    df = df.replace('...', 0)
     df[value_column] = df[value_column].astype(float)
 
     # Group the data by neighbourhood
@@ -80,6 +76,6 @@ def aggregate_per_neighbourhood(data_path, output_path, value_column, output_col
     ax.figure.savefig('{}_by_neighbourhood_top_10.png'.format(output_column))
 
 if __name__ == '__main__':
-    aggregate_per_district('../../data/Population/2022_avg_occup_homes.csv', '../data/Processed/2022_avg_occup_homes_district.csv', 'average_occupation_per_household', 'average_occupation_per_household', 'mean')
-    aggregate_per_neighbourhood('../../data/Population/2022_avg_occup_homes.csv', '../data/Processed/2022_avg_occup_homes_neighbourhood.csv', 'average_occupation_per_household', 'average_occupation_per_household', 'mean')
+    aggregate_per_district('/Users/pierreachkar/Downloads/neighborhood_finder/data/Population/2019_life_expt.csv', '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/district/2019_life_expt_district.csv', 'number', 'avg_life_expt', 'mean')
+    aggregate_per_neighbourhood('/Users/pierreachkar/Downloads/neighborhood_finder/data/Population/2019_life_expt.csv', '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/neighbourhood/2019_life_expt_neighbourhood.csv', 'number', 'avg_life_expt', 'mean')
 
