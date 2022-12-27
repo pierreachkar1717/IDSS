@@ -1,0 +1,55 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,library_studyroom_museum_spaces,cluster
+6.0,Gràcia,30.0,la Salut,2,0
+7.0,Horta-Guinardó,33.0,el Baix Guinardó,5,0
+7.0,Horta-Guinardó,35.0,el Guinardó,5,0
+7.0,Horta-Guinardó,37.0,el Carmel,4,0
+7.0,Horta-Guinardó,39.0,Sant Genís dels Agudells,1,0
+7.0,Horta-Guinardó,40.0,Montbau,7,0
+7.0,Horta-Guinardó,41.0,la Vall d'Hebron,5,0
+7.0,Horta-Guinardó,43.0,Horta,8,0
+8.0,Nou Barris,44.0,Vilapicina i la Torre Llobeta,5,0
+8.0,Nou Barris,48.0,la Guineueta,6,0
+8.0,Nou Barris,49.0,Canyelles,3,0
+8.0,Nou Barris,50.0,les Roquetes,4,0
+8.0,Nou Barris,54.0,Torre Baró,4,0
+9.0,Sant Andreu,57.0,la Trinitat Vella,8,0
+9.0,Sant Andreu,59.0,el Bon Pastor,5,0
+9.0,Sant Andreu,60.0,Sant Andreu,8,0
+9.0,Sant Andreu,61.0,la Sagrera,6,0
+9.0,Sant Andreu,62.0,el Congrés i els Indians,1,0
+10.0,Sant Martí,64.0,el Camp de l'Arpa del Clot,3,0
+10.0,Sant Martí,66.0,el Parc i la Llacuna del Poblenou,8,0
+10.0,Sant Martí,67.0,la Vila Olímpica del Poblenou,8,0
+10.0,Sant Martí,68.0,el Poblenou,5,0
+10.0,Sant Martí,69.0,Diagonal Mar i el Front Marítim del Poblenou,2,0
+10.0,Sant Martí,70.0,el Besòs i el Maresme,6,0
+6.0,Gràcia,32.0,el Camp d'en Grassot i Gràcia Nova,1,0
+6.0,Gràcia,31.0,la Vila de Gràcia,7,0
+10.0,Sant Martí,72.0,Sant Martí de Provençals,4,0
+6.0,Gràcia,28.0,Vallcarca i els Penitents,9,0
+1.0,Ciutat Vella,3.0,la Barceloneta,11,0
+2.0,Eixample,5.0,el Fort Pienc,10,0
+2.0,Eixample,6.0,la Sagrada Família,6,0
+2.0,Eixample,8.0,l'Antiga Esquerra de l'Eixample,15,0
+2.0,Eixample,9.0,la Nova Esquerra de l'Eixample,14,0
+2.0,Eixample,10.0,Sant Antoni,7,0
+3.0,Sants-Montjuïc,12.0,la Marina del Prat Vermell,2,0
+10.0,Sant Martí,71.0,Provençals del Poblenou,2,0
+3.0,Sants-Montjuïc,14.0,la Font de la Guatlla,1,0
+3.0,Sants-Montjuïc,15.0,Hostafrancs,1,0
+3.0,Sants-Montjuïc,13.0,la Marina de Port,4,0
+4.0,Les Corts,19.0,les Corts,4,0
+4.0,Les Corts,21.0,Pedralbes,13,0
+5.0,Sarrià-Sant Gervasi,22.0,"Vallvidrera, el Tibidabo i les Planes",5,0
+5.0,Sarrià-Sant Gervasi,23.0,Sarrià,8,0
+5.0,Sarrià-Sant Gervasi,24.0,les Tres Torres,4,0
+5.0,Sarrià-Sant Gervasi,25.0,Sant Gervasi - la Bonanova,7,0
+5.0,Sarrià-Sant Gervasi,26.0,Sant Gervasi - Galvany,9,0
+5.0,Sarrià-Sant Gervasi,27.0,el Putxet i el Farró,1,0
+3.0,Sants-Montjuïc,18.0,Sants,8,0
+4.0,Les Corts,20.0,la Maternitat i Sant Ramon,25,1
+3.0,Sants-Montjuïc,11.0,el Poble-sec,27,1
+2.0,Eixample,7.0,la Dreta de l'Eixample,35,1
+1.0,Ciutat Vella,4.0,"Sant Pere, Santa Caterina i la Ribera",34,1
+1.0,Ciutat Vella,2.0,el Barri Gòtic,34,1
+1.0,Ciutat Vella,1.0,el Raval,33,1

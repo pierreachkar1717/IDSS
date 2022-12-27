@@ -1,4 +1,4 @@
-district_code,district_name,neighbourhood_code,neighbourhood_name,Elementary / high school / FPI bachelor's degree,No studies,Primary studies / school certificate,University studies,Upper secondary school 
+district_code,district_name,neighbourhood_code,neighbourhood_name,elementary_highschool_bachelorsdegree,no_studies,primarystudies_schoolcertificate,university_studies,secondary_school
 1,Ciutat Vella,1,el Raval,10420,471,9668,11020,8054
 1,Ciutat Vella,2,el Barri Gòtic,5237,192,4373,6652,4526
 1,Ciutat Vella,3,la Barceloneta,3229,258,2425,4181,3043

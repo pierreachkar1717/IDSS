@@ -19,6 +19,6 @@ df = df.groupby(['district_code', 'district_name', 'neighbourhood_code', 'neighb
 #pivot the data so that each academic level is a column
 df = df['number'].sum().unstack().reset_index()
 
-df.to_csv('../data/Processed/2022_academic_level_neighbourhood.csv', index=False)
+df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/neighbourhood/2022_academic_level_neighbourhood.csv', index=False)
 
 
