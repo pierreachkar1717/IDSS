@@ -84,7 +84,7 @@ def cluster_and_plot(data, column, n_clusters):
     ax.figure.savefig('cluster_of_{}.png'.format(column))
 
 
-df = pd.read_csv('../../data/Processed/neighbourhood/2019_life_expt_neighbourhood.csv')
-#optimal_clusters_number(df, 'avg_life_expt')
-cluster_and_plot(df, 'avg_life_expt', 2)
+df = pd.read_csv('../../data/Processed/neighbourhood/transportation_neighbourhood.csv')
+#optimal_clusters_number(df, 'transportation')
+cluster_and_plot(df, 'transportation', 6)
 
