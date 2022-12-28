@@ -1,0 +1,74 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,children_play_areas,cluster,label
+7,Horta-Guinardó,42,la Clota,1,0,0
+6,Gracia,29,el Coll,5,0,0
+7,Horta-Guinardó,34,Can Baró,5,0,0
+5,Sarria-Sant Gervasi,24,les Tres Torres,5,0,0
+5,Sarria-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",4,0,0
+7,Horta-Guinardó,36,la Font d'en Fargues,1,0,0
+8,Nou Barris,53,la Trinitat Nova,5,0,0
+3,Sants-Montjuïc,17,Sants - Badal,1,0,0
+6,Gracia,32,el Camp d'en Grassot i Gràcia Nova,5,0,0
+3,Sants-Montjuïc,15,Hostafrancs,3,0,0
+3,Sants-Montjuïc,14,la Font de la Guatlla,4,0,0
+8,Nou Barris,56,Vallbona,3,0,0
+8,Nou Barris,47,Can Peguera,4,0,0
+8,Nou Barris,51,Verdun,5,0,0
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,3,0,0
+2,Eixample,5,el Fort Pienc,15,1,3
+6,Gracia,28,Vallcarca i els Penitents,15,1,3
+7,Horta-Guinardó,33,el Baix Guinardó,14,1,3
+8,Nou Barris,55,Ciutat Meridiana,16,1,3
+8,Nou Barris,45,Porta,16,1,3
+9,Sant Andreu,61,la Sagrera,15,1,3
+9,Sant Andreu,59,el Bon Pastor,16,1,3
+2,Eixample,6,la Sagrada Família,14,1,3
+7,Horta-Guinardó,41,la Vall d'Hebron,16,1,3
+10,Sant Martí,68,el Poblenou,15,1,3
+7,Horta-Guinardó,43,Horta,15,1,3
+2,Eixample,10,Sant Antoni,14,1,3
+3,Sants-Montjuïc,11,el Poble-sec,17,1,3
+4,Les Corts,21,Pedralbes,15,1,3
+8,Nou Barris,48,la Guineueta,28,2,5
+3,Sants-Montjuïc,13,la Marina de Port,27,2,5
+10,Sant Martí,73,la Verneda i la Pau,42,3,7
+5,Sarria-Sant Gervasi,27,el Putxet i el Farró,8,4,1
+1,Ciutat Vella,2,el Barri Gòtic,7,4,1
+1,Ciutat Vella,3,la Barceloneta,7,4,1
+8,Nou Barris,46,el Turó de la Peira,8,4,1
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,9,4,1
+6,Gracia,30,la Salut,8,4,1
+7,Horta-Guinardó,40,Montbau,7,4,1
+3,Sants-Montjuïc,18,Sants,8,4,1
+7,Horta-Guinardó,38,la Teixonera,8,4,1
+8,Nou Barris,54,Torre Baró,6,4,1
+4,Les Corts,20,la Maternitat i Sant Ramon,8,4,1
+8,Nou Barris,49,Canyelles,8,4,1
+9,Sant Andreu,58,Baró de Viver,6,4,1
+9,Sant Andreu,63,Navas,6,4,1
+8,Nou Barris,50,les Roquetes,9,4,1
+10,Sant Martí,65,el Clot,20,5,4
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,21,5,4
+10,Sant Martí,71,Provençals del Poblenou,23,5,4
+7,Horta-Guinardó,37,el Carmel,20,5,4
+10,Sant Martí,72,Sant Martí de Provençals,21,5,4
+2,Eixample,9,la Nova Esquerra de l'Eixample,22,5,4
+5,Sarria-Sant Gervasi,23,Sarrià,24,5,4
+4,Les Corts,19,les Corts,23,5,4
+8,Nou Barris,52,la Prosperitat,10,6,2
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",12,6,2
+2,Eixample,7,la Dreta de l'Eixample,12,6,2
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,12,6,2
+10,Sant Martí,67,la Vila Olímpica del Poblenou,11,6,2
+3,Sants-Montjuïc,16,la Bordeta,12,6,2
+10,Sant Martí,64,el Camp de l'Arpa del Clot,13,6,2
+9,Sant Andreu,62,el Congrés i els Indians,12,6,2
+5,Sarria-Sant Gervasi,25,Sant Gervasi - la Bonanova,12,6,2
+5,Sarria-Sant Gervasi,26,Sant Gervasi - Galvany,10,6,2
+9,Sant Andreu,57,la Trinitat Vella,11,6,2
+6,Gracia,31,la Vila de Gràcia,13,6,2
+7,Horta-Guinardó,35,el Guinardó,12,6,2
+7,Horta-Guinardó,39,Sant Genís dels Agudells,10,6,2
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,11,6,2
+1,Ciutat Vella,1,el Raval,11,6,2
+9,Sant Andreu,60,Sant Andreu,33,7,6
+10,Sant Martí,70,el Besòs i el Maresme,36,7,6
