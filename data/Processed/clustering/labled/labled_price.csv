@@ -1,0 +1,69 @@
+neighbourhood_name,district_name,price,cluster,label
+Baro de Viver,Sant Andreu,532.1,0,0
+el Clot,Sant Marti,824.0,0,0
+el Coll,Gracia,763.05,0,0
+el Congres i els Indians,Sant Andreu,774.825,0,0
+el Guinardo,Horta-Guinardo,809.0250000000003,0,0
+el Parc i la Llacuna del Poblenou,Sant Marti,975.925,0,0
+el Poble Sec,Sants-Montjuic,780.05,0,0
+el Poblenou,Sant Marti,945.725,0,0
+el Putxet i el Farro,Sarria-Sant Gervasi,1004.375,0,0
+el Raval,Ciutat Vella,769.175,0,0
+el Turo de la Peira,Nou Barris,683.175,0,0
+la Barceloneta,Ciutat Vella,831.9,0,0
+la Bordeta,Sants-Montjuic,832.0,0,0
+la Font d'en Fargues,Horta-Guinardo,816.325,0,0
+la Font de la Guatlla,Sants-Montjuic,824.05,0,0
+la Guineueta,Nou Barris,676.825,0,0
+la Marina de Port,Sants-Montjuic,743.35,0,0
+la Maternitat i Sant Ramon,Les Corts,933.9,0,0
+la Nova Esquerra de l'Eixample,Eixample,962.95,0,0
+la Prosperitat,Nou Barris,676.525,0,0
+la Sagrada Familia,Eixample,902.825,0,0
+la Sagrera,Sant Andreu,767.025,0,0
+la Salut,Gracia,888.2,0,0
+la Teixonera,Horta-Guinardo,713.975,0,0
+la Trinitat Nova,Nou Barris,592.75,0,0
+la Trinitat Vella,Sant Andreu,607.275,0,0
+la Vall d'Hebron,Horta-Guinardo,862.1,0,0
+la Verneda i la Pau,Sant Marti,743.475,0,0
+la Vila de Gracia,Gracia,901.025,0,0
+les Corts,Les Corts,1014.725,0,0
+les Roquetes,Nou Barris,621.625,0,0
+el Camp de l'Arpa del Clot,Sant Marti,820.75,0,0
+el Carmel,Horta-Guinardo,674.875,0,0
+el Bon Pastor,Sant Andreu,685.425,0,0
+Can Baro,Horta-Guinardo,756.5,0,0
+Canyelles,Nou Barris,742.375,0,0
+Ciutat Meridiana,Nou Barris,525.7,0,0
+Fort Pienc,Eixample,943.05,0,0
+Gothic Quarter,Ciutat Vella,946.275,0,0
+Horta,Horta-Guinardo,749.4,0,0
+Hostafrancs,Sants-Montjuic,791.325,0,0
+Montbau,Horta-Guinardo,740.35,0,0
+Navas,Sant Andreu,820.525,0,0
+Porta,Nou Barris,714.725,0,0
+Provencals del Poblenou,Sant Marti,950.5,0,0
+Sant Andreu,Sant Andreu,766.65,0,0
+el Camp d'en Grassot i Gracia Nova,Gracia,892.9,0,0
+Sant Genis dels Agudells,Horta-Guinardo,703.825,0,0
+Sant Antoni,Eixample,929.375,0,0
+Vallcarca i els Penitents,Gracia,941.15,0,0
+el Besos i el Maresme,Sant Marti,710.4,0,0
+Sant Martíide Provencals,Sant Marti,806.1750000000003,0,0
+el Baix Guinardo,Horta-Guinardo,823.7,0,0
+"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,888.35,0,0
+Sants,Sants-Montjuic,828.725,0,0
+Sants - Badal,Sants-Montjuic,793.025,0,0
+Vilapicina i la Torre Llobeta,Nou Barris,760.525,0,0
+Verdun,Nou Barris,648.7,0,0
+la Vila Olimpica del Poblenou,Sant Marti,1313.825,1,1
+Diagonal Mar i el Front Maritim del Poblenou,Sant Marti,1073.725,1,1
+la Dreta de l'Eixample,Eixample,1190.55,1,1
+Sant Gervasi - Galvany,Sarria-Sant Gervasi,1355.05,1,1
+Sarria,Sarria-Sant Gervasi,1300.0,1,1
+Pedralbes,Les Corts,1693.575,1,1
+l'Antiga Esquerra de l'Eixample,Eixample,1074.525,1,1
+Sant Gervasi - la Bonanova,Sarria-Sant Gervasi,1217.525,1,1
+"Vallvidrera, el Tibidabo i les Planes",Sarria-Sant Gervasi,1207.6,1,1
+les Tres Torres,Sarria-Sant Gervasi,1542.725,1,1
