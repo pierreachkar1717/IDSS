@@ -1,0 +1,66 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,transportation,cluster
+10.0,Sant Mart√≠,64.0,el Camp de l'Arpa del Clot,8,0
+3.0,Sants-Montju√Øc,15.0,Hostafrancs,8,0
+8.0,Nou Barris,53.0,la Trinitat Nova,8,0
+2.0,Eixample,7.0,la Dreta de l'Eixample,55,1
+1.0,Ciutat Vella,1.0,el Raval,15,2
+3.0,Sants-Montju√Øc,11.0,el Poble-sec,14,2
+3.0,Sants-Montju√Øc,13.0,la Marina de Port,4,3
+8.0,Nou Barris,54.0,Torre Bar√≥,4,3
+8.0,Nou Barris,46.0,el Tur√≥ de la Peira,4,3
+10.0,Sant Mart√≠,68.0,el Poblenou,4,3
+7.0,Horta-Guinard√≥,33.0,el Baix Guinard√≥,4,3
+8.0,Nou Barris,50.0,les Roquetes,4,3
+3.0,Sants-Montju√Øc,17.0,Sants - Badal,4,3
+3.0,Sants-Montju√Øc,12.0,la Marina del Prat Vermell,29,4
+8.0,Nou Barris,51.0,Verdun,1,5
+7.0,Horta-Guinard√≥,39.0,Sant Gen√≠s dels Agudells,1,5
+6.0,Gr√†cia,29.0,el Coll,1,5
+8.0,Nou Barris,45.0,Porta,1,5
+3.0,Sants-Montju√Øc,16.0,la Bordeta,1,5
+3.0,Sants-Montju√Øc,18.0,Sants,23,6
+6.0,Gr√†cia,31.0,la Vila de Gr√†cia,6,7
+7.0,Horta-Guinard√≥,43.0,Horta,6,7
+7.0,Horta-Guinard√≥,40.0,Montbau,6,7
+1.0,Ciutat Vella,4.0,"Sant Pere, Santa Caterina i la Ribera",6,7
+10.0,Sant Mart√≠,72.0,Sant Mart√≠ de Proven√ßals,6,7
+7.0,Horta-Guinard√≥,35.0,el Guinard√≥,6,7
+4.0,Les Corts,21.0,Pedralbes,6,7
+5.0,Sarri√†-Sant Gervasi,27.0,el Putxet i el Farr√≥,6,7
+2.0,Eixample,9.0,la Nova Esquerra de l'Eixample,13,8
+2.0,Eixample,5.0,el Fort Pienc,13,8
+10.0,Sant Mart√≠,70.0,el Bes√≤s i el Maresme,12,8
+2.0,Eixample,10.0,Sant Antoni,13,8
+10.0,Sant Mart√≠,66.0,el Parc i la Llacuna del Poblenou,12,8
+9.0,Sant Andreu,60.0,Sant Andreu,19,9
+10.0,Sant Mart√≠,67.0,la Vila Ol√≠mpica del Poblenou,5,10
+10.0,Sant Mart√≠,69.0,Diagonal Mar i el Front Mar√≠tim del Poblenou,5,10
+9.0,Sant Andreu,57.0,la Trinitat Vella,5,10
+9.0,Sant Andreu,62.0,el Congr√©s i els Indians,5,10
+10.0,Sant Mart√≠,71.0,Proven√ßals del Poblenou,5,10
+9.0,Sant Andreu,63.0,Navas,5,10
+7.0,Horta-Guinard√≥,37.0,el Carmel,5,10
+1.0,Ciutat Vella,2.0,el Barri G√≤tic,5,10
+7.0,Horta-Guinard√≥,41.0,la Vall d'Hebron,5,10
+5.0,Sarri√†-Sant Gervasi,23.0,Sarri√†,5,10
+5.0,Sarri√†-Sant Gervasi,24.0,les Tres Torres,5,10
+8.0,Nou Barris,48.0,la Guineueta,3,11
+5.0,Sarri√†-Sant Gervasi,22.0,"Vallvidrera, el Tibidabo i les Planes",3,11
+8.0,Nou Barris,55.0,Ciutat Meridiana,3,11
+10.0,Sant Mart√≠,73.0,la Verneda i la Pau,3,11
+6.0,Gr√†cia,32.0,el Camp d'en Grassot i Gr√†cia Nova,3,11
+8.0,Nou Barris,49.0,Canyelles,3,11
+9.0,Sant Andreu,59.0,el Bon Pastor,2,12
+5.0,Sarri√†-Sant Gervasi,25.0,Sant Gervasi - la Bonanova,2,12
+8.0,Nou Barris,52.0,la Prosperitat,2,12
+7.0,Horta-Guinard√≥,38.0,la Teixonera,2,12
+1.0,Ciutat Vella,3.0,la Barceloneta,2,12
+5.0,Sarri√†-Sant Gervasi,26.0,Sant Gervasi - Galvany,10,13
+8.0,Nou Barris,44.0,Vilapicina i la Torre Llobeta,9,13
+10.0,Sant Mart√≠,65.0,el Clot,9,13
+2.0,Eixample,6.0,la Sagrada Fam√≠lia,9,13
+4.0,Les Corts,19.0,les Corts,7,14
+2.0,Eixample,8.0,l'Antiga Esquerra de l'Eixample,7,14
+6.0,Gr√†cia,28.0,Vallcarca i els Penitents,7,14
+9.0,Sant Andreu,61.0,la Sagrera,7,14
+4.0,Les Corts,20.0,la Maternitat i Sant Ramon,17,15
