@@ -1,0 +1,69 @@
+﻿district_code;district_name;neighbourhood_code;neighbourhood_name;price;cluster;label
+1;Ciutat Vella;1;el Raval;769175;0;0
+1;Ciutat Vella;2;el Barri Gòtic;946275;0;0
+1;Ciutat Vella;3;la Barceloneta;8319;0;0
+1;Ciutat Vella;4;Sant Pere, Santa Caterina i la Ribera;88835;0;0
+2;Eixample;5;el Fort Pienc;94305;0;0
+2;Eixample;8;l'Antiga Esquerra de l'Eixample;1074525;1;1
+2;Eixample;7;la Dreta de l'Eixample;119055;1;1
+2;Eixample;9;la Nova Esquerra de l'Eixample;96295;0;0
+2;Eixample;6;la Sagrada Família;902825;0;0
+2;Eixample;10;Sant Antoni;929375;0;0
+6;Gràcia;32;el Camp d'en Grassot i Gràcia Nova;8929;0;0
+6;Gràcia;29;el Coll;76305;0;0
+6;Gràcia;30;la Salut;8882;0;0
+6;Gràcia;31;la Vila de Gràcia;901025;0;0
+6;Gràcia;28;Vallcarca i els Penitents;94115;0;0
+7;Horta-Guinardó;34;Can Baró;7565;0;0
+7;Horta-Guinardó;33;el Baix Guinardó;8237;0;0
+7;Horta-Guinardó;37;el Carmel;674875;0;0
+7;Horta-Guinardó;35;el Guinardó;8,09E+15;0;0
+7;Horta-Guinardó;43;Horta;7494;0;0
+7;Horta-Guinardó;36;la Font d'en Fargues;816325;0;0
+7;Horta-Guinardó;38;la Teixonera;713975;0;0
+7;Horta-Guinardó;41;la Vall d'Hebron;8621;0;0
+7;Horta-Guinardó;40;Montbau;74035;0;0
+7;Horta-Guinardó;39;Sant Genís dels Agudells;703825;0;0
+4;Les Corts;20;la Maternitat i Sant Ramon;9339;0;0
+4;Les Corts;19;les Corts;1014725;0;0
+4;Les Corts;21;Pedralbes;1693575;1;1
+8;Nou Barris;49;Canyelles;742375;0;0
+8;Nou Barris;55;Ciutat Meridiana;5257;0;0
+8;Nou Barris;46;el Turó de la Peira;683175;0;0
+8;Nou Barris;48;la Guineueta;676825;0;0
+8;Nou Barris;52;la Prosperitat;676525;0;0
+8;Nou Barris;53;la Trinitat Nova;59275;0;0
+8;Nou Barris;50;les Roquetes;621625;0;0
+8;Nou Barris;45;Porta;714725;0;0
+8;Nou Barris;51;Verdun;6487;0;0
+8;Nou Barris;44;Vilapicina i la Torre Llobeta;760525;0;0
+9;Sant Andreu;58;Baró de Viver;5321;0;0
+9;Sant Andreu;59;el Bon Pastor;685425;0;0
+9;Sant Andreu;62;el Congrés i els Indians;774825;0;0
+9;Sant Andreu;61;la Sagrera;767025;0;0
+9;Sant Andreu;57;la Trinitat Vella;607275;0;0
+9;Sant Andreu;63;Navas;820525;0;0
+9;Sant Andreu;60;Sant Andreu;76665;0;0
+10;Sant Martí;69;Diagonal Mar i el Front Marítim del Poblenou;1073725;1;1
+10;Sant Martí;70;el Besòs i el Maresme;7104;0;0
+10;Sant Martí;64;el Camp de l'Arpa del Clot;82075;0;0
+10;Sant Martí;65;el Clot;8240;0;0
+10;Sant Martí;66;el Parc i la Llacuna del Poblenou;975925;0;0
+10;Sant Martí;68;el Poblenou;945725;0;0
+10;Sant Martí;73;la Verneda i la Pau;743475;0;0
+10;Sant Martí;67;la Vila Olímpica del Poblenou;1313825;1;1
+10;Sant Martí;71;Provençals del Poblenou;9505;0;0
+10;Sant Martí;72;Sant Martí de Provençals;8,06E+15;0;0
+3;Sants-Montjuïc;11;el Poble Sec;78005;0;0
+3;Sants-Montjuïc;15;Hostafrancs;791325;0;0
+3;Sants-Montjuïc;16;la Bordeta;8320;0;0
+3;Sants-Montjuïc;14;la Font de la Guatlla;82405;0;0
+3;Sants-Montjuïc;13;la Marina de Port;74335;0;0
+3;Sants-Montjuïc;18;Sants;828725;0;0
+3;Sants-Montjuïc;17;Sants - Badal;793025;0;0
+5;Sarrià-Sant Gervasi;27;el Putxet i el Farró;1004375;0;0
+5;Sarrià-Sant Gervasi;24;les Tres Torres;1542725;1;1
+5;Sarrià-Sant Gervasi;26;Sant Gervasi - Galvany;135505;1;1
+5;Sarrià-Sant Gervasi;25;Sant Gervasi - la Bonanova;1217525;1;1
+5;Sarrià-Sant Gervasi;23;Sarrià;13000;1;1
+5;Sarrià-Sant Gervasi;22;Vallvidrera, el Tibidabo i les Planes;12076;1;1
