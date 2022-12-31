@@ -27,7 +27,7 @@ cluster_and_plot(df, cols, 3, 'tourists_points')
 df = pd.read_csv('../../data/Processed/clustering/clustered_tourists_points.csv')
 
 # Here 0 means low, 1 means medium and 2 means high
-df['label'] = df['cluster'].map({0: 0, 1: 1, 2: 2})
+df['label'] = df['cluster'].map({0: 0, 2: 1, 1: 2})
 
 # Or we can still consider adding categorical values to the label column
 #df['label_cat'] = df['cluster'].map({0: 'medium_number_library_studyroom', 1: 'high_number_library_studyroom', 2: 'low_number_library_studyroom'})

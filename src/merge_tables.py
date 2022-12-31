@@ -88,6 +88,28 @@ if __name__ == '__main__':
     # '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_rent_price.csv',
     # labl_1='rent_price')
 
+     # 11: 10 & sport_facilities
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_sport_facilities.csv',
+     #labl_1='sport_facilities')
+
+     # 12: 11 & tourists_points
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_tourists_points.csv',
+     #labl_1='tourists_points')
+
+     # 13: 12 & transportation
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_transportation.csv',
+     #labl_1='transportation')
+
+    # 14: 13 & street_markets
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_temporaray_exhibitions.csv',
+     #labl_1='street_markets_and_fairs')
+
+
+
     # df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
     # df = df.drop(columns=['label_cat'])
     # df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv', index=False)

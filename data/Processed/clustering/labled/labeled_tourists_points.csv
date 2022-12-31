@@ -53,17 +53,17 @@ district_code,district_name,neighbourhood_code,neighbourhood_name,tourists_point
 6,Gràcia,30,la Salut,48,0,0
 6,Gràcia,28,Vallcarca i els Penitents,42,0,0
 6,Gràcia,29,el Coll,21,0,0
-6,Gràcia,31,la Vila de Gràcia,260,1,1
-9,Sant Andreu,60,Sant Andreu,177,1,1
-3,Sants-Montjuïc,11,el Poble-sec,153,1,1
-2,Eixample,7,la Dreta de l'Eixample,166,1,1
-1,Ciutat Vella,2,el Barri Gòtic,103,2,2
-1,Ciutat Vella,3,la Barceloneta,66,2,2
-1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",75,2,2
-4,Les Corts,20,la Maternitat i Sant Ramon,68,2,2
-5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,105,2,2
-5,Sarrià-Sant Gervasi,23,Sarrià,88,2,2
-5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",60,2,2
-4,Les Corts,21,Pedralbes,90,2,2
-4,Les Corts,19,les Corts,64,2,2
-1,Ciutat Vella,1,el Raval,110,2,2
+6,Gràcia,31,la Vila de Gràcia,260,1,2
+9,Sant Andreu,60,Sant Andreu,177,1,2
+3,Sants-Montjuïc,11,el Poble-sec,153,1,2
+2,Eixample,7,la Dreta de l'Eixample,166,1,2
+1,Ciutat Vella,2,el Barri Gòtic,103,2,1
+1,Ciutat Vella,3,la Barceloneta,66,2,1
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",75,2,1
+4,Les Corts,20,la Maternitat i Sant Ramon,68,2,1
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,105,2,1
+5,Sarrià-Sant Gervasi,23,Sarrià,88,2,1
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",60,2,1
+4,Les Corts,21,Pedralbes,90,2,1
+4,Les Corts,19,les Corts,64,2,1
+1,Ciutat Vella,1,el Raval,110,2,1

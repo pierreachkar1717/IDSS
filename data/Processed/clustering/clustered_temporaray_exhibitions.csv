@@ -8,12 +8,12 @@ district_code,district_name,neighbourhood_code,neighbourhood_name,temporaray_exh
 5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1,0
 4,Les Corts,20,la Maternitat i Sant Ramon,4,0
 10,Sant Martí,71,Provençals del Poblenou,1,0
-3,Sants-Montjuïc,11,el Poble Sec,28,0
 2,Eixample,9,la Nova Esquerra de l'Eixample,4,0
-2,Eixample,7,la Dreta de l'Eixample,21,0
 2,Eixample,5,el Fort Pienc,4,0
-1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,0
 1,Ciutat Vella,3,la Barceloneta,2,0
 1,Ciutat Vella,2,el Barri Gòtic,6,0
 10,Sant Martí,70,el Besòs i el Maresme,2,0
 1,Ciutat Vella,1,el Raval,58,1
+3,Sants-Montjuïc,11,el Poble Sec,28,2
+2,Eixample,7,la Dreta de l'Eixample,21,2
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,2
