@@ -84,9 +84,9 @@ if __name__ == '__main__':
     # labl_1='library_studyroom')
 
     # 10: 9 & rent_price
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
-    # '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_rent_price.csv',
-    # labl_1='rent_price')
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_price.csv',
+    #labl_1='rent_price')
 
      # 11: 10 & sport_facilities
      #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
@@ -110,6 +110,6 @@ if __name__ == '__main__':
 
 
 
-    # df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
-    # df = df.drop(columns=['label_cat'])
-    # df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv', index=False)
+     #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
+     #df = df.drop(columns=['price', 'label_rent_price'])
+     #df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv', index=False)
