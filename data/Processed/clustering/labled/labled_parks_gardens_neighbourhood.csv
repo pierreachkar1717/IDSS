@@ -1,0 +1,66 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,parks_gardens,cluster,label,label_cat
+7,Horta-Guinardó,34,Can Baró,1,0,0,low_number_parks_gardens
+7,Horta-Guinardó,36,la Font d'en Fargues,1,0,0,low_number_parks_gardens
+7,Horta-Guinardó,37,el Carmel,4,0,0,low_number_parks_gardens
+7,Horta-Guinardó,38,la Teixonera,1,0,0,low_number_parks_gardens
+7,Horta-Guinardó,39,Sant Genís dels Agudells,5,0,0,low_number_parks_gardens
+7,Horta-Guinardó,40,Montbau,5,0,0,low_number_parks_gardens
+7,Horta-Guinardó,42,la Clota,2,0,0,low_number_parks_gardens
+7,Horta-Guinardó,43,Horta,3,0,0,low_number_parks_gardens
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,1,0,0,low_number_parks_gardens
+8,Nou Barris,45,Porta,4,0,0,low_number_parks_gardens
+8,Nou Barris,46,el Turó de la Peira,2,0,0,low_number_parks_gardens
+8,Nou Barris,48,la Guineueta,3,0,0,low_number_parks_gardens
+8,Nou Barris,49,Canyelles,1,0,0,low_number_parks_gardens
+8,Nou Barris,50,les Roquetes,2,0,0,low_number_parks_gardens
+7,Horta-Guinardó,35,el Guinardó,3,0,0,low_number_parks_gardens
+8,Nou Barris,52,la Prosperitat,1,0,0,low_number_parks_gardens
+8,Nou Barris,55,Ciutat Meridiana,1,0,0,low_number_parks_gardens
+9,Sant Andreu,58,Baró de Viver,1,0,0,low_number_parks_gardens
+9,Sant Andreu,59,el Bon Pastor,2,0,0,low_number_parks_gardens
+9,Sant Andreu,60,Sant Andreu,5,0,0,low_number_parks_gardens
+9,Sant Andreu,61,la Sagrera,3,0,0,low_number_parks_gardens
+9,Sant Andreu,62,el Congrés i els Indians,2,0,0,low_number_parks_gardens
+10,Sant Martí,64,el Camp de l'Arpa del Clot,1,0,0,low_number_parks_gardens
+10,Sant Martí,65,el Clot,3,0,0,low_number_parks_gardens
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,4,0,0,low_number_parks_gardens
+10,Sant Martí,67,la Vila Olímpica del Poblenou,6,0,0,low_number_parks_gardens
+10,Sant Martí,68,el Poblenou,7,0,0,low_number_parks_gardens
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,8,0,0,low_number_parks_gardens
+10,Sant Martí,70,el Besòs i el Maresme,5,0,0,low_number_parks_gardens
+8,Nou Barris,53,la Trinitat Nova,1,0,0,low_number_parks_gardens
+10,Sant Martí,71,Provençals del Poblenou,4,0,0,low_number_parks_gardens
+10,Sant Martí,72,Sant Martí de Provençals,2,0,0,low_number_parks_gardens
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,3,0,0,low_number_parks_gardens
+1,Ciutat Vella,2,el Barri Gòtic,2,0,0,low_number_parks_gardens
+1,Ciutat Vella,3,la Barceloneta,2,0,0,low_number_parks_gardens
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",4,0,0,low_number_parks_gardens
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,1,0,0,low_number_parks_gardens
+3,Sants-Montjuïc,14,la Font de la Guatlla,1,0,0,low_number_parks_gardens
+3,Sants-Montjuïc,15,Hostafrancs,1,0,0,low_number_parks_gardens
+7,Horta-Guinardó,33,el Baix Guinardó,4,0,0,low_number_parks_gardens
+3,Sants-Montjuïc,18,Sants,7,0,0,low_number_parks_gardens
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",5,0,0,low_number_parks_gardens
+3,Sants-Montjuïc,16,la Bordeta,2,0,0,low_number_parks_gardens
+5,Sarrià-Sant Gervasi,24,les Tres Torres,3,0,0,low_number_parks_gardens
+6,Gràcia,31,la Vila de Gràcia,6,0,0,low_number_parks_gardens
+6,Gràcia,30,la Salut,3,0,0,low_number_parks_gardens
+6,Gràcia,29,el Coll,2,0,0,low_number_parks_gardens
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,7,0,0,low_number_parks_gardens
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,7,0,0,low_number_parks_gardens
+6,Gràcia,28,Vallcarca i els Penitents,5,0,0,low_number_parks_gardens
+2,Eixample,5,el Fort Pienc,16,1,1,medium_number_parks_gardens
+2,Eixample,6,la Sagrada Família,15,1,1,medium_number_parks_gardens
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,17,1,1,medium_number_parks_gardens
+2,Eixample,9,la Nova Esquerra de l'Eixample,20,1,1,medium_number_parks_gardens
+1,Ciutat Vella,1,el Raval,9,1,1,medium_number_parks_gardens
+5,Sarrià-Sant Gervasi,23,Sarrià,12,1,1,medium_number_parks_gardens
+3,Sants-Montjuïc,13,la Marina de Port,11,1,1,medium_number_parks_gardens
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,10,1,1,medium_number_parks_gardens
+7,Horta-Guinardó,41,la Vall d'Hebron,11,1,1,medium_number_parks_gardens
+4,Les Corts,19,les Corts,14,1,1,medium_number_parks_gardens
+4,Les Corts,20,la Maternitat i Sant Ramon,16,1,1,medium_number_parks_gardens
+4,Les Corts,21,Pedralbes,9,1,1,medium_number_parks_gardens
+2,Eixample,10,Sant Antoni,16,1,1,medium_number_parks_gardens
+2,Eixample,7,la Dreta de l'Eixample,28,2,2,high_number_parks_gardens
+3,Sants-Montjuïc,11,el Poble-sec,31,2,2,high_number_parks_gardens

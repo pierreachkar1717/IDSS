@@ -1,0 +1,30 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,spaces_for_exercising,cluster,label,label_cat
+1,Ciutat Vella,1,el Raval,1,0,0,low_number_spaces_for_exercising
+9,Sant Andreu,63,Navas,1,0,0,low_number_spaces_for_exercising
+9,Sant Andreu,62,el Congrés i els Indians,1,0,0,low_number_spaces_for_exercising
+9,Sant Andreu,61,la Sagrera,1,0,0,low_number_spaces_for_exercising
+9,Sant Andreu,60,Sant Andreu,1,0,0,low_number_spaces_for_exercising
+9,Sant Andreu,57,la Trinitat Vella,1,0,0,low_number_spaces_for_exercising
+8,Nou Barris,56,Vallbona,1,0,0,low_number_spaces_for_exercising
+8,Nou Barris,55,Ciutat Meridiana,1,0,0,low_number_spaces_for_exercising
+8,Nou Barris,46,el Turó de la Peira,1,0,0,low_number_spaces_for_exercising
+7,Horta-Guinardó,41,la Vall d'Hebron,1,0,0,low_number_spaces_for_exercising
+7,Horta-Guinardó,37,el Carmel,1,0,0,low_number_spaces_for_exercising
+7,Horta-Guinardó,33,el Baix Guinardó,1,0,0,low_number_spaces_for_exercising
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,1,0,0,low_number_spaces_for_exercising
+6,Gràcia,28,Vallcarca i els Penitents,1,0,0,low_number_spaces_for_exercising
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,1,0,0,low_number_spaces_for_exercising
+5,Sarrià-Sant Gervasi,23,Sarrià,1,0,0,low_number_spaces_for_exercising
+4,Les Corts,20,la Maternitat i Sant Ramon,1,0,0,low_number_spaces_for_exercising
+3,Sants-Montjuïc,11,el Poble-sec,1,0,0,low_number_spaces_for_exercising
+2,Eixample,10,Sant Antoni,1,0,0,low_number_spaces_for_exercising
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,1,0,0,low_number_spaces_for_exercising
+6,Gràcia,29,el Coll,1,0,0,low_number_spaces_for_exercising
+10,Sant Martí,68,el Poblenou,2,1,1,high_number_spaces_for_exercising
+7,Horta-Guinardó,43,Horta,2,1,1,high_number_spaces_for_exercising
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,2,1,1,high_number_spaces_for_exercising
+3,Sants-Montjuïc,13,la Marina de Port,2,1,1,high_number_spaces_for_exercising
+2,Eixample,6,la Sagrada Família,2,1,1,high_number_spaces_for_exercising
+1,Ciutat Vella,3,la Barceloneta,3,1,1,high_number_spaces_for_exercising
+10,Sant Martí,67,la Vila Olímpica del Poblenou,2,1,1,high_number_spaces_for_exercising
+7,Horta-Guinardó,39,Sant Genís dels Agudells,2,1,1,high_number_spaces_for_exercising
