@@ -1,0 +1,30 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,music_drinks,cluster
+1,Ciutat Vella,1,el Raval,63,0
+1,Ciutat Vella,2,el Barri Gòtic,52,0
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",62,0
+6,Gràcia,31,la Vila de Gràcia,51,0
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,11,1
+9,Sant Andreu,63,Navas,4,1
+9,Sant Andreu,62,el Congrés i els Indians,3,1
+9,Sant Andreu,60,Sant Andreu,3,1
+7,Horta-Guinardó,43,Horta,4,1
+7,Horta-Guinardó,35,el Guinardó,1,1
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,2,1
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,2,1
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,8,1
+5,Sarrià-Sant Gervasi,23,Sarrià,5,1
+4,Les Corts,21,Pedralbes,1,1
+4,Les Corts,20,la Maternitat i Sant Ramon,7,1
+4,Les Corts,19,les Corts,9,1
+3,Sants-Montjuïc,18,Sants,10,1
+2,Eixample,10,Sant Antoni,15,1
+2,Eixample,6,la Sagrada Família,10,1
+2,Eixample,5,el Fort Pienc,9,1
+10,Sant Martí,67,la Vila Olímpica del Poblenou,7,1
+10,Sant Martí,68,el Poblenou,6,1
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,39,2
+3,Sants-Montjuïc,11,el Poble-sec,22,2
+2,Eixample,9,la Nova Esquerra de l'Eixample,18,2
+1,Ciutat Vella,3,la Barceloneta,28,2
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,87,3
+2,Eixample,7,la Dreta de l'Eixample,78,3

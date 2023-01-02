@@ -128,6 +128,11 @@ if __name__ == '__main__':
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_museums_exhibitions_neighbourhood.csv',
      #labl_1='exhebitons_museums')
 
+    # 19: 18 & music_drinks
+    join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_music_drinks.csv',
+    labl_1='music_drinks')
+
 
      #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
      #df = df.drop(columns=['label_cat'])

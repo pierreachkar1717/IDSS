@@ -10,7 +10,7 @@ df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Process
 #df = df[df['district_name_x'] != 'Desconegut']
 
 #replace missing values with 0.0
-#df.fillna(0.0, inplace=True)
+df.fillna(0.0, inplace=True)
 
 # replace NaN in rent_price with mean
 #df['rent_price'] = df['rent_price'].fillna(df['rent_price'].mean())
