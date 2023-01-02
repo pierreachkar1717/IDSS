@@ -1,0 +1,23 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,number_of_museums_and_exhibitions,cluster
+4,Les Corts,20,la Maternitat i Sant Ramon,5,0
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,10,0
+9,Sant Andreu,60,Sant Andreu,3,0
+7,Horta-Guinardó,35,el Guinardó,1,0
+6,Gràcia,31,la Vila de Gràcia,3,0
+6,Gràcia,30,la Salut,1,0
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,1,0
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,4,0
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",1,0
+4,Les Corts,21,Pedralbes,1,0
+10,Sant Martí,70,el Besòs i el Maresme,4,0
+3,Sants-Montjuïc,14,la Font de la Guatlla,3,0
+2,Eixample,9,la Nova Esquerra de l'Eixample,2,0
+2,Eixample,6,la Sagrada Família,1,0
+2,Eixample,5,el Fort Pienc,3,0
+1,Ciutat Vella,3,la Barceloneta,4,0
+10,Sant Martí,67,la Vila Olímpica del Poblenou,3,0
+3,Sants-Montjuïc,11,el Poble Sec,27,1
+2,Eixample,7,la Dreta de l'Eixample,16,1
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1
+1,Ciutat Vella,2,el Barri Gòtic,15,1
+1,Ciutat Vella,1,el Raval,23,1
