@@ -1,22 +1,22 @@
 1 - How much do you care about neighbourhood safety?
-0 : a lot
-1 : a lot
-2 : a lot
-3 : a little
-4 : a little
-5 : not at all
-6 : not at all
+0 : Very concerned about safety
+1 : Extremely concerned about safety
+2 : Highly concerned about safety
+3 : Somewhat concerned about safety
+4 : Mildly concerned about safety
+5 : Not very concerned about safety
+6 : Not concerned about safety at all
 
 ---------------------------------------------------------
 2 - Which of the following options best reflects your preference for the level of crowding and liveliness in the neighborhood?
-0 : I prefer a quiet neighborhood
-1 : I prefer a quiet neighborhood
-2 : I prefer a quiet neighborhood
-3 : I prefer a lightly crowded neighborhood
-4 : I prefer a lightly crowded neighborhood
-5 : I prefer a lively neighborhood
-6 : I prefer a crowded neighborhood
-7 : I prefer a crowded neighborhood
+0 : Prefer a extremely quiet neighborhood
+1 : Prefer a very quiet neighborhood
+2 : Prefer a quiet neighborhood
+3 : Prefer a lightly crowded neighborhood
+4 : Prefer a mildly crowded neighborhood
+5 : Prefer a lively neighborhood
+6 : Prefer a crowded neighborhood
+7 : Prefer a very crowded neighborhood
 
 ---------------------------------------------------------
 3 - Would you like to stay in a neighbourhood with a lot of students?
@@ -25,60 +25,60 @@
 
 ---------------------------------------------------------
 4 & 5 - How important is the availability of public transportation in the neighborhood to you?
-0 : not at all
-1 : a little
-2 : a lot
-3 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Very important
+3 : Extremely important
 
 ---------------------------------------------------------
 6 - How important is the presence of children's play areas in the neighborhood to you?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot
-4 : a lot
-5 : a lot
-6 : a lot
-7 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Very important
+3 : Important
+4 : Extremely important
+5 : Critical
+6 : Absolutely essential
+7 : Most important factor
 
 ---------------------------------------------------------
 7 & 8 & 9 & 10 - Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?
-0 : not at all
-1 : a little
-2 : yes
-3 : yes
-4 : yes
+0 : Not interested at all
+1 : Mildly interested
+2 : Interested
+3 : Very interested
+4 : Extremely interested
 
 ---------------------------------------------------------
 10 - Is the presence of libraries or study rooms in the neighborhood important to you?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot
-4 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Mildly important
+3 : Very important
+4 : Extremely important
 
 ---------------------------------------------------------
 11 - How important to you is having sports facilities available within the neighbourhood?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Mildly important
+3 : Very important
 
 ---------------------------------------------------------
 12 & 13 - How much does the level of tourism in the neighborhood matter to you?
-5 : not at all
-4 : not at all
-3 : a little
-2 : a little
-1 : a lot, i don't want tourists in my neighborhood
-0 : a lot, i don't want tourists in my neighborhood
+0 : Very important, do not want tourists in neighborhood
+1 : Important, do not want tourists in neighborhood
+2 : Mildly important
+3 : Somewhat important
+4 : Not important
+5 : Not at all important
 
 ---------------------------------------------------------
 14 - Do you appreciate having open-air street markets and fairs in your neighborhood?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot, i love buying from street markets
+0 : Do not appreciate at all
+1 : Somewhat appreciate
+2 : Mildly appreciate
+3 : Very much appreciate
 
 ---------------------------------------------------------
 15 - How much are you planning to spend on rent?
@@ -91,24 +91,24 @@
 
 ---------------------------------------------------------
 16 - Do you like to exercise outdoors?
-0 : no
-1 : yes
-2 : yes
+0 : No, Do not like to exercise outdoors
+1 : Somewhat enjoy exercising outdoors
+2 : Yes, Very much enjoy exercising outdoors
 
 ---------------------------------------------------------
 17 - How important is it for you to have parks nearby?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Mildly important
+3 : Very important
 
 ---------------------------------------------------------
 18 - How important is the presence of bars and nightclubs in the neighborhood to you?
-0 : not at all
-1 : a little
-2 : a little
-3 : a lot
-4 : a lot
+0 : Not important at all
+1 : Somewhat important
+2 : Mildly important
+3 : Very important
+4 : Extremely important
 
 ---------------------------------------------------------
 19 & 20: Which of the following neighbourhood age groups seems to be the best fit for you?
