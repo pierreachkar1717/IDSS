@@ -1,0 +1,74 @@
+district_code,district_name,neighbourhood_code,neighbourhood_name,label_accidents,label_avg_occ,label_above_65,label_academic_level,label_between_18_65,label_bus_stops,label_children_play_areas,label_cinema_theatre_concerts,label_cultural_leisure_spaces,label_library_studyroom,label_sport_facilities,label_tourists_points,label_transportation,label_street_markets_and_fairs,label_rent_price,label_hotels,label_spaces_for_excercise,label_parks_gardens,label_exhebitons_museums,label_music_drinks,label_temporary_exhibitions
+10,Sant Martí,73,la Verneda i la Pau,occasional,moderately_populated,medium_high,low,medium,medium,a lot,none,low,none,medium,few,few,none,affordable,none,none,none,none,none,none
+6,Gràcia,28,Vallcarca i els Penitents,occasional,lightly_populated,medium,low,low,high,many,none,low,some,medium,many,few,none,expensive,none,few,few,none,none,none
+4,Les Corts,21,Pedralbes,occasional,crowded,medium_low,low,low,high,many,none,low,many,medium,several,few,none,luxurious,few,none,some,few,few,none
+7,Horta-Guinardó,33,el Baix Guinardó,occasional,lightly_populated,medium_high,low,medium,low,many,none,low,few,medium,some,few,none,medium,none,few,few,none,none,none
+10,Sant Martí,72,Sant Martí de Provençals,occasional,lightly_populated,medium_high,low,medium,low,several,few,low,few,medium,some,few,few,medium,none,none,few,none,none,none
+3,Sants-Montjuïc,17,Sants - Badal,occasional,lightly_populated,medium_high,low,medium,low,low,none,low,none,low,few,few,none,medium,none,none,none,none,none,none
+3,Sants-Montjuïc,16,la Bordeta,occasional,lightly_populated,medium,low,medium,low,medium,some,low,none,low,few,few,none,expensive,none,none,few,none,none,none
+3,Sants-Montjuïc,15,Hostafrancs,occasional,lightly_populated,medium,low,low,low,low,few,low,few,medium,some,few,none,medium,none,none,few,none,none,none
+8,Nou Barris,44,Vilapicina i la Torre Llobeta,occasional,lightly_populated,medium_high,low,medium,low,medium,none,low,few,low,few,few,none,medium,none,some,few,none,none,none
+8,Nou Barris,45,Porta,occasional,densely_populated,medium_high,low,medium,low,many,few,low,none,medium,some,few,none,affordable,none,none,few,none,none,none
+5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,occasional,lightly_populated,medium_high,high,medium,medium,few,few,low,few,medium,many,few,none,expensive,few,none,few,none,few,none
+3,Sants-Montjuïc,12,la Marina del Prat Vermell,occasional,moderately_populated,low,low,low,very_high,low,none,low,few,low,few,some,few,very_expensive,none,none,few,none,none,none
+8,Nou Barris,48,la Guineueta,occasional,lightly_populated,medium,low,low,low,high,none,low,few,low,some,few,few,affordable,none,none,few,none,none,none
+8,Nou Barris,52,la Prosperitat,occasional,moderately_populated,medium_high,low,medium,low,medium,none,low,none,low,none,few,none,affordable,none,none,few,none,none,none
+9,Sant Andreu,59,el Bon Pastor,occasional,overcrowded,medium_low,low,low,medium,many,few,low,few,low,few,few,none,affordable,none,none,few,none,none,none
+10,Sant Martí,67,la Vila Olímpica del Poblenou,occasional,densely_populated,medium_low,low,low,low,medium,few,low,some,medium,some,few,none,very_expensive,few,some,few,few,few,few
+10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,occasional,moderately_populated,medium,low,low,medium,several,few,low,few,medium,some,few,none,very_expensive,none,few,few,none,none,none
+10,Sant Martí,71,Provençals del Poblenou,occasional,moderately_populated,medium,low,medium,medium,several,none,low,few,low,some,few,none,expensive,none,none,few,none,none,few
+8,Nou Barris,56,Vallbona,minimal,crowded,low,low,low,low,low,none,low,none,low,few,none,none,expensive,none,few,none,none,none,none
+9,Sant Andreu,58,Baró de Viver,minimal,densely_populated,low,low,low,low,few,none,low,none,low,few,none,none,expensive,none,none,few,none,none,none
+7,Horta-Guinardó,42,la Clota,minimal,lightly_populated,low,low,low,low,low,none,low,none,low,few,none,none,expensive,none,none,few,none,none,none
+8,Nou Barris,47,Can Peguera,minimal,sparsely_populated,low,low,low,low,low,none,low,none,low,few,none,none,expensive,none,none,none,none,none,none
+9,Sant Andreu,60,Sant Andreu,common,lightly_populated,very_high,high,very_high,high,very_high,some,medium,some,high,a_lot,some,few,affordable,few,few,few,few,few,few
+10,Sant Martí,68,el Poblenou,common,moderately_populated,medium_high,high,high,high,many,some,medium,few,medium,some,few,few,expensive,few,some,few,none,few,none
+6,Gràcia,31,la Vila de Gràcia,common,sparse,very_high,high,very_high,medium,medium,many,high,some,high,a_lot,few,none,expensive,some,none,few,few,many,few
+5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,common,moderately_populated,high,high,high,high,medium,some,medium,some,high,many,few,none,very_expensive,some,none,some,few,some,none
+2,Eixample,6,la Sagrada Família,common,sparsely_populated,very_high,high,very_high,medium,many,some,medium,few,medium,few,few,few,expensive,few,some,some,few,few,none
+2,Eixample,8,l'Antiga Esquerra de l'Eixample,common,sparsely_populated,medium,high,high,high,medium,some,high,many,medium,some,few,none,expensive,many,few,some,none,a_lot,none
+1,Ciutat Vella,2,el Barri Gòtic,common,extremely_crowded,medium,low,low,medium,few,some,high,a_lot,medium,several,few,many,expensive,some,none,few,some,many,few
+2,Eixample,9,la Nova Esquerra de l'Eixample,common,sparsely_populated,very_high,high,very_high,medium,several,few,medium,many,high,some,some,none,expensive,some,none,some,few,some,few
+2,Eixample,10,Sant Antoni,common,sparsely_populated,high,high,high,medium,many,some,medium,some,medium,some,some,some,expensive,few,few,some,none,few,none
+4,Les Corts,19,les Corts,common,lightly_populated,high,high,high,high,several,few,medium,few,high,many,few,some,expensive,few,none,some,none,few,none
+1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",common,sparse,medium_high,low,medium,medium,medium,many,high,a_lot,medium,many,few,some,expensive,some,none,few,some,many,some
+2,Eixample,5,el Fort Pienc,common,densely_populated,medium_high,high,medium,medium,many,some,medium,some,medium,some,some,few,expensive,few,none,some,few,few,few
+3,Sants-Montjuïc,18,Sants,common,moderately_populated,high,high,high,medium,few,few,medium,some,medium,many,some,few,medium,few,none,few,none,few,none
+1,Ciutat Vella,3,la Barceloneta,common,sparse,medium,low,low,medium,few,few,medium,many,high,many,few,few,medium,some,some,few,few,some,few
+7,Horta-Guinardó,36,la Font d'en Fargues,infrequent,moderately_populated,medium_low,low,low,low,low,none,low,none,low,few,none,none,medium,none,none,few,none,none,none
+8,Nou Barris,54,Torre Baró,infrequent,overcrowded,low,low,low,medium,few,none,low,few,low,few,few,none,expensive,none,none,none,none,none,none
+8,Nou Barris,53,la Trinitat Nova,infrequent,moderately_populated,medium_low,low,low,medium,low,few,low,none,low,few,few,few,low,none,none,few,none,none,none
+8,Nou Barris,49,Canyelles,infrequent,lightly_populated,medium_low,low,low,low,few,none,low,few,low,none,few,few,medium,none,none,few,none,none,none
+3,Sants-Montjuïc,14,la Font de la Guatlla,infrequent,lightly_populated,medium_low,low,low,low,low,none,low,few,low,few,none,none,medium,none,none,few,few,none,few
+7,Horta-Guinardó,39,Sant Genís dels Agudells,infrequent,moderately_populated,medium_low,low,low,medium,medium,none,low,few,low,some,few,none,affordable,none,some,few,none,none,none
+7,Horta-Guinardó,38,la Teixonera,infrequent,lightly_populated,medium_low,low,low,low,few,none,low,none,low,none,few,none,affordable,none,none,few,none,none,none
+6,Gràcia,29,el Coll,infrequent,lightly_populated,medium_low,low,low,low,low,none,low,none,low,some,few,none,affordable,none,few,few,none,none,none
+7,Horta-Guinardó,34,Can Baró,infrequent,lightly_populated,medium_low,low,low,low,low,none,low,none,low,few,none,none,affordable,none,none,few,none,none,none
+7,Horta-Guinardó,40,Montbau,infrequent,lightly_populated,low,low,low,low,few,none,low,some,low,some,few,none,affordable,none,none,few,none,none,none
+5,Sarrià-Sant Gervasi,23,Sarrià,frequent,crowded,medium_high,low,medium,high,several,few,medium,some,high,several,few,some,very_expensive,few,few,some,none,few,none
+10,Sant Martí,64,el Camp de l'Arpa del Clot,frequent,sparsely_populated,high,high,high,low,medium,some,low,few,low,few,few,few,medium,none,none,few,none,none,none
+10,Sant Martí,70,el Besòs i el Maresme,frequent,overcrowded,medium,low,medium,medium,very_high,few,medium,few,low,some,some,few,affordable,none,none,few,few,none,few
+6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,frequent,lightly_populated,high,high,high,low,low,few,low,few,high,many,few,none,expensive,few,none,few,none,few,none
+4,Les Corts,20,la Maternitat i Sant Ramon,frequent,moderately_populated,medium_high,low,medium,high,few,some,medium,many,very_high,many,some,none,expensive,few,few,some,few,few,few
+10,Sant Martí,65,el Clot,frequent,moderately_populated,medium_high,low,medium,low,several,few,low,none,medium,some,few,few,medium,none,none,few,none,none,none
+7,Horta-Guinardó,35,el Guinardó,frequent,lightly_populated,high,high,high,high,medium,none,low,few,medium,some,few,none,affordable,few,none,few,few,few,none
+10,Sant Martí,66,el Parc i la Llacuna del Poblenou,frequent,lightly_populated,medium,low,low,medium,few,few,low,some,low,many,some,none,expensive,few,none,few,few,few,few
+7,Horta-Guinardó,37,el Carmel,frequent,moderately_populated,medium_high,low,medium,high,several,none,low,few,low,some,few,none,affordable,none,few,few,none,none,none
+3,Sants-Montjuïc,13,la Marina de Port,frequent,moderately_populated,medium_high,low,medium,medium,high,few,medium,few,medium,some,few,none,low,none,some,some,none,none,none
+7,Horta-Guinardó,43,Horta,frequent,densely_populated,medium_high,low,medium,high,many,few,low,some,medium,some,few,few,affordable,few,some,few,none,few,none
+5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,frequent,densely_populated,medium_high,high,medium,high,medium,few,medium,some,medium,several,few,few,very_expensive,few,few,few,few,few,few
+9,Sant Andreu,61,la Sagrera,frequent,moderately_populated,medium_high,low,medium,medium,many,few,low,few,medium,many,few,none,affordable,none,few,few,none,none,none
+9,Sant Andreu,63,Navas,rare,lightly_populated,medium_high,low,medium,low,few,none,low,none,low,none,few,none,medium,few,few,none,none,few,none
+9,Sant Andreu,62,el Congrés i els Indians,rare,lightly_populated,medium,low,low,low,medium,few,low,few,low,many,few,none,affordable,few,few,few,none,few,none
+5,Sarrià-Sant Gervasi,24,les Tres Torres,rare,crowded,medium,low,low,low,low,few,low,few,low,some,few,none,luxurious,none,none,few,none,none,none
+9,Sant Andreu,57,la Trinitat Vella,rare,crowded,medium_low,low,low,low,medium,none,low,some,low,some,few,none,low,none,few,none,none,none,none
+8,Nou Barris,55,Ciutat Meridiana,rare,crowded,medium_low,low,low,medium,many,few,low,none,low,few,few,few,low,none,few,few,none,none,none
+8,Nou Barris,51,Verdun,rare,lightly_populated,medium,low,low,low,low,none,low,none,low,few,few,none,low,none,none,none,none,none,none
+8,Nou Barris,46,el Turó de la Peira,rare,moderately_populated,medium,low,low,low,few,none,low,none,low,some,few,none,affordable,none,few,few,none,none,none
+7,Horta-Guinardó,41,la Vall d'Hebron,rare,moderately_populated,medium_low,low,low,low,many,none,low,few,high,some,few,none,medium,none,few,some,none,none,none
+5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",rare,crowded,low,low,low,very_high,low,few,low,few,low,many,few,none,medium,none,none,few,few,none,few
+6,Gràcia,30,la Salut,rare,lightly_populated,medium,low,low,medium,few,none,low,few,medium,many,none,none,expensive,none,none,few,few,none,none
+8,Nou Barris,50,les Roquetes,rare,densely_populated,medium,low,low,medium,few,none,low,few,low,none,few,none,low,none,none,few,none,none,none
+3,Sants-Montjuïc,11,el Poble-sec,very_common,moderately_populated,high,high,high,very_high,many,many,high,many,very_high,several,some,none,medium,some,few,many,some,some,some
+1,Ciutat Vella,1,el Raval,very_common,densely_populated,high,high,high,medium,medium,a_lot,high,a_lot,medium,several,some,few,medium,some,few,some,some,many,many
+2,Eixample,7,la Dreta de l'Eixample,very_common,lightly_populated,high,high,high,very_high,medium,many,high,a_lot,high,a_lot,many,none,very_expensive,many,none,many,some,a_lot,some

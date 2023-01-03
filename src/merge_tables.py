@@ -129,11 +129,49 @@ if __name__ == '__main__':
      #labl_1='exhebitons_museums')
 
     # 19: 18 & music_drinks
-    join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
-    '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_music_drinks.csv',
-    labl_1='music_drinks')
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_music_drinks.csv',
+    #labl_1='music_drinks')
+
+    # 20: 19 & temporary_exhibitions
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_temporaray_exhibitions.csv',
+    #labl_1='temporary_exhibitions')
+
+    # Missing data
+
+    # read the data
+    #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
+
+    # drop rows if district_name is missing
+    # df = df.dropna(subset=['district_name'])
+
+    # drop district_name_x is Desconegut
+    # df = df[df['district_name_x'] != 'Desconegut']
+
+    # replace missing values with 0.0
+    #df.fillna(0.0, inplace=True)
+
+    # replace NaN in rent_price with mean
+    # df['rent_price'] = df['rent_price'].fillna(df['rent_price'].mean())
+
+    # save the data
+    #df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #          index=False)
 
 
-     #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
-     #df = df.drop(columns=['label_cat'])
-     #df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv', index=False)
+    # 2 Versions (only with lables , only with values)
+    df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
+
+    #keep only district_code, district_name, neighbourhood_code, neighbourhood_name, and all columsn that  do not start with label_
+    #df = df[df.columns.drop(list(df.filter(regex='label_')))]
+
+    # keep only following columns: district_code, district_name, neighbourhood_code, neighbourhood_name, and all columns that start with label_
+    #df = df.loc[:, df.columns.str.startswith('label_') | df.columns.str.startswith('district_code') | df.columns.str.startswith('district_name') | df.columns.str.startswith('neighbourhood_code') | df.columns.str.startswith('neighbourhood_name')]
+
+
+
+    #save to csv
+    df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_values.csv', index=False)
+
+
