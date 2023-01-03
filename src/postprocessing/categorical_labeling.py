@@ -1,4 +1,4 @@
-''' tranforming numerical labels to categorical labels '''
+''' transforming numerical labels to categorical labels '''
 import pandas as pd
 
 df = pd.read_csv('/data/Processed/joined_data/final_table_labeled_cat.csv')
