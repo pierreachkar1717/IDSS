@@ -1,0 +1,125 @@
+1 - How much do you care about neighbourhood safety?
+0 : a lot
+1 : a lot
+2 : a lot
+3 : a little
+4 : a little
+5 : not at all
+6 : not at all
+
+---------------------------------------------------------
+2 - Which of the following options best reflects your preference for the level of crowding and liveliness in the neighborhood?
+0 : I prefer a quiet neighborhood
+1 : I prefer a quiet neighborhood
+2 : I prefer a quiet neighborhood
+3 : I prefer a lightly crowded neighborhood
+4 : I prefer a lightly crowded neighborhood
+5 : I prefer a lively neighborhood
+6 : I prefer a crowded neighborhood
+7 : I prefer a crowded neighborhood
+
+---------------------------------------------------------
+3 - Would you like to stay in a neighbourhood with a lot of students?
+0 : no
+1 : yes
+
+---------------------------------------------------------
+4 & 5 - How important is the availability of public transportation in the neighborhood to you?
+0 : not at all
+1 : a little
+2 : a lot
+3 : a lot
+
+---------------------------------------------------------
+6 - How important is the presence of children's play areas in the neighborhood to you?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot
+4 : a lot
+5 : a lot
+6 : a lot
+7 : a lot
+
+---------------------------------------------------------
+7 & 8 & 9 & 10 - Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?
+0 : not at all
+1 : a little
+2 : yes
+3 : yes
+4 : yes
+
+---------------------------------------------------------
+10 - Is the presence of libraries or study rooms in the neighborhood important to you?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot
+4 : a lot
+
+---------------------------------------------------------
+11 - How important to you is having sports facilities available within the neighbourhood?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot
+
+---------------------------------------------------------
+12 & 13 - How much does the level of tourism in the neighborhood matter to you?
+5 : not at all
+4 : not at all
+3 : a little
+2 : a little
+1 : a lot, i don't want tourists in my neighborhood
+0 : a lot, i don't want tourists in my neighborhood
+
+---------------------------------------------------------
+14 - Do you appreciate having open-air street markets and fairs in your neighborhood?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot, i love buying from street markets
+
+---------------------------------------------------------
+15 - How much are you planning to spend on rent?
+0.0 : (550-690)
+1.0 : (690-820)
+2.0 : (820-920)
+3.0 : (920-1200)
+4.0 : (1200-1500)
+5.0 : (1500-2000)
+
+---------------------------------------------------------
+16 - Do you like to exercise outdoors?
+0 : no
+1 : yes
+2 : yes
+
+---------------------------------------------------------
+17 - How important is it for you to have parks nearby?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot
+
+---------------------------------------------------------
+18 - How important is the presence of bars and nightclubs in the neighborhood to you?
+0 : not at all
+1 : a little
+2 : a little
+3 : a lot
+4 : a lot
+
+---------------------------------------------------------
+19 & 20: Which of the following neighbourhood age groups seems to be the best fit for you?
+0 : mostly young people
+1 : mixed
+2 : mostly older people
+
+---------------------------------------------------------
+
+
+
+
+
+

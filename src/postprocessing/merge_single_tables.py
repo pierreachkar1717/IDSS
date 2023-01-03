@@ -161,7 +161,7 @@ if __name__ == '__main__':
 
 
     # 2 Versions (only with lables , only with values)
-    df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
+    df = pd.read_csv('/data/Processed/joined_data/final_table.csv')
 
     #keep only district_code, district_name, neighbourhood_code, neighbourhood_name, and all columsn that  do not start with label_
     #df = df[df.columns.drop(list(df.filter(regex='label_')))]

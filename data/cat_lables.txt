@@ -1,162 +1,157 @@
-label_accidents:
-0.0 -> 'minimal'
-1.0 -> 'infrequent'
-2.0 -> 'rare'
-3.0 -> 'occasional'
-4.0 -> 'frequent'
-5.0 -> 'common'
-6.0 -> 'very_common'
+1 - label_accidents:
+0-> minimal: This neighbourhood has very few accidents, making it a safe and peaceful place to live.
+1-> infrequent: Accidents in this neighbourhood are not a common occurrence, so it is generally a safe place to live.
+2-> rare: Accidents are a rare occurrence in this neighbourhood, so you can feel confident about the safety of the area.
+3-> occasional: This neighbourhood experiences some accidents, but they are not a regular occurrence.
+4-> frequent: Accidents happen relatively often in this neighbourhood, so you may want to consider the safety of the area before deciding to live here.
+5-> common: Accidents are a common occurrence in this neighbourhood, so you may want to consider other neighbourhoods if safety is a top priority.
+6-> very_common: This neighbourhood experiences a high number of accidents, so you may want to consider other neighbourhoods if safety is a top concern.
 
 -----------------------------------
-label_avg_occupation:
-0.0 -> 'sparse'
-1.0 -> 'sparsely_populated'
-2.0 -> 'lightly_populated'
-3.0 -> 'moderately_populated'
-4.0 -> 'densely_populated'
-5.0 -> 'crowded'
-6.0 -> 'overcrowded'
-7.0 -> 'extremely_crowded'
+2 - label_avg_occupation:
+0-> sparse: This neighbourhood has a low population density, with relatively few people living in a given area. It may feel less crowded and more open than other areas.
+1-> sparsely_populated: This neighbourhood has a relatively low population density, with fewer people living in a given area compared to more densely populated areas. It may feel less crowded and more open than other areas.
+2-> lightly_populated: This neighbourhood has a moderate population density, with a reasonable number of people living in a given area. It may feel less crowded than more densely populated areas, but not as open as sparsely populated areas.
+3-> moderately_populated: This neighbourhood has a relatively high population density, with a significant number of people living in a given area. It may feel more crowded than lightly populated areas, but not as crowded as densely populated areas.
+4-> densely_populated: This neighbourhood has a very high population density, with a large number of people living in a given area. It may feel very crowded and may not have as much open space as less densely populated areas.
+5-> crowded: This neighbourhood has an extremely high population density, with a very large number of people living in a given area. It may feel extremely crowded and may not have much open space.
+6-> overcrowded: This neighbourhood has a population density that is significantly beyond capacity, with a very large number of people living in a given area. It may feel severely crowded and may not have any open space.
+7-> extremely_crowded: This neighbourhood has an extremely high population density, with a massive number of people living in a given area. It may feel severely overcrowded and may not have any open space.
 
 -----------------------------------
-label_above_65:
-0.0 -> 'low'
-1.0 -> 'medium_low'
-2.0 -> 'medium'
-3.0 -> 'medium_high'
-4.0 -> 'high'
-5.0 -> 'very_high'
+3 - label_academic_level:
+0.0 -> low: This neighbourhood has a low concentration of people with a university degree or higher. It may be not suitable for students or young professionals.
+1.0 -> high: This neighbourhood may have a large number of people with a university degree or higher. It may be suitable for students or young professionals.
 
 -----------------------------------
-label_academic_level:
-0.0 -> 'low'
-1.0 -> 'high'
+4 - label_bus_stops:
+0.0 -> low: poorly served by buses. It may be difficult to get around by public transport.
+1.0 -> medium: moderately served by buses. It may be possible to get around by public transport.
+2.0 -> high: well served by buses. It may be easy to get around by public transport.
+3.0 -> very_high: exceptionally well served by buses. It may be very easy to get around by public transport.
+
+5 - label_transportation:
+0.0 -> none: This neighborhood may not have many transportation options available, making it inconvenient for those who rely on public transportation to get around.
+1.0 -> few: This neighborhood may have a limited number of transportation options available, which may not be sufficient for those who rely heavily on public transportation.
+2.0 -> some: This neighborhood may have a moderate number of transportation options available, which may be sufficient for those who occasionally use public transportation.
+3.0 -> many: This neighborhood may have a large number of transportation options available, making it convenient for those who rely on public transportation to get around.
 
 -----------------------------------
-label_between_18_65:
-0.0 -> 'low'
-1.0 -> 'medium'
-2.0 -> 'high'
-3.0 -> 'very_high'
+6 - label_children_play_areas:
+0.0 -> low: not suitable for families with children
+1.0 -> few: slightly suitable for families with children
+2.0 -> medium: moderately suitable for families with children
+3.0 -> many: suitable for families with children
+4.0 -> several: very suitable for families with children
+5.0 -> high: ideal for families with children
+6.0 -> very_high: exceptionally suitable for families with children
+7.0 -> a_lot: a heaven for families with children
 
 -----------------------------------
-label_bus_stops:
-0.0 -> 'low'
-1.0 -> 'medium'
-2.0 -> 'high'
-3.0 -> 'very_high'
+7 - label_cinema_theaters:
+0.0 -> none: not a good choice for movie/theater lovers
+1.0 -> few: limited options for movie/theater entertainment
+2.0 -> some: a moderate selection of cinemasn & theaters
+3.0 -> many: plenty of options for movie/theater entertainment
+4.0 -> a lot: a great choice for movie/theater lovers
+
+8 - label_cultural_leisure_spaces:
+0.0 -> low: There are no cultural activities in the area. It may not be a good choice for people who like to participate in cultural activities.
+1.0 -> medium: There are only a few cultural activities in the area. It may not be a good choice for people who like to participate in cultural activities.
+2.0 -> high: There are several cultural activities in the area, providing a wide range of events. It may be a good choice for people who like to participate in cultural activities.
+
+
+9 - label_temporary_exhibitions:
+0.0 -> None: There are no temporary exhibitions in the area. It may be a quiet and peaceful area.
+1.0 -> Few: There are only a few temporary exhibitions in the area, but they offer a variety of cultural activities and events.
+2.0 -> Some: There are several temporary exhibitions in the area, providing a range of cultural activities and events.
+3.0 -> Many: The area has numerous temporary exhibitions, creating a vibrant cultural scene with plenty of activities and events to explore.
+
+10 - label_exhebitons_museums:
+0.0 -> none: There are no exhibitions or museums in the area, making it unsuitable for culture lovers.
+1.0 -> few: There are few exhibitions and museums in the area, but they offer a good opportunity to visit some artistic and cultural activities and events.
+2.0 -> some: There are several exhibitions and museums in the area, which offer a wide range of cultural activities and events.
+
 
 -----------------------------------
-label_children_play_areas:
-0.0 -> 'low'
-1.0 -> 'few'
-2.0 -> 'medium'
-3.0 -> 'many'
-4.0 -> 'several'
-5.0 -> 'high'
-6.0 -> 'very high'
-7.0 -> 'a_lot'
+10 - label_library_studyroom:
+0.0 -> none: This indicates that the neighbourhood does not have any library or study room. It may not be suitable for students or people who need a quiet place to study.
+1.0 -> few: This indicates that the neighbourhood has a few libraries or study rooms. It may not be very suitable for students or people who need a quiet place to study.
+2.0 -> some: This indicates that the neighbourhood has some libraries or study rooms. It may be suitable for students or people who need a quiet place to study, but they may need to search for a place to study.
+3.0 -> many: This indicates that the neighbourhood has a lot of libraries or study rooms. It may be very suitable for students or people who need a quiet place to study.
+4.0 -> a_lot: This indicates that the neighbourhood has a very large number of libraries or study rooms. It is likely to be very suitable for students or people who need a quiet place to study.
 
 -----------------------------------
-label_cinema_theaters:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-4.0 -> 'a lot'
+11 - label_sport_facilities:
+0.0 -> low: This neighbourhood has very few or no sport facilities. It may not be suitable for people who like to participate in sports.
+1.0 -> medium: This neighbourhood has some sport facilities. It may be suitable for people who like to participate in sports.
+2.0 -> high: This neighbourhood has a good number of sport facilities that are easily accessible and well-equipped. It may be very suitable for people who like to participate in sports.
+3.0 -> very_high: This neighbourhood has a very high number of sport facilities, making it an ideal location for those who enjoy sports and physical activity.
 
 -----------------------------------
-label_cultural_leisure_spaces:
-0.0 -> 'low'
-1.0 -> 'medium'
-2.0 -> 'high'
+12 - label_tourists_points:
+0.0 -> none: This neighborhood is not a popular tourist destination and does not have many attractions or landmarks that attract tourists.
+1.0 -> few: This neighborhood has a small number of tourist attractions or landmarks, and may not be a major destination for tourists.
+2.0 -> some: This neighborhood has a moderate number of tourist attractions or landmarks, and may attract a moderate number of tourists.
+3.0 -> many: This neighborhood has a large number of tourist attractions or landmarks, and may be a popular destination for tourists.
+4.0 -> several: This neighborhood has a very high number of tourist attractions or landmarks, and is likely to be a major destination for tourists.
+5.0 -> a_lot: This neighborhood has an exceptionally high number of tourist attractions or landmarks, and is likely to be a major destination for tourists.
+
+13 - label_hotels:
+0.0 -> none: This neighborhood does not have any hotels, indicating that it may not be a popular tourist destination.
+1.0 -> few: This neighborhood has a small number of hotels, suggesting that it may not be a major tourist hub.
+2.0 -> some: This neighborhood has a moderate number of hotels, indicating that it may attract some tourists but is not necessarily a major tourist destination.
+3.0 -> many: This neighborhood has a large number of hotels, suggesting that it is a popular tourist destination.
 
 -----------------------------------
-label_library_studyroom:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-4.0 -> 'a_lot'
+14 - label_street_markets_and_fairs:
+0.0 -> None: There are no street markets or fairs in the area, offering a more quiet atmosphere.
+1.0 -> Few: There are only a few street markets or fairs in the area.
+2.0 -> Some: There are several street markets and fairs in the area, making it a lively and vibrant area.
+3.0 -> Many: The area has numerous street markets and fairs, creating a lively atmosphere. It may be a popular destination for tourists and it may be loud and busy.
 
 -----------------------------------
-label_sport_facilities:
-0.0 -> 'low'
-1.0 -> 'medium'
-2.0 -> 'high'
-3.0 -> 'very_high'
+15 - label_rent_price:
+0.0 -> low (550-690): This could indicate that the neighborhood is more affordable and may be a good option for those looking to save on rent.
+1.0 -> affordable (690-820): This could indicate that the neighborhood has moderate rent prices, making it a good option for those who want a balance of price and location.
+2.0 -> medium (820-920): This could indicate that the neighborhood has average rent prices and may be a good option for those looking for a convenient location.
+3.0 -> expensive (920-1200): This could indicate that the neighborhood has higher rent prices and may not be a good option for those on a tight budget.
+4.0 -> very_expensive (1200-1500): This could indicate that the neighborhood has very high rent prices and may not be a suitable option for most people.
+5.0 -> luxurious(1500-2000): This could indicate that the neighborhood has extremely high rent prices and is likely only suitable for those who can afford a luxurious lifestyle.
 
 -----------------------------------
-label_tourists_points:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-4.0 -> 'several'
-5.0 -> 'a_lot'
+16 - label_spaces_for_excercise:
+0.0 -> none: There are no outdoor spaces suitable for exercise in this neighbourhood.
+1.0 -> few: There are a few outdoor spaces suitable for exercise in this neighbourhood.
+2.0 -> some: There are some outdoor spaces suitable for exercise in this neighbourhood.
 
 -----------------------------------
-label_transportation:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
+17 - label_parks_gardens:
+0.0 -> none: This neighbourhood does not have any parks or gardens, so it may not be suitable for people who want outdoor spaces for their pets or for leisure activities.
+1.0 -> few: This neighbourhood has a few parks or gardens, but they may not be easily accessible or convenient for everyone in the neighbourhood.
+2.0 -> some: This neighbourhood has a moderate number of parks or gardens, which may be suitable for people who want some outdoor spaces for their pets or leisure activities.
+3.0 -> many: This neighbourhood has a large number of parks or gardens, which may be suitable for people who want plenty of outdoor spaces for their pets or leisure activities.
 
 -----------------------------------
-label_street_markets_and_fairs:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
+18 - label_music_drinks:
+0.0 -> none: may indicate that the neighbourhood is relatively quiet, with little to no music or drink options available.
+1.0 -> few: may indicate that there are a limited number of music or drink options in the neighbourhood, possibly making it somewhat quieter than areas with more options.
+2.0 -> some: may indicate that there are a moderate number of music or drink options in the neighbourhood, potentially making it more lively and less quiet.
+3.0 -> many: may indicate that there are a large number of music or drink options in the neighbourhood, potentially making it quite lively and not very quiet.
+4.0 -> a_lot: may indicate that there are a very large number of music or drink options in the neighbourhood, potentially making it very lively and not quiet at all.
 
 -----------------------------------
-label_rent_price:
-0.0 -> 'low'
-1.0 -> 'affordable'
-2.0 -> 'medium'
-3.0 -> 'expensive'
-4.0 -> 'very_expensive'
-5.0 -> 'luxurious'
+19 - label_above_65:
+0.0 -> low: a relatively young population
+1.0 -> medium_low: a balance between young and older residents
+2.0 -> medium: more older residents than young ones
+3.0 -> medium_high: a significant number of older residents
+4.0 -> high: a predominantly older population
+5.0 -> very_high: a neighborhood with a high concentration of elderly residents
 
------------------------------------
-label_hotels:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
 
------------------------------------
-label_spaces_for_excercise:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-
------------------------------------
-label_parks_gardens:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-
------------------------------------
-label_exhebitons_museums:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-
------------------------------------
-label_music_drinks:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-4.0 -> 'a_lot'
-
------------------------------------
-label_temporary_exhibitions:
-0.0 -> 'none'
-1.0 -> 'few'
-2.0 -> 'some'
-3.0 -> 'many'
-
------------------------------------
+20 - label_between_18_65:
+0.0 -> low: This neighborhood may have fewer young adults and families with children compared to others.
+1.0 -> medium: This neighborhood may have a mix of different age groups, including some young adults and families with children.
+2.0 -> high: This neighborhood may have a higher concentration of young adults and families with children compared to others.
+3.0 -> very_high: This neighborhood may have a very high number of young adults and families with children, possibly making it a vibrant and lively area.
