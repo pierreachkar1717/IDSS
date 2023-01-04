@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Mapping each answer to numerical value
 mapping_dict= {
     "How much do you care about neighbourhood safety?": {
         "Very concerned about safety": 0.0,
@@ -108,7 +109,7 @@ mapping_dict= {
 }
 
 
-#create a dataframe with 20 columns: first one is user_id, the other 19 are the answers to the questions
+# Test the questionary
 df = pd.DataFrame(columns=['user_id', 'How much do you care about neighbourhood safety?',
                            'Which of the following options best reflects your preference for the level of crowding and liveliness in the neighborhood?',
                            'Would you like to stay in a neighbourhood with a lot of students?',
@@ -125,7 +126,7 @@ df = pd.DataFrame(columns=['user_id', 'How much do you care about neighbourhood 
                            'How important is the presence of bars and nightclubs in the neighborhood to you?',
                            'Which of the following neighbourhood age groups seems to be the best fit for you?'])
 
-#add a row to the dataframe
+# Answers
 df.loc[len(df)] = ['Pierre', 'Highly concerned about safety', 'Prefer a lightly crowded neighborhood', 'yes',
                    'Very important',
                    'Not important at all',
@@ -134,14 +135,57 @@ df.loc[len(df)] = ['Pierre', 'Highly concerned about safety', 'Prefer a lightly 
                    '(920-1200)', 'No, Do not like to exercise outdoors', 'Very important',
                    'Mildly important', 'mostly young people']
 
-print(df.head)
 
 
-#map each answer to a number based on the dictionary
+# Apply Mapping
 df = df.replace(mapping_dict)
 
-#save the dataframe to a csv file
-#df.to_csv('user_data.csv', index=False)
+# Copy the dataframe
+df2 = df.copy()
+
+# Create columns for doing the matching
+df2['label_accidents'] = df2['How much do you care about neighbourhood safety?']
+df2['label_avg_occupation'] = df2['Which of the following options best reflects your preference for the level of crowding and liveliness in the neighborhood?']
+df2['label_above_65'] = df2['Which of the following neighbourhood age groups seems to be the best fit for you?']
+df2['label_academic_level'] = df2['Would you like to stay in a neighbourhood with a lot of students?']
+df2['label_between_18_65'] = df2['Which of the following neighbourhood age groups seems to be the best fit for you?']
+df2['label_bus_stops'] = df2['How important is the availability of public transportation in the neighborhood to you?']
+df2['label_children_play_areas'] = df2['How important is the presence of childrens play areas in the neighborhood to you?']
+df2['label_cinema_theaters'] = df2['Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?']
+df2['label_cultural_leisure_spaces'] = df2['Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?']
+df2['label_library_studyroom'] = df2['Is the presence of libraries or study rooms in the neighborhood important to you?']
+df2['label_sport_facilities'] = df2['How important to you is having sports facilities available within the neighbourhood?']
+df2['label_tourists_points'] = df2['How much does the level of tourism in the neighborhood matter to you?']
+df2['label_transportation'] = df2['How important is the availability of public transportation in the neighborhood to you?']
+df2['label_street_markets_and_fairs'] = df2['Do you appreciate having open-air street markets and fairs in your neighborhood?']
+df2['label_rent_price'] = df2['How much are you planning to spend on rent?']
+df2['label_hotels'] = df2['How much does the level of tourism in the neighborhood matter to you?']
+df2['label_spaces_for_excercise'] = df2['Do you like to exercise outdoors?']
+df2['label_parks_gardens'] = df2['How important is it for you to have parks nearby?']
+df2['label_exhebitons_museums'] = df2['Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?']
+df2['label_music_drinks'] = df2['How important is the presence of bars and nightclubs in the neighborhood to you?']
+df2['label_temporary_exhibitions'] = df2['Are you interested in having cultural events and attractions (such as theaters, cinemas, museums, etc.) near you?']
+
+# Remove unecessary columns
+df2 = df2.filter(regex='user_id|label_')
+
+# Mappping to our values
+df2.loc[df2['label_cultural_leisure_spaces'] > 2.0, 'label_cultural_leisure_spaces'] = 2.0
+df2.loc[df2['label_exhebitons_museums'] > 2.0, 'label_exhebitons_museums'] = 2.0
+
+df2.loc[df2['label_temporary_exhibitions'] > 3.0, 'label_temporary_exhibitions'] = 3.0
+
+df2.loc[df2['label_hotels'] > 3.0, 'label_hotels'] = 3.0
+
+df2.loc[df2['label_above_65'] == 2.0, 'label_above_65'] = 5.0
+df2.loc[df2['label_above_65'] == 1.0, 'label_above_65'] = 2.0
+df2.loc[df2['label_above_65'] == 0.0, 'label_above_65'] = 0.0
+
+df2.loc[df2['label_between_18_65'] == 2.0, 'label_between_18_65'] = 0.0
+df2.loc[df2['label_between_18_65'] == 1.0, 'label_between_18_65'] = 1.0
+df2.loc[df2['label_between_18_65'] == 0.0, 'label_between_18_65'] = 3.0
+
+df2.to_csv('user_input.csv', index=False)
 
 
 

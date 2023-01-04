@@ -34,7 +34,7 @@ def join_data(data_path_1, data_path_2, labl_1=None, labl_2=None, labl_3=None):
     df.rename(columns={'label_y': 'label_' + str(labl_3)}, inplace=True, errors='ignore')
 
     # Save the result
-    df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv', index=False)
+    df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv', index=False)
 
 if __name__ == '__main__':
 
@@ -44,104 +44,104 @@ if __name__ == '__main__':
     #          labl_2= 'accidents', labl_3='avg_occ')
 
     # 2: 1 & above_65
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #         '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_above_65t.csv',
     #          labl_1='above_65')
 
     # 3: 2 & academic_level
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #           '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_academic_level.csv',
     #           labl_1='academic_level')
 
     # 4: 3 & between_18_64
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #           '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_between_18_64.csv',
     #           labl_1='between_18_65')
 
     # 5: 4 & bus_stops
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #           '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_bus_stops.csv',
     #           labl_1='bus_stops')
 
     # 6: 5 & children_play_area
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #           '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_children_play_areas.csv',
     #           labl_1='children_play_areas')
 
     # 7: 6 & cinema_theatre
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     # '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_cinema_theater_concerts.csv',
     # labl_1='cinema_theatre_concerts')
 
     # 8: 7 & cultural_leisure
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     # '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_culture_leisure_spaces.csv',
     # labl_1='cultural_leisure_spaces')
 
     # 9: 8 & library_studyroom
-    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    # join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     # '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_library_studyroom_museum_spaces.csv',
     # labl_1='library_studyroom')
 
     # 10: 9 & rent_price
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_price.csv',
     #labl_1='rent_price')
 
     # 11: 10 & sport_facilities
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_sport_facilities.csv',
     #labl_1='sport_facilities')
 
     # 12: 11 & tourists_points
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_tourists_points.csv',
     #labl_1='tourists_points')
 
     # 13: 12 & transportation
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labeled_transportation.csv',
     #labl_1='transportation')
 
      # 14: 13 & street_markets
-     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_temporaray_exhibitions.csv',
      #labl_1='street_markets_and_fairs')
 
      # 15: 14 & hotels
-     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_hotels_neighbourhood.csv',
      #labl_1='hotels')
 
      # 16: 15 & places_for_excercise
-     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_spaces_for_exercising_neighbourhood.csv',
      #labl_1='spaces_for_excercise')
 
      # 17: 16 & parks_gardens
-     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_parks_gardens_neighbourhood.csv',
      #labl_1='parks_gardens')
 
      # 18: 17 & museums_exhibitions
-     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+     #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
      #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_museums_exhibitions_neighbourhood.csv',
      #labl_1='exhebitons_museums')
 
     # 19: 18 & music_drinks
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_music_drinks.csv',
     #labl_1='music_drinks')
 
     # 20: 19 & temporary_exhibitions
-    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #join_data('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #'/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/clustering/labled/labled_temporaray_exhibitions.csv',
     #labl_1='temporary_exhibitions')
 
     # Missing data
 
     # read the data
-    #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv')
+    #df = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv')
 
     # drop rows if district_name is missing
     # df = df.dropna(subset=['district_name'])
@@ -156,12 +156,12 @@ if __name__ == '__main__':
     # df['rent_price'] = df['rent_price'].fillna(df['rent_price'].mean())
 
     # save the data
-    #df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table.csv',
+    #df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/merged_table.csv',
     #          index=False)
 
 
     # 2 Versions (only with lables , only with values)
-    df = pd.read_csv('/data/Processed/joined_data/final_table.csv')
+    df = pd.read_csv('/data/Processed/joined_data/merged_table.csv')
 
     #keep only district_code, district_name, neighbourhood_code, neighbourhood_name, and all columsn that  do not start with label_
     #df = df[df.columns.drop(list(df.filter(regex='label_')))]
@@ -172,6 +172,6 @@ if __name__ == '__main__':
 
 
     #save to csv
-    df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_values.csv', index=False)
+    df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_values.csv', index=False)
 
 
