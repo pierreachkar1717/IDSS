@@ -34,8 +34,10 @@
 6 - How important is the presence of children's play areas in the neighborhood to you?
 0 : Not important at all
 1 : Somewhat important
-2 : Very important
-3 : Important
+#2 : Very important #do the contrary IMPORTANT then VERY IMPORTANT
+#3 : Important
+2 : Important 
+3 : very important
 4 : Extremely important
 5 : Critical
 6 : Absolutely essential

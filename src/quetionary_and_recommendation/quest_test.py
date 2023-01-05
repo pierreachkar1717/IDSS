@@ -34,8 +34,8 @@ mapping_dict= {
     "How important is the presence of childrens play areas in the neighborhood to you?": {
         "Not important at all": 0.0,
         "Somewhat important": 1.0,
-        "Very important": 2.0,
-        "Important": 3.0,
+        "Important": 2.0,
+        "Very important": 3.0,
         "Extremely important": 4.0,
         "Critical": 5.0,
         "Absolutely essential": 6.0,
