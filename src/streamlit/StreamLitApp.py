@@ -196,7 +196,8 @@ def process_dataframe(df, mapping_dict):
     df2.loc[df2['label_between_18_65'] == 1.0, 'label_between_18_65'] = 1.0
     df2.loc[df2['label_between_18_65'] == 0.0, 'label_between_18_65'] = 3.0
 
-    df2.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/user_input/user_input.csv', index=False)
+    #df2.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/user_input/user_input.csv', index=False)
+    df2.to_csv('../../data/user_input/user_input.csv', index=False)
 
     return df2
 
@@ -390,6 +391,7 @@ def questionary():
 
     if button:
       st.write('You have successfully submitted !')
+      generate_and_display_recommendations(df)
       #st.write(df)
 
     return df
@@ -441,13 +443,15 @@ def questionary():
 def generate_and_display_recommendations(df):
     # map the user input & save to csv
     df_u = process_dataframe(df, mapping_dict)
-    df_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_num.csv')
+    #df_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_num.csv')
+    df_data = pd.read_csv('../../data/Processed/joined_data/labeled_num.csv')
 
     # recommend the neighbourhood
     df_rec = find_similar_neighborhoods(df_u, df_data)
 
     # merge the recommendation with the original data
-    df_all_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_all_info.csv')
+    #df_all_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_all_info.csv')
+    df_all_data = pd.read_csv('../../data/Processed/joined_data/final_table_all_info.csv')
     df_res = pd.merge(df_rec, df_all_data, on=['neighbourhood_code'], how='left')
 
     #rename the column neighbourhood_name to Neighbourhood
@@ -480,14 +484,16 @@ def generate_and_display_recommendations(df):
     column_name = option
 
     # map
-    geojson = gpd.read_file('/Users/pierreachkar/Downloads/neighborhood_finder/data/barris.geojson')
+    #geojson = gpd.read_file('/Users/pierreachkar/Downloads/neighborhood_finder/data/barris.geojson')
+    geojson = gpd.read_file('../../data/barris.geojson')
+
     create_choropleth_map(geojson, df_res, name_mapping[option])
 
 def main():
     st.title('Neighbourhood Finder')
     st.write('Please fill in the following information to get your recommended neighbourhoods:')
     df = questionary()
-    generate_and_display_recommendations(df)
+    #generate_and_display_recommendations(df)
 
 if __name__ == '__main__':
     main()
