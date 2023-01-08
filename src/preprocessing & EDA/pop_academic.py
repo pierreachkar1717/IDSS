@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv('../../data/Population/2022_academic_sex.csv', sep=';')
+df = pd.read_csv('../../data/Raw Data/Population/2022_academic_sex.csv', sep=';')
 
 #remove rows where academic level is No record
 df = df[df['academic_level'] != 'No record']
@@ -19,6 +19,6 @@ df = df.groupby(['district_code', 'district_name', 'neighbourhood_code', 'neighb
 #pivot the data so that each academic level is a column
 df = df['number'].sum().unstack().reset_index()
 
-df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/neighbourhood/2022_academic_level_neighbourhood.csv', index=False)
+df.to_csv('../../data/Processed/neighbourhood/2022_academic_level_neighbourhood.csv', index=False)
 
 

@@ -14,7 +14,7 @@ df = df.dropna()
 #group by district
 #df = df.groupby(['district_name']).mean().reset_index()
 
-#df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/avg_rent_price_2021_district.csv', index=False)
+#df.to_csv('../../data/Processed/avg_rent_price_2021_district.csv', index=False)
 
 #plot the data
 # sns.set(style="whitegrid")
@@ -28,7 +28,7 @@ df = df.dropna()
 #groupy by neighbourhood
 df = df.groupby(['neighbourhood_name', 'district_name']).mean().reset_index()
 
-df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/avg_rent_price_2021_neighbourhood.csv', index=False)
+df.to_csv('../../data/Processed/avg_rent_price_2021_neighbourhood.csv', index=False)
 
 #plot the data
 sns.set(style="whitegrid")

@@ -76,6 +76,6 @@ def aggregate_per_neighbourhood(data_path, output_path, value_column, output_col
     ax.figure.savefig('{}_by_neighbourhood_top_10.png'.format(output_column))
 
 if __name__ == '__main__':
-    aggregate_per_district('/Users/pierreachkar/Downloads/neighborhood_finder/data/Population/2019_life_expt.csv', '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/district/2019_life_expt_district.csv', 'number', 'avg_life_expt', 'mean')
-    aggregate_per_neighbourhood('/Users/pierreachkar/Downloads/neighborhood_finder/data/Population/2019_life_expt.csv', '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/neighbourhood/2019_life_expt_neighbourhood.csv', 'number', 'avg_life_expt', 'mean')
+    aggregate_per_district('/data/Raw Data/Population/2019_life_expt.csv', '../../data/Processed/district/2019_life_expt_district.csv', 'number', 'avg_life_expt', 'mean')
+    aggregate_per_neighbourhood('/data/Raw Data/Population/2019_life_expt.csv', '../../data/Processed/neighbourhood/2019_life_expt_neighbourhood.csv', 'number', 'avg_life_expt', 'mean')
 

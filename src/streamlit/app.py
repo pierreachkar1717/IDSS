@@ -3,6 +3,8 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import geopandas as gpd
 import plotly.express as px
+import configparser
+import openai
 
 # Mapping each answer to numerical value
 mapping_dict= {
@@ -212,9 +214,6 @@ def process_dataframe(df, mapping_dict):
     df2.loc[df2['label_between_18_65'] == 1.0, 'label_between_18_65'] = 1.0
     df2.loc[df2['label_between_18_65'] == 0.0, 'label_between_18_65'] = 3.0
 
-    #df2.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/user_input/user_input.csv', index=False)
-    df2.to_csv('../../data/user_input/user_input.csv', index=False)
-
     return df2
 
 def find_similar_neighborhoods(questions_file, data_file):
@@ -256,7 +255,7 @@ def find_similar_neighborhoods(questions_file, data_file):
 
 def create_choropleth_map(geojson_file, df, column_name):
     """
-        Plots a choropleth map using plotly.
+        EDA a choropleth map using plotly.
 
         Parameters
         ----------
@@ -307,6 +306,25 @@ def create_choropleth_map(geojson_file, df, column_name):
     fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     st.plotly_chart(fig)
 
+def open_file(filepath):
+    with open(filepath, 'r', encoding='utf-8') as infile:
+        return infile.read()
+
+openai.api_key = open_file('../../openaiapikey.text')
+def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=400, freq_pen=0.0, pres_pen=0.0):
+    prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
+    response = openai.Completion.create(
+        engine=engine,
+        prompt=prompt,
+        temperature=temp,
+        max_tokens=tokens,
+        top_p=top_p,
+        frequency_penalty=freq_pen,
+        presence_penalty=pres_pen,
+        )
+    text = response['choices'][0]['text'].strip()
+    return text
+
 def generate_and_display_recommendations(df):
     """
        Generates and displays recommendations for neighborhoods based on the input dataframe.
@@ -327,6 +345,10 @@ def generate_and_display_recommendations(df):
     df_u = process_dataframe(df, mapping_dict)
     df_data = pd.read_csv('../../data/Processed/joined_data/labeled_num.csv')
 
+    #save user input to csv file
+    userid = df_u['user_id'].values[0]
+    df_u.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
+
     # recommend the neighbourhood
     df_rec = find_similar_neighborhoods(df_u, df_data)
 
@@ -336,6 +358,9 @@ def generate_and_display_recommendations(df):
 
     #rename
     df_res.rename(columns={'neighbourhood_name': 'Neighbourhood'}, inplace=True)
+
+    #save recommendation to csv file, with user id
+    df_res.to_csv('../../data/recommendations/recommendations_{}.csv'.format(userid), index=False)
 
     #  display the results
     st.markdown('## Your recommended neighbourhoods are:')
@@ -356,6 +381,24 @@ def generate_and_display_recommendations(df):
     geojson = gpd.read_file('../../data/barris.geojson')
 
     create_choropleth_map(geojson, df_res, name_mapping[option])
+
+
+
+    # st.markdown('## You can also get a detailed information of your recommended neighbourhoods:')
+    # checkbox_2 = st.checkbox("Yes Please!")
+    # if checkbox_2:
+    #     st.write('Please select the neighbourhood you want to get more details of:')
+    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+    #     prompt = f"""On the lookout for a new place to live in Barcelona I was recommended to move to this neighborhood {nei}.
+    #     Please give me a detailed description with lots of information about this neighborhood with some advantages and disadvantages it offers. (Please do not complete this Promp)"""
+    #     response = gpt3_completion(prompt)
+    #     st.write(response)
+    #
+    #     us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
+    #     prompt_2 = f"""regarding this neighborhood {nei}, I would like to know {us_input}.(Please do not complete this Prompt)"""
+    #     response_2 = gpt3_completion(prompt_2)
+    #     st.write(response_2)
+
 
 def questionary():
     """
@@ -476,7 +519,7 @@ def questionary():
     st.write("")
 
     #add checkbox to cpnfirm the form
-    checkbox = st.checkbox("I confirm that the information I have provided is true and accurate")
+    checkbox = st.checkbox("Submit")
 
     # store is a dataframe
     df = pd.DataFrame(columns=['user_id', 'How much do you care about neighbourhood safety?',
@@ -498,14 +541,13 @@ def questionary():
     # Answers
     df.loc[len(df)] = [f"{firstname}.{lastname}", q1, q2, q3, q45, q6, q789, q10, q11, q1213, q14, q15, q16, q17, q18, q1920]
 
-    # if button is clicked, don't show the questions anymore
-
     if checkbox:
         st.write('You have successfully submitted !')
         generate_and_display_recommendations(df)
         #st.write(df)
 
     return df
+
 
 def main():
     st.cache()
