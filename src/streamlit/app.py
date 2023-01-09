@@ -218,7 +218,7 @@ def process_dataframe(df, mapping_dict):
 
 def find_similar_neighborhoods(questions_file, data_file):
     """
-    Finds the 10 most similar neighborhoods to the questions file.
+    Finds the 5 most similar neighborhoods to the questions file.
 
     Parameters
     ----------
@@ -230,7 +230,7 @@ def find_similar_neighborhoods(questions_file, data_file):
     Returns
     -------
     pandas.DataFrame
-        A dataframe containing the 10 most similar neighborhoods, sorted by similarity.
+        A dataframe containing the 5 most similar neighborhoods, sorted by similarity.
     """
 
     df_q = questions_file
@@ -251,7 +251,7 @@ def find_similar_neighborhoods(questions_file, data_file):
     # sort
     df_data = df_data.sort_values(by=['similarity'], ascending=False)
 
-    return df_data.head(10)
+    return df_data.head(5)
 
 def create_choropleth_map(geojson_file, df, column_name):
     """
@@ -359,9 +359,9 @@ def get_neighbourhood_info(nei, us_input):
     :param us_input:
     :return: response
     '''
-    prompt_2 = f"""regarding this neighborhood {nei}, I would like to know {us_input}.(Please do not complete this Prompt)"""
-    response_2 = gpt3_completion(prompt_2)
-    return response_2
+    prompt = f"""regarding this neighborhood {nei}, I would like to know {us_input}."""
+    response = gpt3_completion(prompt)
+    return response
 
 def generate_and_display_recommendations(df):
     """
@@ -385,7 +385,7 @@ def generate_and_display_recommendations(df):
 
     #save user input to csv file
     userid = df_u['user_id'].values[0]
-    df_u.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
+    #df_u.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
 
     # recommend the neighbourhood
     df_rec = find_similar_neighborhoods(df_u, df_data)
@@ -410,36 +410,34 @@ def generate_and_display_recommendations(df):
 
     # Drop Down
     option = st.selectbox(
-        'Select the column you want to see in the map',
+        'Select the Information you want to see in the map',
         list(name_mapping.keys()), help=None, on_change=None, args=None, kwargs=None)
-
-    column_name = option
 
     # map
     geojson = gpd.read_file('../../data/barris.geojson')
 
     create_choropleth_map(geojson, df_res, name_mapping[option])
 
-    st.markdown('## You can also get more detailed information of your recommended neighbourhoods with the power of GPT:')
-    drop_down = st.selectbox(
-        'Please select one of the following options', ('Get detailed description of the neighbourhood','Ask a question about the neighbourhood'))
-    if drop_down == 'Get detailed description of the neighbourhood':
-        nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
-        description = get_neighbourhood_description(nei)
-        st.write(description)
-    elif drop_down == 'Ask a question about the neighbourhood':
-        nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
-        st.markdown('''
-            ## You can also ask any question you like about the recommended neighbourhoods:
-            Here are some examples of what you can ask:
-            - What are the advantages of living in the neighbourhood?
-            - What type of restaurants to find in the neighbourhood ?
-            - What kind of entertaiment can I find in the neighbourhood?
-        ''')
-        us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
-
-        info = get_neighbourhood_info(nei, us_input)
-        st.write(info)
+    # st.markdown('## You can also get more detailed information of your recommended neighbourhoods with the power of GPT:')
+    # drop_down = st.selectbox(
+    #     'Please select one of the following options', ('Get detailed description of the neighbourhood','Ask a question about the neighbourhood'))
+    # if drop_down == 'Get detailed description of the neighbourhood':
+    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+    #     description = get_neighbourhood_description(nei)
+    #     st.write(description)
+    # elif drop_down == 'Ask a question about the neighbourhood':
+    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+    #     st.markdown('''
+    #         ## You can also ask any question you like about the recommended neighbourhoods:
+    #         Here are some examples of what you can ask:
+    #         - What are the advantages of living in the neighbourhood?
+    #         - What type of restaurants to find in the neighbourhood ?
+    #         - What kind of entertaiment can I find in the neighbourhood?
+    #     ''')
+    #     us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
+    #
+    #     info = get_neighbourhood_info(nei, us_input)
+    #     st.write(info)
 
 
 def questionary():
@@ -583,9 +581,16 @@ def questionary():
     # Answers
     df.loc[len(df)] = [f"{firstname}.{lastname}", q1, q2, q3, q45, q6, q789, q10, q11, q1213, q14, q15, q16, q17, q18, q1920]
 
+
     if checkbox:
         st.write('You have successfully submitted !')
+        # Save the answers to a csv file
+        userid = df['user_id'].values[0]
+        df.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
+
         generate_and_display_recommendations(df)
+
+
 
     return df
 
