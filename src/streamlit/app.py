@@ -307,11 +307,27 @@ def create_choropleth_map(geojson_file, df, column_name):
     st.plotly_chart(fig)
 
 def open_file(filepath):
+    '''
+    to open the token file and return it as a string
+    :param filepath:
+    :return:
+    '''
     with open(filepath, 'r', encoding='utf-8') as infile:
         return infile.read()
 
 openai.api_key = open_file('../../openaiapikey.text')
 def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=400, freq_pen=0.0, pres_pen=0.0):
+    '''
+    to use the openai api to generate text
+    :param prompt:
+    :param engine:
+    :param temp:
+    :param top_p:
+    :param tokens:
+    :param freq_pen:
+    :param pres_pen:
+    :return: response
+    '''
     prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
     response = openai.Completion.create(
         engine=engine,
@@ -325,9 +341,31 @@ def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, toke
     text = response['choices'][0]['text'].strip()
     return text
 
+def get_neighbourhood_description(nei):
+    '''
+    to get the description of the neighbourhood
+    :param nei:
+    :return: response
+    '''
+    prompt = f"""On the lookout for a new place to live in Barcelona I was recommended to move to this neighborhood {nei}.
+    Please give me a detailed description with lots of information about this neighborhood with some advantages and disadvantages it offers. (Please do not complete this Promp)"""
+    response = gpt3_completion(prompt)
+    return response
+
+def get_neighbourhood_info(nei, us_input):
+    '''
+    to get the answer to the user question
+    :param nei:
+    :param us_input:
+    :return: response
+    '''
+    prompt_2 = f"""regarding this neighborhood {nei}, I would like to know {us_input}.(Please do not complete this Prompt)"""
+    response_2 = gpt3_completion(prompt_2)
+    return response_2
+
 def generate_and_display_recommendations(df):
     """
-       Generates and displays recommendations for neighborhoods based on the input dataframe.
+       Generates and displays recommendations for neighborhoods based on the input dataframe. Utilizes the GPT-3 API.
 
        Parameters
        ----------
@@ -382,22 +420,26 @@ def generate_and_display_recommendations(df):
 
     create_choropleth_map(geojson, df_res, name_mapping[option])
 
+    st.markdown('## You can also get more detailed information of your recommended neighbourhoods with the power of GPT:')
+    drop_down = st.selectbox(
+        'Please select one of the following options', ('Get detailed description of the neighbourhood','Ask a question about the neighbourhood'))
+    if drop_down == 'Get detailed description of the neighbourhood':
+        nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+        description = get_neighbourhood_description(nei)
+        st.write(description)
+    elif drop_down == 'Ask a question about the neighbourhood':
+        nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+        st.markdown('''
+            ## You can also ask any question you like about the recommended neighbourhoods:
+            Here are some examples of what you can ask:
+            - What are the advantages of living in the neighbourhood?
+            - What type of restaurants to find in the neighbourhood ?
+            - What kind of entertaiment can I find in the neighbourhood?
+        ''')
+        us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
 
-
-    # st.markdown('## You can also get a detailed information of your recommended neighbourhoods:')
-    # checkbox_2 = st.checkbox("Yes Please!")
-    # if checkbox_2:
-    #     st.write('Please select the neighbourhood you want to get more details of:')
-    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
-    #     prompt = f"""On the lookout for a new place to live in Barcelona I was recommended to move to this neighborhood {nei}.
-    #     Please give me a detailed description with lots of information about this neighborhood with some advantages and disadvantages it offers. (Please do not complete this Promp)"""
-    #     response = gpt3_completion(prompt)
-    #     st.write(response)
-    #
-    #     us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
-    #     prompt_2 = f"""regarding this neighborhood {nei}, I would like to know {us_input}.(Please do not complete this Prompt)"""
-    #     response_2 = gpt3_completion(prompt_2)
-    #     st.write(response_2)
+        info = get_neighbourhood_info(nei, us_input)
+        st.write(info)
 
 
 def questionary():
@@ -544,7 +586,6 @@ def questionary():
     if checkbox:
         st.write('You have successfully submitted !')
         generate_and_display_recommendations(df)
-        #st.write(df)
 
     return df
 
