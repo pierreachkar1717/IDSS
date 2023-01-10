@@ -311,4 +311,4 @@ def get_label_temporary_exhibitions(value):
 #df['label_temporary_exhibitions'] = df['label_temporary_exhibitions'].apply(get_label_temporary_exhibitions)
 
 # save the data
-#df.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_cat.csv', index=False)
+#df.to_csv('../../data/Processed/joined_data/labeled_cat.csv', index=False)

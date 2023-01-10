@@ -92,6 +92,6 @@ def cluster_and_plot(data, columns, n_clusters, output_file_name):
     plt.xlabel('Neighbourhood')
     plt.ylabel('Number of data points')
     plt.title('Number of data points per neighbourhood per cluster')
-    plt.savefig('../../data/Processed/clustering/Plots/clusters_{}.png'.format(output_file_name))
+    plt.savefig('../../data/Processed/clustering/EDA/clusters_{}.png'.format(output_file_name))
 
 

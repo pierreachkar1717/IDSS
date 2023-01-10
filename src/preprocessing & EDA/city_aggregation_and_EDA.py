@@ -63,8 +63,8 @@ def aggregate_by_neighbourhood(data_path, output_path, column):
 
 
 if __name__ == '__main__':
-    aggregate_by_district('/Users/pierreachkar/Downloads/neighborhood_finder/data/City/music_drinks.csv',
-                          '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/district/music_drinks.csv', 'music_drinks')
-    aggregate_by_neighbourhood('/Users/pierreachkar/Downloads/neighborhood_finder/data/City/music_drinks.csv',
-                               '/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/neighbourhood/music_drinks.csv', 'music_drinks')
+    aggregate_by_district('/data/Raw Data/City/music_drinks.csv',
+                          '../../data/Processed/district/music_drinks.csv', 'music_drinks')
+    aggregate_by_neighbourhood('/data/Raw Data/City/music_drinks.csv',
+                               '../../data/Processed/neighbourhood/music_drinks.csv', 'music_drinks')
 

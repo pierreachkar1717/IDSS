@@ -1,8 +1,10 @@
 import streamlit as st
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
-import json
 import geopandas as gpd
+import plotly.express as px
+import configparser
+import openai
 
 # Mapping each answer to numerical value
 mapping_dict= {
@@ -26,8 +28,8 @@ mapping_dict= {
         "Prefer a very crowded neighborhood": 7.0
     },
     "Would you like to stay in a neighbourhood with a lot of students?": {
-        "no": 0.0,
-        "yes": 1.0
+        "No": 0.0,
+        "Yes": 1.0
     },
     "How important is the availability of public transportation in the neighborhood to you?": {
         "Not important at all": 0.0,
@@ -80,12 +82,12 @@ mapping_dict= {
         "Very much appreciate": 3.0
     },
     "How much are you planning to spend on rent?": {
-        "(550-690)": 0.0,
-        "(690-820)": 1.0,
-        "(820-920)": 2.0,
-        "(920-1200)": 3.0,
-        "(1200-1500)": 4.0,
-        "(1500-2000)": 5.0
+        "550-690€": 0.0,
+        "690-820€": 1.0,
+        "820-920€": 2.0,
+        "920-1200€": 3.0,
+        "1200-1500€": 4.0,
+        "1500-2000€": 5.0
       },
     "Do you like to exercise outdoors?": {
         "No, Do not like to exercise outdoors": 0.0,
@@ -117,7 +119,7 @@ name_mapping = {
     'Accidents': 'accidents',
     'Average occupation per household': 'average_occupation_per_household',
     'Number of people above 65': 'above_65t',
-    'Number of people between 18-64': 'between_18_65',
+    'Number of people between 18-64': 'between_18_64',
     'Bus stops': 'bus_stops',
     'Transportation': 'transportation',
     'Number of children play areas': 'children_play_areas',
@@ -136,6 +138,22 @@ name_mapping = {
 }
 
 def process_dataframe(df, mapping_dict):
+    """
+       Processes a dataframe and returns a modified dataframe.
+
+       Parameters
+       ----------
+       df : pandas.DataFrame
+           The dataframe to be processed.
+       mapping_dict : dict
+           A dictionary containing mappings to be applied to the dataframe.
+
+       Returns
+       -------
+       pandas.DataFrame
+           The modified dataframe.
+       """
+
     # Apply Mapping
     df = df.replace(mapping_dict)
 
@@ -196,62 +214,87 @@ def process_dataframe(df, mapping_dict):
     df2.loc[df2['label_between_18_65'] == 1.0, 'label_between_18_65'] = 1.0
     df2.loc[df2['label_between_18_65'] == 0.0, 'label_between_18_65'] = 3.0
 
-    #df2.to_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/user_input/user_input.csv', index=False)
-    df2.to_csv('../../data/user_input/user_input.csv', index=False)
-
     return df2
 
 def find_similar_neighborhoods(questions_file, data_file):
-  df_q = questions_file
-  df_data = data_file
+    """
+    Finds the 5 most similar neighborhoods to the questions file.
 
-  # use neighborhood_code as index
-  df_data = df_data.set_index('neighbourhood_code')
+    Parameters
+    ----------
+    questions_file : pandas.DataFrame
+        A dataframe containing questions.
+    data_file : pandas.DataFrame
+        A dataframe containing data about neighborhoods.
 
-  # drop the columns that are not needed
-  df_data = df_data.drop(['district_code', 'district_name', 'neighbourhood_name'], axis=1)
+    Returns
+    -------
+    pandas.DataFrame
+        A dataframe containing the 5 most similar neighborhoods, sorted by similarity.
+    """
 
-  # use user_name as index
-  df_q = df_q.set_index('user_id')
+    df_q = questions_file
+    df_data = data_file
 
-  # calculate the cosine similarity and store it in a new column in df_data
-  df_data['similarity'] = cosine_similarity(df_data, df_q)
+    # neighborhood_code as index
+    df_data = df_data.set_index('neighbourhood_code')
 
-  # sort the dataframe by similarity
-  df_data = df_data.sort_values(by=['similarity'], ascending=False)
+    # drop columns
+    df_data = df_data.drop(['district_code', 'district_name', 'neighbourhood_name'], axis=1)
 
-  # save the top 10 results
-  #df_data.head(10).to_csv(output_file, index=True)
+    # user_name as index
+    df_q = df_q.set_index('user_id')
 
-  return df_data.head(10)
+    # Cosine similarity
+    df_data['similarity'] = cosine_similarity(df_data, df_q)
 
-import geopandas as gpd
-import plotly.express as px
+    # sort
+    df_data = df_data.sort_values(by=['similarity'], ascending=False)
+
+    return df_data.head(5)
 
 def create_choropleth_map(geojson_file, df, column_name):
-  # read the geojson file with geopandas
-  gdf = geojson_file
+    """
+        EDA a choropleth map using plotly.
 
-  # if DISTRICTE or BARRI values start with 0, remove the 0
-  gdf['BARRI'] = gdf['BARRI'].str.lstrip('0')
-  gdf['DISTRICTE'] = gdf['DISTRICTE'].str.lstrip('0')
+        Parameters
+        ----------
+        geojson_file : geopandas.GeoDataFrame
+            A geojson file containing geographic data.
+        df : pandas.DataFrame
+            A dataframe containing data to be plotted on the map.
+        column_name : str
+            The name of the column in the dataframe to be plotted on the map.
 
-  # read the csv file
-  df = df
+        Returns
+        -------
+        plotly.graph_objects.Figure
+            The plotly figure object for the choropleth map.
+        """
 
-  # convert the district_code and neighbourhood_code to string
-  df['district_code'] = df['district_code'].astype(str)
-  df['neighbourhood_code'] = df['neighbourhood_code'].astype(str)
+    # Geo Data
+    gdf = geojson_file
 
-  # merge the two dataframes on district_code and neighbourhood_code from df and DISTRICTE and BARRI from gdf
-  merged = gdf.merge(df, left_on=['DISTRICTE', 'BARRI'], right_on=['district_code', 'neighbourhood_code'], how='outer')
+    # Remove leading 0
+    gdf['BARRI'] = gdf['BARRI'].str.lstrip('0')
+    gdf['DISTRICTE'] = gdf['DISTRICTE'].str.lstrip('0')
 
-  # define min max for the legend
-  min_value = merged[column_name].min()
-  max_value = merged[column_name].max()
+    # Data
+    df = df
 
-  # create map with plotly
-  fig = px.choropleth_mapbox(merged, geojson=merged.geometry, locations=merged.index, color=column_name,
+    # convert to string
+    df['district_code'] = df['district_code'].astype(str)
+    df['neighbourhood_code'] = df['neighbourhood_code'].astype(str)
+
+    # merge the two dataframes
+    merged = gdf.merge(df, left_on=['DISTRICTE', 'BARRI'], right_on=['district_code', 'neighbourhood_code'], how='outer')
+
+    # define min max for the legend
+    min_value = merged[column_name].min()
+    max_value = merged[column_name].max()
+
+    # Map
+    fig = px.choropleth_mapbox(merged, geojson=merged.geometry, locations=merged.index, color=column_name,
                               color_continuous_scale="Viridis",
                               range_color=(min_value, max_value),
                               mapbox_style="carto-positron",
@@ -260,10 +303,156 @@ def create_choropleth_map(geojson_file, df, column_name):
                               # add neighborhood name to hover data
                               hover_data={column_name: True, 'Neighbourhood': True}
                               )
-  fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
-  st.plotly_chart(fig)
+    fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+    st.plotly_chart(fig)
+
+def open_file(filepath):
+    '''
+    to open the token file and return it as a string
+    :param filepath:
+    :return:
+    '''
+    with open(filepath, 'r', encoding='utf-8') as infile:
+        return infile.read()
+
+openai.api_key = open_file('../../openaiapikey.text')
+def gpt3_completion(prompt, engine='text-davinci-002', temp=0.7, top_p=1.0, tokens=400, freq_pen=0.0, pres_pen=0.0):
+    '''
+    to use the openai api to generate text
+    :param prompt:
+    :param engine:
+    :param temp:
+    :param top_p:
+    :param tokens:
+    :param freq_pen:
+    :param pres_pen:
+    :return: response
+    '''
+    prompt = prompt.encode(encoding='ASCII',errors='ignore').decode()
+    response = openai.Completion.create(
+        engine=engine,
+        prompt=prompt,
+        temperature=temp,
+        max_tokens=tokens,
+        top_p=top_p,
+        frequency_penalty=freq_pen,
+        presence_penalty=pres_pen,
+        )
+    text = response['choices'][0]['text'].strip()
+    return text
+
+def get_neighbourhood_description(nei):
+    '''
+    to get the description of the neighbourhood
+    :param nei:
+    :return: response
+    '''
+    prompt = f"""On the lookout for a new place to live in Barcelona I was recommended to move to this neighborhood {nei}.
+    Please give me a detailed description with lots of information about this neighborhood with some advantages and disadvantages it offers. (Please do not complete this Promp)"""
+    response = gpt3_completion(prompt)
+    return response
+
+def get_neighbourhood_info(nei, us_input):
+    '''
+    to get the answer to the user question
+    :param nei:
+    :param us_input:
+    :return: response
+    '''
+    prompt = f"""regarding this neighborhood {nei}, I would like to know {us_input}."""
+    response = gpt3_completion(prompt)
+    return response
+
+def generate_and_display_recommendations(df):
+    """
+       Generates and displays recommendations for neighborhoods based on the input dataframe. Utilizes the GPT-3 API.
+
+       Parameters
+       ----------
+       df : pandas.DataFrame
+           A dataframe containing input data.
+       mapping_dict : dict
+           A dictionary containing mappings to be applied to the input data.
+
+       Returns
+       -------
+       None
+       """
+
+    # map the user input
+    df_u = process_dataframe(df, mapping_dict)
+    df_data = pd.read_csv('../../data/Processed/joined_data/labeled_num.csv')
+
+    #save user input to csv file
+    userid = df_u['user_id'].values[0]
+    #df_u.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
+
+    # recommend the neighbourhood
+    df_rec = find_similar_neighborhoods(df_u, df_data)
+
+    # merge the recommendation with the original data
+    df_all_data = pd.read_csv('../../data/Processed/joined_data/final_table_all_info.csv')
+    df_res = pd.merge(df_rec, df_all_data, on=['neighbourhood_code'], how='left')
+
+    #rename
+    df_res.rename(columns={'neighbourhood_name': 'Neighbourhood'}, inplace=True)
+
+    #save recommendation to csv file, with user id
+    df_res.to_csv('../../data/recommendations/recommendations_{}.csv'.format(userid), index=False)
+
+    #  display the results
+    st.markdown('## Your recommended neighbourhoods are:')
+
+    # write the Neighbourhood column as a table
+    st.table(df_res['Neighbourhood'])
+
+    st.markdown('## Here is a map with details about your recommended neighbourhoods:')
+
+    # Drop Down
+    option = st.selectbox(
+        'Select the Information you want to see in the map',
+        list(name_mapping.keys()), help=None, on_change=None, args=None, kwargs=None)
+
+    # map
+    geojson = gpd.read_file('../../data/barris.geojson')
+
+    create_choropleth_map(geojson, df_res, name_mapping[option])
+
+    # st.markdown('## You can also get more detailed information of your recommended neighbourhoods with the power of GPT:')
+    # drop_down = st.selectbox(
+    #     'Please select one of the following options', ('Get detailed description of the neighbourhood','Ask a question about the neighbourhood'))
+    # if drop_down == 'Get detailed description of the neighbourhood':
+    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+    #     description = get_neighbourhood_description(nei)
+    #     st.write(description)
+    # elif drop_down == 'Ask a question about the neighbourhood':
+    #     nei = st.selectbox('Select a neighborhood', df_res['Neighbourhood'].unique())
+    #     st.markdown('''
+    #         ## You can also ask any question you like about the recommended neighbourhoods:
+    #         Here are some examples of what you can ask:
+    #         - What are the advantages of living in the neighbourhood?
+    #         - What type of restaurants to find in the neighbourhood ?
+    #         - What kind of entertaiment can I find in the neighbourhood?
+    #     ''')
+    #     us_input = st.text_input('Please write what would you like to know about the neighbourhood', value='')
+    #
+    #     info = get_neighbourhood_info(nei, us_input)
+    #     st.write(info)
+
 
 def questionary():
+    """
+       Displays a form for the user to fill out in order to receive recommendations for neighborhoods.
+
+       Parameters
+       ----------
+       None
+
+       Returns
+       -------
+       None
+       """
+
     st.title(" Forms to find the best neighborhood for you")
    
     # Create an account
@@ -271,6 +460,7 @@ def questionary():
     st.markdown(original_title, unsafe_allow_html=True)
     firstname = st.text_input("Firstname")
     lastname = st.text_input("Lastname")
+
         
     original_title = '<p style="font-family:sans-serif; color:White; font-size: 30px;">Main Form</p>'
     st.markdown(original_title, unsafe_allow_html=True)
@@ -291,7 +481,7 @@ def questionary():
     st.subheader("Would you like to stay in a neighbourhood with a lot of students? ")
     q3 = st.radio(
         "",
-        ('no', 'yes'), key=3)
+        ('No', 'Yes'), key=3)
     
     st.write("") 
     st.subheader("How important is the availability of public transportation in the neighborhood to you? ")
@@ -340,7 +530,7 @@ def questionary():
     st.subheader("How much are you planning to spend on rent?")
     q15 = st.radio(
         "",
-        ('(550-690)', '(690-820)', '(820-920)', '(920-1200)', '(1200-1500)', '(1500-2000)'), key=15)
+        ('550-690€', '690-820€', '820-920€', '920-1200€', '1200-1500€', '(1500-2000€)'), key=15)
 
     st.write("") 
     st.subheader("Do you like to exercise outdoors?")
@@ -366,8 +556,10 @@ def questionary():
         "",
         ('mostly young people', 'mixed', 'mostly older people'), key=19)
     
-    st.write("") 
-    button = st.button(label='SEND')
+    st.write("")
+
+    #add checkbox to cpnfirm the form
+    checkbox = st.checkbox("Submit")
 
     # store is a dataframe
     df = pd.DataFrame(columns=['user_id', 'How much do you care about neighbourhood safety?',
@@ -389,111 +581,33 @@ def questionary():
     # Answers
     df.loc[len(df)] = [f"{firstname}.{lastname}", q1, q2, q3, q45, q6, q789, q10, q11, q1213, q14, q15, q16, q17, q18, q1920]
 
-    if button:
-      st.write('You have successfully submitted !')
-      generate_and_display_recommendations(df)
-      #st.write(df)
+
+    if checkbox:
+        st.write('You have successfully submitted !')
+        # Save the answers to a csv file
+        userid = df['user_id'].values[0]
+        df.to_csv('../../data/recommendations/user_input_{}.csv'.format(userid), index=False)
+
+        generate_and_display_recommendations(df)
+
+
 
     return df
 
-      # # map the user input & save to csv
-      # df_u = process_dataframe(df, mapping_dict)
-      # df_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_num.csv')
-      #
-      # # recommend the neighbourhood
-      # df_rec = find_similar_neighborhoods(df_u, df_data)
-      #
-      # # merge the recommendation with the original data
-      # df_all_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_all_info.csv')
-      # df_res = pd.merge(df_rec, df_all_data, on=['neighbourhood_code'], how='left')
-      #
-      # #rename the column neighbourhood_name to Neighbourhood
-      # df_res.rename(columns={'neighbourhood_name': 'Neighbourhood'}, inplace=True)
-      #
-      # #  display the results
-      # st.write('Your recommended neighbourhoods are:')
-      #
-      # # write the Neighbourhood column as a table
-      # st.table(df_res['Neighbourhood'])
-      #
-      # # write a text and then drop menue to choose the column
-      # st.write('You can also see the results with more details in a map:')
-      #
-      #   #drop menue to choose the column (map the names in the drop down to the names in the dataframe)
-      #   # option = st.selectbox(
-      #   #     'Select the column you want to see in the map',
-      #   #     ('accidents', 'average_occupation_per_household', 'above_65t', 'between_18_64', 'bus_stops'
-      #   #      'transportation', 'children_play_areas', 'cinema_theatre_concerts', 'culture_leisure_spaces',
-      #   #      'library_studyroom_museum_spaces', 'sport_facilities', 'tourists_points',
-      #   #      'street_markets_and_fairs', 'rent_price', 'hotels', 'spaces_for_exercising', 'parks_gardens',
-      #   #      'number_of_museums_and_exhibitions', 'music_drinks'))
-      #
-      # option = st.selectbox(
-      #       'Select the column you want to see in the map',
-      #       list(name_mapping.keys())
-      # )
-      #
-      # # column name is the result of the drop menue
-      # column_name = option
-      #
-      # # map
-      # geojson = gpd.read_file('/Users/pierreachkar/Downloads/neighborhood_finder/data/barris.geojson')
-      # create_choropleth_map(geojson, df_res, name_mapping[option])
-
-def generate_and_display_recommendations(df):
-    # map the user input & save to csv
-    df_u = process_dataframe(df, mapping_dict)
-    #df_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/labeled_num.csv')
-    df_data = pd.read_csv('../../data/Processed/joined_data/labeled_num.csv')
-
-    # recommend the neighbourhood
-    df_rec = find_similar_neighborhoods(df_u, df_data)
-
-    # merge the recommendation with the original data
-    #df_all_data = pd.read_csv('/Users/pierreachkar/Downloads/neighborhood_finder/data/Processed/joined_data/final_table_all_info.csv')
-    df_all_data = pd.read_csv('../../data/Processed/joined_data/final_table_all_info.csv')
-    df_res = pd.merge(df_rec, df_all_data, on=['neighbourhood_code'], how='left')
-
-    #rename the column neighbourhood_name to Neighbourhood
-    df_res.rename(columns={'neighbourhood_name': 'Neighbourhood'}, inplace=True)
-
-    #  display the results
-    st.write('Your recommended neighbourhoods are:')
-
-    # write the Neighbourhood column as a table
-    st.table(df_res['Neighbourhood'])
-
-    # write a text and then drop menue to choose the column
-    st.write('You can also see the results with more details in a map:')
-
-    #drop menue to choose the column (map the names in the drop down to the names in the dataframe)
-    # option = st.selectbox(
-    #     'Select the column you want to see in the map',
-    #     ('accidents', 'average_occupation_per_household', 'above_65t', 'between_18_64', 'bus_stops'
-    #      'transportation', 'children_play_areas', 'cinema_theatre_concerts', 'culture_leisure_spaces',
-    #      'library_studyroom_museum_spaces', 'sport_facilities', 'tourists_points',
-    #      'street_markets_and_fairs', 'rent_price', 'hotels', 'spaces_for_exercising', 'parks_gardens',
-    #      'number_of_museums_and_exhibitions', 'music_drinks'))
-
-    option = st.selectbox(
-        'Select the column you want to see in the map',
-        list(name_mapping.keys())
-    )
-
-    # column name is the result of the drop menue
-    column_name = option
-
-    # map
-    #geojson = gpd.read_file('/Users/pierreachkar/Downloads/neighborhood_finder/data/barris.geojson')
-    geojson = gpd.read_file('../../data/barris.geojson')
-
-    create_choropleth_map(geojson, df_res, name_mapping[option])
 
 def main():
-    st.title('Neighbourhood Finder')
-    st.write('Please fill in the following information to get your recommended neighbourhoods:')
-    df = questionary()
-    #generate_and_display_recommendations(df)
+    st.cache()
+    st.markdown(
+        """
+        # Welcome to our Neighborhood Finder Application!
+
+        To receive recommendations, please fill out the questionnaire below. 
+
+        **Please Note:** Based on your preferences, we will do our best to find the most suitable neighborhood for you. However, it is possible that not all of the characteristics you desire may be present in a single neighborhood.
+        """
+    )
+    questionary()
+
 
 if __name__ == '__main__':
     main()
