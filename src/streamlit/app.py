@@ -69,7 +69,7 @@ mapping_dict= {
     },
     "How much does the level of tourism in the neighborhood matter to you?": {
         "Very important, do not want tourists in neighborhood": 0.0,
-        "Important, do not want tourists in neighborhood": 1.0,
+        "Important": 1.0,
         "Mildly important": 2.0,
         "Somewhat important": 3.0,
         "Not important": 4.0,
@@ -518,7 +518,7 @@ def questionary():
     st.subheader("How much does the level of tourism in the neighborhood matter to you?")
     q1213 = st.radio(
         "",
-        ('Very important, do not want tourists in neighborhood', 'Important, do not want tourists in neighborhood', 'Mildly important', 'Somewhat important', 'Not important', 'Not at all important'), key=12)
+        ('Very important, do not want tourists in neighborhood', 'Important', 'Mildly important', 'Somewhat important', 'Not important', 'Not at all important'), key=12)
 
     st.write("") 
     st.subheader("Do you appreciate having open-air street markets and fairs in your neighborhood?")
@@ -530,7 +530,7 @@ def questionary():
     st.subheader("How much are you planning to spend on rent?")
     q15 = st.radio(
         "",
-        ('550-690€', '690-820€', '820-920€', '920-1200€', '1200-1500€', '(1500-2000€)'), key=15)
+        ('550-690€', '690-820€', '820-920€', '920-1200€', '1200-1500€', '1500-2000€'), key=15)
 
     st.write("") 
     st.subheader("Do you like to exercise outdoors?")
