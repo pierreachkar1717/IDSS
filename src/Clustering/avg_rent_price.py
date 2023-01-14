@@ -5,16 +5,16 @@ import pandas as pd
 ## Each step should be done separately, so comment the other functions out when running one of them.
 
 # Load your data into a pandas DataFrame
-#df = pd.read_csv('../../data/Processed/neighbourhood/2022_2_rent_price.csv', sep=';')
+df = pd.read_csv('../../data/Processed/neighbourhood/2022_2_rent_price.csv', sep=';')
 
 #drop missing values in preis column
-#df.dropna(subset=['preis'], inplace=True)
+df.dropna(subset=['preis'], inplace=True)
 
 #rename column preis to rent_price
-#df.rename(columns={'preis': 'rent_price'}, inplace=True)
+df.rename(columns={'preis': 'rent_price'}, inplace=True)
 
 # Choose the column/columns in your data that you want to use for clustering
-#cols = ['rent_price']
+cols = ['rent_price']
 
 # First: Call the optimal_clusters_number function to determine the optimal number of clusters for your data
 # Decide on the best number of clusters for your data by considering both plots
@@ -26,7 +26,7 @@ import pandas as pd
 #optimal_clusters_number(df, cols, 20)
 
 # Second: Call the cluster_and_plot function to cluster your data and plot the results
-#cluster_and_plot(df, cols, 6, 'rent_price')
+cluster_and_plot(df, cols, 6, 'rent_price')
 
 # Third: Load the resulting csv file into a new pandas DataFrame and add a new column to the DataFrame
 # This column will contain numerical values describing the cluster label for each data point.

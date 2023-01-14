@@ -20,7 +20,7 @@ cols = ['elementary_highschool_bachelorsdegree', 'no_studies', 'primarystudies_s
 #optimal_clusters_number(df, cols, 20)
 
 # Second: Call the cluster_and_plot function to cluster your data and plot the results
-#cluster_and_plot(df, cols, 2, 'academic_level')
+cluster_and_plot(df, cols, 2, 'academic_level')
 
 # Third: Load the resulting csv file into a new pandas DataFrame and add a new column to the DataFrame
 # This column will contain numerical values describing the cluster label for each data point.

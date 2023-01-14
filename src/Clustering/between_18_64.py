@@ -8,7 +8,7 @@ import pandas as pd
 df = pd.read_csv('../../data/Processed/neighbourhood/2022_between_18_64_neighbourhood.csv')
 
 # Choose the column/columns in your data that you want to use for clustering
-#cols = ['between_18_64']
+cols = ['between_18_64']
 
 # First: Call the optimal_clusters_number function to determine the optimal number of clusters for your data
 # Decide on the best number of clusters for your data by considering both plots
@@ -20,7 +20,7 @@ df = pd.read_csv('../../data/Processed/neighbourhood/2022_between_18_64_neighbou
 #optimal_clusters_number(df, cols, 20)
 
 # Second: Call the cluster_and_plot function to cluster your data and plot the results
-#cluster_and_plot(df, cols, 4, 'between_18_64')
+cluster_and_plot(df, cols, 4, 'between_18_64')
 
 # Third: Load the resulting csv file into a new pandas DataFrame and add a new column to the DataFrame
 # This column will contain numerical values describing the cluster label for each data point.

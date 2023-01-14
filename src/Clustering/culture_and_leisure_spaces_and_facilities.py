@@ -20,16 +20,16 @@ cols = ['culture_leisure_spaces']
 #optimal_clusters_number(df, cols, 20) # 2/3 clusters
 
 # Second: Call the cluster_and_plot function to cluster your data and plot the results
-#cluster_and_plot(df, cols, 3, 'culture_leisure_spaces')
+cluster_and_plot(df, cols, 3, 'culture_leisure_spaces')
 
 # Third: Load the resulting csv file into a new pandas DataFrame and add a new column to the DataFrame
 # This column will contain numerical values describing the cluster label for each data point.
-df = pd.read_csv('../../data/Processed/clustering/clustered_culture_leisure_spaces.csv')
+#df = pd.read_csv('../../data/Processed/clustering/clustered_culture_leisure_spaces.csv')
 
 # Here 0 means low, 1 means medium and 2 means high
-df['label'] = df['cluster'].map({0: 0, 1: 1, 2: 2})
+#df['label'] = df['cluster'].map({0: 0, 1: 1, 2: 2})
 
 # Or we can still consider adding categorical values to the label column
 #df['label_cat'] = df['cluster'].map({0: 'medium_number_library_studyroom', 1: 'high_number_library_studyroom', 2: 'low_number_library_studyroom'})
 
-df.to_csv('../../data/Processed/clustering/labled/labeled_culture_leisure_spaces.csv', index=False)
+#df.to_csv('../../data/Processed/clustering/labled/labeled_culture_leisure_spaces.csv', index=False)

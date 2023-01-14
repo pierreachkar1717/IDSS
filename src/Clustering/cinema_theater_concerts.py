@@ -17,10 +17,10 @@ cols = ['cinema_theater_concerts']
 # If the two plots do not agree on the same number of clusters, you need to find a compromise solution by selecting a number of clusters
 # that is recommended by the elbow method plot and also has a relatively high silhouette score
 
-optimal_clusters_number(df, cols, 20)
+#optimal_clusters_number(df, cols, 20)
 
 # Second: Call the cluster_and_plot function to cluster your data and plot the results
-#cluster_and_plot(df, cols, 2, 'cinema_theater_concerts')
+cluster_and_plot(df, cols, 2, 'cinema_theater_concerts')
 
 # Third: Load the resulting csv file into a new pandas DataFrame and add a new column to the DataFrame
 # This column will contain numerical values describing the cluster label for each data point.

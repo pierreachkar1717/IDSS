@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import geopandas as gpd
 import plotly.express as px
-import configparser
 import openai
 
 # Mapping each answer to numerical value

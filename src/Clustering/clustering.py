@@ -85,13 +85,13 @@ def cluster_and_plot(data, columns, n_clusters, output_file_name):
         data = data.drop(columns='clusters')
     data.to_csv('../../data/Processed/clustering/clustered_{}.csv'.format(output_file_name), index=False)
 
-    # plot the data 
-    sns.set(rc={'figure.figsize':(11.7,8.27)})
-    sns.countplot(x='neighbourhood_name', hue='cluster', data=data)
-    plt.xticks(rotation=90)
-    plt.xlabel('Neighbourhood')
+    # plot the name of clusters on x axis and the number of data points in each cluster on y axis in a histogram
+    sns.countplot(x='cluster', data=data)
+    plt.xlabel('Cluster')
     plt.ylabel('Number of data points')
-    plt.title('Number of data points per neighbourhood per cluster')
-    plt.savefig('../../data/Processed/clustering/EDA/clusters_{}.png'.format(output_file_name))
+    plt.title('Number of data points per cluster - {}'.format(output_file_name))
+    plt.savefig('../../data/Processed/clustering/Plots/clustered_{}_histogram.png'.format(output_file_name))
+
+
 
 
